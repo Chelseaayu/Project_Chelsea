@@ -1,0 +1,5656 @@
+name,fuel,City,Jumlah Mobil
+Ambassador,0,Anacortes,1
+Ambassador,0,Arlington,1
+Ambassador,0,Lafayette,1
+Ambassador,0,Peachtree City,1
+Ashok,0,Jacksonville,1
+Audi,0,Albemarle,1
+Audi,0,Albuquerque,1
+Audi,0,Asheville,1
+Audi,0,Atlanta,2
+Audi,0,Bedford,1
+Audi,0,Boston,1
+Audi,0,Carpentersville,1
+Audi,0,Casselberry,1
+Audi,0,Cedar Hill,1
+Audi,0,Chandler,1
+Audi,0,Coachella,1
+Audi,0,Darien,1
+Audi,0,Fountain,1
+Audi,0,Hobart,2
+Audi,0,Jackson,1
+Audi,0,Lafayette,1
+Audi,0,Lawrence,1
+Audi,0,Los Angeles,1
+Audi,0,Oak Park,1
+Audi,0,Olathe,1
+Audi,0,Ossining,1
+Audi,0,Palmer,1
+Audi,0,Pekin,1
+Audi,0,Pembroke Pines,1
+Audi,0,Pennsauken,1
+Audi,0,Pocatello,1
+Audi,0,Portland,1
+Audi,0,Prescott Valley,1
+Audi,0,Seattle,1
+Audi,0,Texarkana,1
+Audi,0,The Colony,1
+Audi,0,Waco,2
+Audi,1,Saint Louis,1
+Audi,1,Saint Peters,2
+Audi,1,Van Buren,1
+Audi,1,West Hollywood,1
+BMW,0,Albemarle,1
+BMW,0,Alexandria,2
+BMW,0,American Fork,2
+BMW,0,Ankeny,1
+BMW,0,Apple Valley,2
+BMW,0,Beaverton,1
+BMW,0,Boston,1
+BMW,0,Brentwood,1
+BMW,0,Burton,1
+BMW,0,Butte,1
+BMW,0,Caldwell,1
+BMW,0,Catonsville,1
+BMW,0,Cedar Falls,1
+BMW,0,Cheyenne,1
+BMW,0,Chicago,1
+BMW,0,Cleveland,1
+BMW,0,Cleveland Heights,1
+BMW,0,Cliffside Park,1
+BMW,0,Cloverleaf,1
+BMW,0,Coachella,1
+BMW,0,Colorado Springs,1
+BMW,0,Conway,1
+BMW,0,Country Club Hills,1
+BMW,0,Denton,1
+BMW,0,Des Plaines,1
+BMW,0,Douglasville,2
+BMW,0,Duncanville,2
+BMW,0,Dundalk,1
+BMW,0,Edgewood,1
+BMW,0,Elk Grove Village,1
+BMW,0,Elk Plain,1
+BMW,0,Enterprise,1
+BMW,0,Essex Junction,1
+BMW,0,Euclid,1
+BMW,0,Fort Wayne,1
+BMW,0,Gainesville,1
+BMW,0,Gary,1
+BMW,0,Goldsboro,1
+BMW,0,Goleta,1
+BMW,0,Grand Junction,1
+BMW,0,Greensboro,1
+BMW,0,Groton,1
+BMW,0,Hickory,1
+BMW,0,High Point,1
+BMW,0,Holland,1
+BMW,0,Homewood,1
+BMW,0,Ithaca,1
+BMW,0,Jackson,1
+BMW,0,Kalispell,1
+BMW,0,Kearney,1
+BMW,0,Kearns,1
+BMW,0,Lake Oswego,1
+BMW,0,Layton,1
+BMW,0,Littleton,2
+BMW,0,Los Angeles,2
+BMW,0,Lubbock,1
+BMW,0,Lufkin,1
+BMW,0,Madison,2
+BMW,0,Manchester,1
+BMW,0,Mankato,1
+BMW,0,Maple Grove,1
+BMW,0,Maryville,1
+BMW,0,Medford,1
+BMW,0,Miami,3
+BMW,0,Michigan City,1
+BMW,0,Nampa,1
+BMW,0,New Orleans,1
+BMW,0,New York City,1
+BMW,0,Newark,1
+BMW,0,North Little Rock,2
+BMW,0,North Port,1
+BMW,0,Oak Park,1
+BMW,0,Oakton,1
+BMW,0,Odenton,1
+BMW,0,Palm Beach Gardens,1
+BMW,0,Pine Bluff,1
+BMW,0,Plainview,1
+BMW,0,Pontiac,1
+BMW,0,Prattville,2
+BMW,0,Reno,1
+BMW,0,Riverview,1
+BMW,0,Rochester Hills,1
+BMW,0,Rogers,1
+BMW,0,Rosenberg,1
+BMW,0,San Francisco,1
+BMW,0,San Juan,2
+BMW,0,Sandy Springs,1
+BMW,0,Santa Ana,1
+BMW,0,Seminole,2
+BMW,0,Shaker Heights,1
+BMW,0,Sioux Falls,1
+BMW,0,Smyrna,1
+BMW,0,Spring,1
+BMW,0,Springfield,1
+BMW,0,Suffolk,2
+BMW,0,Tallahassee,1
+BMW,0,Tinley Park,2
+BMW,0,Washington,1
+BMW,0,West Linn,1
+BMW,1,Chicago,1
+BMW,1,North Port,1
+BMW,1,Washington,1
+Chevrolet,0,Adrian,1
+Chevrolet,0,Altamonte Springs,1
+Chevrolet,0,Altus,1
+Chevrolet,0,Amarillo,1
+Chevrolet,0,Annandale,1
+Chevrolet,0,Arlington,1
+Chevrolet,0,Arlington Heights,1
+Chevrolet,0,Bella Vista,1
+Chevrolet,0,Bloomington,1
+Chevrolet,0,Boise,1
+Chevrolet,0,Boston,2
+Chevrolet,0,Carpentersville,1
+Chevrolet,0,Casper,2
+Chevrolet,0,Chattanooga,1
+Chevrolet,0,Chicago,2
+Chevrolet,0,Cleveland,1
+Chevrolet,0,Costa Mesa,1
+Chevrolet,0,Cottage Lake,1
+Chevrolet,0,Denton,1
+Chevrolet,0,Detroit,1
+Chevrolet,0,Dover,1
+Chevrolet,0,East Lansing,1
+Chevrolet,0,East Meadow,2
+Chevrolet,0,Elgin,1
+Chevrolet,0,Erie,1
+Chevrolet,0,Escondido,1
+Chevrolet,0,Euless,1
+Chevrolet,0,Fitchburg,1
+Chevrolet,0,Fords,1
+Chevrolet,0,Garfield Heights,1
+Chevrolet,0,Germantown,1
+Chevrolet,0,Grafton,1
+Chevrolet,0,Grand Island,1
+Chevrolet,0,Granite Bay,1
+Chevrolet,0,Green Bay,1
+Chevrolet,0,Hamilton,1
+Chevrolet,0,Henderson,1
+Chevrolet,0,Hermitage,1
+Chevrolet,0,Highland Park,1
+Chevrolet,0,Hobbs,1
+Chevrolet,0,Hopkinsville,1
+Chevrolet,0,Hopkinton,1
+Chevrolet,0,Houston,1
+Chevrolet,0,Independence,1
+Chevrolet,0,Indian Trail,1
+Chevrolet,0,Kennesaw,1
+Chevrolet,0,Kirkland,1
+Chevrolet,0,La Vergne,1
+Chevrolet,0,Lafayette,1
+Chevrolet,0,Laguna Hills,1
+Chevrolet,0,Lancaster,1
+Chevrolet,0,Lansing,1
+Chevrolet,0,Laramie,1
+Chevrolet,0,Los Angeles,4
+Chevrolet,0,Los Gatos,1
+Chevrolet,0,Madison,1
+Chevrolet,0,Manteca,1
+Chevrolet,0,Maryville,1
+Chevrolet,0,Mcminnville,1
+Chevrolet,0,Medina,3
+Chevrolet,0,Meridian,1
+Chevrolet,0,Miramar,1
+Chevrolet,0,Monroe,1
+Chevrolet,0,Morgan Hill,1
+Chevrolet,0,Mount Prospect,1
+Chevrolet,0,Muskegon,1
+Chevrolet,0,Nashua,1
+Chevrolet,0,New Bern,1
+Chevrolet,0,New Haven,1
+Chevrolet,0,New Iberia,1
+Chevrolet,0,New York City,2
+Chevrolet,0,Newark,1
+Chevrolet,0,Oak Park,1
+Chevrolet,0,Oklahoma City,1
+Chevrolet,0,Ormond Beach,1
+Chevrolet,0,Palm Bay,1
+Chevrolet,0,Portland,1
+Chevrolet,0,Portsmouth,1
+Chevrolet,0,Prescott Valley,1
+Chevrolet,0,Rancho Cucamonga,1
+Chevrolet,0,Redmond,2
+Chevrolet,0,Rochester,2
+Chevrolet,0,Rockford,1
+Chevrolet,0,Romeoville,1
+Chevrolet,0,Rotterdam,1
+Chevrolet,0,Roy,1
+Chevrolet,0,Russellville,1
+Chevrolet,0,Saint Petersburg,1
+Chevrolet,0,San Marcos,1
+Chevrolet,0,Sandusky,1
+Chevrolet,0,Santa Maria,1
+Chevrolet,0,Santa Rosa,1
+Chevrolet,0,Schenectady,1
+Chevrolet,0,Scottsdale,1
+Chevrolet,0,Seattle,2
+Chevrolet,0,Sioux City,1
+Chevrolet,0,Somerset,1
+Chevrolet,0,South Bend,1
+Chevrolet,0,South Portland,1
+Chevrolet,0,Spanaway,1
+Chevrolet,0,Spartanburg,1
+Chevrolet,0,Springfield,1
+Chevrolet,0,Streamwood,2
+Chevrolet,0,Sulphur Springs,1
+Chevrolet,0,Vallejo,1
+Chevrolet,0,Van Buren,1
+Chevrolet,0,Washington,1
+Chevrolet,0,Waterville,1
+Chevrolet,0,Wellesley,1
+Chevrolet,0,Wenatchee,1
+Chevrolet,0,Wentzville,1
+Chevrolet,0,West Valley City,1
+Chevrolet,0,Westminster,1
+Chevrolet,0,Woodland,1
+Chevrolet,0,Woodridge,1
+Chevrolet,1,Alexandria,2
+Chevrolet,1,Athens,1
+Chevrolet,1,Auburn,2
+Chevrolet,1,Bedford,1
+Chevrolet,1,Birmingham,1
+Chevrolet,1,Bowling Green,1
+Chevrolet,1,Bryan,1
+Chevrolet,1,Burlington,1
+Chevrolet,1,Calexico,1
+Chevrolet,1,Canton,1
+Chevrolet,1,Champaign,1
+Chevrolet,1,Citrus Heights,1
+Chevrolet,1,Columbia,1
+Chevrolet,1,Coos Bay,1
+Chevrolet,1,Costa Mesa,1
+Chevrolet,1,Creve Coeur,1
+Chevrolet,1,Dubuque,1
+Chevrolet,1,Elk Grove Village,1
+Chevrolet,1,Fairfield,1
+Chevrolet,1,Fitchburg,1
+Chevrolet,1,Fords,1
+Chevrolet,1,Franklin Park,1
+Chevrolet,1,Gadsden,1
+Chevrolet,1,Glendale Heights,1
+Chevrolet,1,Grand Junction,1
+Chevrolet,1,Henderson,1
+Chevrolet,1,Hermitage,1
+Chevrolet,1,Holland,1
+Chevrolet,1,Jersey City,1
+Chevrolet,1,Kansas City,1
+Chevrolet,1,Kenmore,1
+Chevrolet,1,Kennesaw,1
+Chevrolet,1,King of Prussia,1
+Chevrolet,1,La Quinta,1
+Chevrolet,1,Laguna Hills,1
+Chevrolet,1,Laurel,1
+Chevrolet,1,Layton,1
+Chevrolet,1,Lehi,1
+Chevrolet,1,Los Angeles,3
+Chevrolet,1,Lynnwood,1
+Chevrolet,1,Margate,1
+Chevrolet,1,Marietta,1
+Chevrolet,1,Mesa,1
+Chevrolet,1,Miami,1
+Chevrolet,1,Moore,1
+Chevrolet,1,Moscow,2
+Chevrolet,1,Mount Lebanon,1
+Chevrolet,1,Mount Prospect,1
+Chevrolet,1,Murray,1
+Chevrolet,1,New York City,1
+Chevrolet,1,Olive Branch,1
+Chevrolet,1,Olney,1
+Chevrolet,1,Ottumwa,1
+Chevrolet,1,Parma,1
+Chevrolet,1,Philadelphia,1
+Chevrolet,1,Pittsburg,1
+Chevrolet,1,Port Orange,1
+Chevrolet,1,Prairie Village,1
+Chevrolet,1,Providence,1
+Chevrolet,1,Raleigh,1
+Chevrolet,1,Rexburg,1
+Chevrolet,1,Roosevelt,3
+Chevrolet,1,Round Rock,1
+Chevrolet,1,Roy,1
+Chevrolet,1,Rutland,1
+Chevrolet,1,San Diego,2
+Chevrolet,1,Sarasota,1
+Chevrolet,1,Seymour,1
+Chevrolet,1,Sharon,1
+Chevrolet,1,Skokie,1
+Chevrolet,1,Smyrna,1
+Chevrolet,1,Sterling Heights,1
+Chevrolet,1,Sulphur Springs,1
+Chevrolet,1,Taylors,1
+Chevrolet,1,Tempe,1
+Chevrolet,1,Troy,1
+Chevrolet,1,Tyler,1
+Chevrolet,1,Utica,1
+Chevrolet,1,Walla Walla,1
+Chevrolet,1,Washington,2
+Chevrolet,1,Watertown,2
+Chevrolet,1,Waukegan,1
+Chevrolet,1,Wausau,1
+Chevrolet,1,Weslaco,1
+Chevrolet,1,West Palm Beach,1
+Chevrolet,1,Westminster,1
+Chevrolet,1,Willoughby,1
+Chevrolet,1,Winter Haven,1
+Chevrolet,1,Yuma,1
+Chevrolet,2,Dundalk,1
+Chevrolet,2,Hinesville,1
+Daewoo,1,Boston,1
+Daewoo,1,North Miami Beach,1
+Daewoo,1,Victoria,1
+Datsun,1,Apopka,1
+Datsun,1,Atlanta,1
+Datsun,1,Bellevue,1
+Datsun,1,Benton,1
+Datsun,1,Boise,1
+Datsun,1,Canton,1
+Datsun,1,Centereach,1
+Datsun,1,Charlotte,1
+Datsun,1,Chicago,2
+Datsun,1,Crown Point,1
+Datsun,1,Dayton,1
+Datsun,1,Dickinson,1
+Datsun,1,Dundalk,1
+Datsun,1,Dunedin,1
+Datsun,1,Durham,1
+Datsun,1,Ellicott City,1
+Datsun,1,Fort Worth,1
+Datsun,1,Franklin Square,1
+Datsun,1,Gladstone,1
+Datsun,1,Gorham,1
+Datsun,1,Hartford,1
+Datsun,1,Jeffersonville,1
+Datsun,1,Kissimmee,1
+Datsun,1,Klamath Falls,1
+Datsun,1,La Grange,1
+Datsun,1,La Porte,1
+Datsun,1,Lake Oswego,1
+Datsun,1,Lakewood,1
+Datsun,1,Land O Lakes,1
+Datsun,1,Laurel,1
+Datsun,1,Lenexa,1
+Datsun,1,Los Angeles,3
+Datsun,1,Maryville,1
+Datsun,1,Medina,1
+Datsun,1,Miami,2
+Datsun,1,Middletown,1
+Datsun,1,Minnetonka,1
+Datsun,1,Neenah,1
+Datsun,1,New Berlin,1
+Datsun,1,New City,1
+Datsun,1,New Rochelle,1
+Datsun,1,New York City,3
+Datsun,1,North Las Vegas,1
+Datsun,1,Prior Lake,1
+Datsun,1,Redford,1
+Datsun,1,Reisterstown,1
+Datsun,1,Rochester,1
+Datsun,1,Round Rock,1
+Datsun,1,Saco,1
+Datsun,1,Saint Charles,1
+Datsun,1,San Clemente,1
+Datsun,1,San Diego,1
+Datsun,1,Southgate,1
+Datsun,1,Stevens Point,1
+Datsun,1,Stillwater,1
+Datsun,1,Victoria,1
+Datsun,1,Washington,1
+Datsun,1,West Lafayette,1
+Datsun,1,Wilkinsburg,1
+Fiat,0,Caldwell,1
+Fiat,0,Cedar Hill,1
+Fiat,0,Corsicana,1
+Fiat,0,Danville,1
+Fiat,0,Dix Hills,1
+Fiat,0,Elkhart,1
+Fiat,0,Emporia,1
+Fiat,0,Ferguson,1
+Fiat,0,Freeport,1
+Fiat,0,Galesburg,1
+Fiat,0,Glassboro,1
+Fiat,0,Hanover,1
+Fiat,0,Jackson,1
+Fiat,0,Kannapolis,1
+Fiat,0,Liberal,1
+Fiat,0,Lynchburg,1
+Fiat,0,Miami,1
+Fiat,0,Middle River,1
+Fiat,0,Midwest City,1
+Fiat,0,Monroe,1
+Fiat,0,Monroeville,1
+Fiat,0,Moore,1
+Fiat,0,New York City,1
+Fiat,0,Palm Springs,1
+Fiat,0,Portsmouth,1
+Fiat,0,Potomac,1
+Fiat,0,Saint Paul,1
+Fiat,0,Sandusky,1
+Fiat,0,Shawnee,1
+Fiat,0,West Linn,1
+Fiat,0,Westfield,1
+Fiat,0,Woodburn,1
+Fiat,0,Woodland,1
+Fiat,1,Ames,1
+Fiat,1,Bangor,1
+Fiat,1,Channelview,1
+Fiat,1,Fairmont,1
+Fiat,1,Oak Forest,1
+Fiat,1,Springville,1
+Fiat,1,Visalia,1
+Fiat,1,Weslaco,1
+Force,0,Eagle,1
+Force,0,Merrillville,1
+Force,0,Opelika,1
+Force,0,Reynoldsburg,1
+Force,0,Romeoville,1
+Force,0,Springville,1
+Ford,0,Abington,1
+Ford,0,Albuquerque,1
+Ford,0,Aloha,1
+Ford,0,Anderson,1
+Ford,0,Annapolis,1
+Ford,0,Arlington,1
+Ford,0,Augusta,1
+Ford,0,Bangor,1
+Ford,0,Bartlesville,2
+Ford,0,Beavercreek,2
+Ford,0,Bellevue,1
+Ford,0,Birmingham,1
+Ford,0,Boca Raton,1
+Ford,0,Boston,1
+Ford,0,Brentwood,1
+Ford,0,Bryant,1
+Ford,0,Buffalo Grove,1
+Ford,0,Burleson,2
+Ford,0,Caldwell,1
+Ford,0,Calexico,1
+Ford,0,Camp Springs,1
+Ford,0,Carbondale,1
+Ford,0,Carol Stream,1
+Ford,0,Casas Adobes,1
+Ford,0,Centereach,2
+Ford,0,Chapel Hill,1
+Ford,0,Charlotte,4
+Ford,0,Chester,1
+Ford,0,Chicago,2
+Ford,0,Clarksville,1
+Ford,0,Cleveland Heights,1
+Ford,0,Collierville,1
+Ford,0,Columbus,1
+Ford,0,Conroe,1
+Ford,0,Conway,1
+Ford,0,Coos Bay,1
+Ford,0,Coppell,1
+Ford,0,Coral Springs,1
+Ford,0,Corvallis,2
+Ford,0,Cranford,1
+Ford,0,Crown Point,1
+Ford,0,Crystal Lake,1
+Ford,0,Dallas,1
+Ford,0,Davie,1
+Ford,0,Davis,1
+Ford,0,Dennis,1
+Ford,0,Detroit,2
+Ford,0,Dover,1
+Ford,0,Downers Grove,1
+Ford,0,Drexel Hill,1
+Ford,0,Durango,2
+Ford,0,Durham,3
+Ford,0,East Chicago,2
+Ford,0,East Meadow,2
+Ford,0,Easthampton,1
+Ford,0,Edison,1
+Ford,0,Elk Plain,1
+Ford,0,Escondido,1
+Ford,0,Essex Junction,1
+Ford,0,Eugene,1
+Ford,0,Fairborn,1
+Ford,0,Farmington,1
+Ford,0,Findlay,1
+Ford,0,Fort Lauderdale,1
+Ford,0,Franklin Square,1
+Ford,0,Freeport,4
+Ford,0,Gallatin,1
+Ford,0,Garfield,1
+Ford,0,Glen Ellyn,1
+Ford,0,Glendale,1
+Ford,0,Gorham,1
+Ford,0,Grand Island,1
+Ford,0,Greenville,1
+Ford,0,Greenwich,1
+Ford,0,Greenwood,1
+Ford,0,Gresham,1
+Ford,0,Gulfport,1
+Ford,0,Hammond,2
+Ford,0,Hampton,1
+Ford,0,Hanover,1
+Ford,0,Hattiesburg,1
+Ford,0,Hawthorne,1
+Ford,0,Henderson,2
+Ford,0,Hendersonville,1
+Ford,0,Hesperia,1
+Ford,0,Holladay,1
+Ford,0,Hollywood,1
+Ford,0,Hopkins,1
+Ford,0,Houston,3
+Ford,0,Huntsville,1
+Ford,0,Ithaca,1
+Ford,0,Jackson,1
+Ford,0,Kansas City,1
+Ford,0,Kingsport,1
+Ford,0,Klamath Falls,1
+Ford,0,Knoxville,2
+Ford,0,La Porte,1
+Ford,0,Lacey,1
+Ford,0,Lafayette,1
+Ford,0,Laguna Hills,1
+Ford,0,Lake Jackson,1
+Ford,0,Lake Worth,1
+Ford,0,Lancaster,1
+Ford,0,Land O Lakes,1
+Ford,0,Leavenworth,1
+Ford,0,Lebanon,1
+Ford,0,Lindenwold,1
+Ford,0,Long Beach,2
+Ford,0,Los Angeles,3
+Ford,0,Madison,1
+Ford,0,Madison Heights,1
+Ford,0,Magna,1
+Ford,0,Manhattan,2
+Ford,0,Manhattan Beach,1
+Ford,0,Mcallen,1
+Ford,0,Mesquite,1
+Ford,0,Miami,4
+Ford,0,Minneapolis,1
+Ford,0,Minnetonka Mills,1
+Ford,0,Monroeville,2
+Ford,0,Montclair,2
+Ford,0,Moore,1
+Ford,0,Mooresville,1
+Ford,0,Mount Lebanon,1
+Ford,0,Mount Prospect,1
+Ford,0,Muncie,1
+Ford,0,New Brunswick,1
+Ford,0,New York City,7
+Ford,0,Newnan,1
+Ford,0,Newton,2
+Ford,0,North Kingstown,1
+Ford,0,North Miami Beach,2
+Ford,0,North Port,1
+Ford,0,North Royalton,1
+Ford,0,Oak Lawn,1
+Ford,0,Oakland,1
+Ford,0,Oakland Park,1
+Ford,0,Olney,1
+Ford,0,Ontario,1
+Ford,0,Oregon City,1
+Ford,0,Oviedo,1
+Ford,0,Owasso,1
+Ford,0,Owings Mills,1
+Ford,0,Palm Coast,2
+Ford,0,Paramus,1
+Ford,0,Pearl,2
+Ford,0,Pendleton,2
+Ford,0,Phenix City,1
+Ford,0,Phoenix,1
+Ford,0,Plainview,2
+Ford,0,Pomona,2
+Ford,0,Ponte Vedra Beach,1
+Ford,0,Port Charlotte,1
+Ford,0,Port Chester,1
+Ford,0,Port Huron,1
+Ford,0,Port Orange,1
+Ford,0,Potomac,1
+Ford,0,Prattville,1
+Ford,0,Prior Lake,2
+Ford,0,Pueblo West,1
+Ford,0,Raytown,1
+Ford,0,Redding,2
+Ford,0,Redford,1
+Ford,0,Redondo Beach,1
+Ford,0,Renton,1
+Ford,0,Rexburg,1
+Ford,0,Reynoldsburg,1
+Ford,0,Richmond,1
+Ford,0,Rio Rancho,2
+Ford,0,Romeoville,1
+Ford,0,Rose Hill,1
+Ford,0,Roseville,1
+Ford,0,Saint Louis,1
+Ford,0,Salem,1
+Ford,0,San Francisco,1
+Ford,0,Sanford,2
+Ford,0,Santa Ana,1
+Ford,0,Santa Barbara,1
+Ford,0,Santa Cruz,2
+Ford,0,Santa Monica,1
+Ford,0,Santa Rosa,1
+Ford,0,Sarasota,2
+Ford,0,Seattle,5
+Ford,0,Selma,1
+Ford,0,Shirley,1
+Ford,0,Shreveport,1
+Ford,0,Sioux City,1
+Ford,0,Smithtown,1
+Ford,0,Smyrna,1
+Ford,0,Somerville,1
+Ford,0,South Lake Tahoe,2
+Ford,0,South Orange,1
+Ford,0,South Portland,1
+Ford,0,Southbridge,1
+Ford,0,Southgate,1
+Ford,0,Spanaway,1
+Ford,0,Sparks,1
+Ford,0,Spring Hill,2
+Ford,0,Springfield,1
+Ford,0,Stockton,1
+Ford,0,Stoneham,1
+Ford,0,Superior,1
+Ford,0,Taylors,1
+Ford,0,Temecula,1
+Ford,0,Tempe,1
+Ford,0,Toledo,1
+Ford,0,Topeka,1
+Ford,0,Torrance,1
+Ford,0,Tracy,1
+Ford,0,Tualatin,1
+Ford,0,Tucson,1
+Ford,0,Tuscaloosa,1
+Ford,0,University City,1
+Ford,0,Upper Arlington,1
+Ford,0,Visalia,1
+Ford,0,Warwick,1
+Ford,0,Washington,2
+Ford,0,Watertown,2
+Ford,0,Waxahachie,1
+Ford,0,West Linn,1
+Ford,0,Westbrook,1
+Ford,0,Westminster,1
+Ford,0,Weymouth,1
+Ford,0,Wheeling,1
+Ford,0,White Plains,1
+Ford,0,Wilkinsburg,1
+Ford,0,Winter Haven,1
+Ford,0,Yakima,1
+Ford,1,Alexandria,1
+Ford,1,Ames,1
+Ford,1,Arlington Heights,1
+Ford,1,Auburn,1
+Ford,1,Baldwin,1
+Ford,1,Bella Vista,1
+Ford,1,Belle Glade,1
+Ford,1,Bennington,1
+Ford,1,Benton,1
+Ford,1,Boise,1
+Ford,1,Boston,1
+Ford,1,Burlington,1
+Ford,1,Carbondale,1
+Ford,1,Chapel Hill,1
+Ford,1,Charleston,1
+Ford,1,Creve Coeur,1
+Ford,1,Dallas,1
+Ford,1,Danville,1
+Ford,1,Dearborn Heights,2
+Ford,1,Detroit,1
+Ford,1,Dover,1
+Ford,1,Durango,1
+Ford,1,Elk Grove Village,1
+Ford,1,Emporia,1
+Ford,1,Essex Junction,1
+Ford,1,Euclid,1
+Ford,1,Eureka,1
+Ford,1,Fairfield,1
+Ford,1,Fort Collins,1
+Ford,1,Franklin Square,1
+Ford,1,Glen Burnie,1
+Ford,1,Hacienda Heights,1
+Ford,1,Hamilton,1
+Ford,1,Harrison,1
+Ford,1,Hopkins,1
+Ford,1,Horn Lake,1
+Ford,1,Houston,2
+Ford,1,Janesville,1
+Ford,1,Johnson City,1
+Ford,1,La Vergne,1
+Ford,1,Lafayette,2
+Ford,1,Laguna Niguel,1
+Ford,1,Lancaster,1
+Ford,1,Laurinburg,1
+Ford,1,Lorain,1
+Ford,1,Los Angeles,4
+Ford,1,Margate,1
+Ford,1,Massillon,1
+Ford,1,Memphis,1
+Ford,1,Miami,1
+Ford,1,Mishawaka,1
+Ford,1,Moline,1
+Ford,1,Murfreesboro,1
+Ford,1,Murray,1
+Ford,1,New York City,1
+Ford,1,Newport News,1
+Ford,1,Norman,1
+Ford,1,North Las Vegas,2
+Ford,1,Oakton,1
+Ford,1,Orem,1
+Ford,1,Ottumwa,1
+Ford,1,Overland,1
+Ford,1,Overland Park,1
+Ford,1,Paducah,1
+Ford,1,Palisades Park,1
+Ford,1,Pasadena,1
+Ford,1,Peoria,1
+Ford,1,Philadelphia,2
+Ford,1,Port Huron,1
+Ford,1,Port Saint Lucie,1
+Ford,1,Provo,1
+Ford,1,Redding,1
+Ford,1,Reno,1
+Ford,1,Rose Hill,1
+Ford,1,Roswell,1
+Ford,1,San Diego,2
+Ford,1,San Juan,1
+Ford,1,Sault Sainte Marie,1
+Ford,1,Slidell,1
+Ford,1,Spartanburg,1
+Ford,1,Thousand Oaks,1
+Ford,1,Twentynine Palms,1
+Ford,1,Washington,1
+Ford,1,Wausau,1
+Ford,1,West Hollywood,1
+Ford,1,West Jordan,1
+Ford,1,Westerville,1
+Ford,1,Westminster,1
+Ford,1,Wheat Ridge,1
+Ford,1,Whittier,1
+Ford,1,Wilkes Barre,1
+Ford,1,Woodbury,1
+Honda,0,Abilene,1
+Honda,0,Alamogordo,1
+Honda,0,Ann Arbor,1
+Honda,0,Annandale,1
+Honda,0,Atascadero,1
+Honda,0,Atlanta,2
+Honda,0,Baltimore,1
+Honda,0,Baton Rouge,1
+Honda,0,Beaumont,1
+Honda,0,Belleville,1
+Honda,0,Bellevue,1
+Honda,0,Bennington,1
+Honda,0,Boston,1
+Honda,0,Bowling Green,1
+Honda,0,Brunswick,1
+Honda,0,Bullhead City,1
+Honda,0,Calumet City,1
+Honda,0,Carbondale,1
+Honda,0,Charlotte,1
+Honda,0,Charlottesville,1
+Honda,0,Cincinnati,1
+Honda,0,Cleveland Heights,1
+Honda,0,Columbus,2
+Honda,0,Dallas,1
+Honda,0,Daly City,1
+Honda,0,Dearborn Heights,1
+Honda,0,Detroit,1
+Honda,0,Dundalk,1
+Honda,0,East Orange,1
+Honda,0,Easton,1
+Honda,0,Edmonds,1
+Honda,0,Euclid,1
+Honda,0,Gadsden,1
+Honda,0,Gainesville,1
+Honda,0,Garland,1
+Honda,0,Gorham,1
+Honda,0,Grants Pass,1
+Honda,0,Hawthorne,1
+Honda,0,Hays,1
+Honda,0,Hempstead,1
+Honda,0,Hilton Head Island,1
+Honda,0,Hoffman Estates,1
+Honda,0,Kansas City,1
+Honda,0,Kent,1
+Honda,0,La Mesa,2
+Honda,0,Lansing,1
+Honda,0,Laurel,1
+Honda,0,Lewisville,1
+Honda,0,Lima,1
+Honda,0,Lindenhurst,1
+Honda,0,Los Angeles,3
+Honda,0,Louisville,1
+Honda,0,Mandan,1
+Honda,0,Marlborough,1
+Honda,0,Massillon,1
+Honda,0,Mechanicsville,1
+Honda,0,Mehlville,1
+Honda,0,Mentor,1
+Honda,0,Mineral Wells,1
+Honda,0,Mishawaka,2
+Honda,0,Moorhead,1
+Honda,0,Moreno Valley,1
+Honda,0,Mount Vernon,1
+Honda,0,Muscatine,1
+Honda,0,Muskego,1
+Honda,0,New Orleans,2
+Honda,0,New York City,3
+Honda,0,Newton,1
+Honda,0,Oak Creek,3
+Honda,0,Oregon City,1
+Honda,0,Oshkosh,1
+Honda,0,Ossining,1
+Honda,0,Owatonna,1
+Honda,0,Parkville,1
+Honda,0,Philadelphia,1
+Honda,0,Ponca City,1
+Honda,0,Port Huron,1
+Honda,0,Prior Lake,1
+Honda,0,Pueblo,1
+Honda,0,Pullman,1
+Honda,0,Redlands,1
+Honda,0,Reston,1
+Honda,0,Riverside,1
+Honda,0,Riviera Beach,1
+Honda,0,Roswell,2
+Honda,0,Roy,2
+Honda,0,Saint Charles,1
+Honda,0,Sandy Springs,1
+Honda,0,Sanford,1
+Honda,0,Seattle,3
+Honda,0,Seymour,1
+Honda,0,Sharon,1
+Honda,0,South Burlington,1
+Honda,0,South Orange,1
+Honda,0,Springfield,3
+Honda,0,Stoughton,1
+Honda,0,Stow,1
+Honda,0,Strongsville,1
+Honda,0,Sun City,1
+Honda,0,Sunnyvale,1
+Honda,0,Temecula,1
+Honda,0,Thornton,1
+Honda,0,Tinley Park,1
+Honda,0,Toledo,1
+Honda,0,Tualatin,1
+Honda,0,Twentynine Palms,1
+Honda,0,Twin Falls,1
+Honda,0,University City,1
+Honda,0,Upper Arlington,1
+Honda,0,Virginia Beach,1
+Honda,0,Waldorf,1
+Honda,0,Washington,1
+Honda,0,Waxahachie,1
+Honda,0,Wentzville,1
+Honda,0,West Scarborough,1
+Honda,0,West Valley City,1
+Honda,0,Wheeling,1
+Honda,0,Whitehall,2
+Honda,0,Winter Garden,1
+Honda,0,Woodstock,1
+Honda,0,Yonkers,1
+Honda,1,Abilene,1
+Honda,1,Adrian,1
+Honda,1,Albany,2
+Honda,1,Albuquerque,1
+Honda,1,Alexandria,1
+Honda,1,Amarillo,1
+Honda,1,Anaheim,1
+Honda,1,Antioch,1
+Honda,1,Apex,2
+Honda,1,Apopka,1
+Honda,1,Apple Valley,1
+Honda,1,Arlington,1
+Honda,1,Auburn,1
+Honda,1,Avenel,1
+Honda,1,Bakersfield,1
+Honda,1,Bangor,1
+Honda,1,Bartlett,1
+Honda,1,Baton Rouge,2
+Honda,1,Bayonne,1
+Honda,1,Beckley,1
+Honda,1,Belle Glade,5
+Honda,1,Benton,1
+Honda,1,Berea,2
+Honda,1,Bergenfield,1
+Honda,1,Bethel Park,2
+Honda,1,Biddeford,1
+Honda,1,Billings,2
+Honda,1,Binghamton,1
+Honda,1,Bloomfield,1
+Honda,1,Bloomington,1
+Honda,1,Boise,1
+Honda,1,Boston,4
+Honda,1,Bozeman,2
+Honda,1,Brookings,1
+Honda,1,Brooklyn Center,1
+Honda,1,Brooklyn Park,2
+Honda,1,Burlington,1
+Honda,1,Burnsville,1
+Honda,1,Burton,1
+Honda,1,Calexico,1
+Honda,1,Camp Springs,1
+Honda,1,Carson City,1
+Honda,1,Casper,1
+Honda,1,Cedar Hill,1
+Honda,1,Channelview,1
+Honda,1,Chicago,3
+Honda,1,Clarksville,1
+Honda,1,Clayton,1
+Honda,1,Clearfield,1
+Honda,1,Cleveland,1
+Honda,1,Cleveland Heights,1
+Honda,1,Clifton,1
+Honda,1,Cloverleaf,1
+Honda,1,College Station,1
+Honda,1,Concord,1
+Honda,1,Costa Mesa,1
+Honda,1,Council Bluffs,1
+Honda,1,Country Club Hills,1
+Honda,1,Covington,1
+Honda,1,Crofton,1
+Honda,1,Crystal Lake,1
+Honda,1,Cumberland,2
+Honda,1,Danville,2
+Honda,1,Decatur,1
+Honda,1,Deltona,1
+Honda,1,Depew,1
+Honda,1,Derry,1
+Honda,1,Dover,2
+Honda,1,Dunwoody,2
+Honda,1,Durham,1
+Honda,1,Eagle Pass,2
+Honda,1,East Lansing,1
+Honda,1,East Massapequa,1
+Honda,1,East Point,1
+Honda,1,El Dorado Hills,1
+Honda,1,El Paso,2
+Honda,1,Elgin,1
+Honda,1,Elk Plain,2
+Honda,1,Elmira,1
+Honda,1,Englewood,1
+Honda,1,Euclid,1
+Honda,1,Fargo,2
+Honda,1,Florence,1
+Honda,1,Florissant,1
+Honda,1,Fort Pierce,2
+Honda,1,Fountain,1
+Honda,1,Foxborough,1
+Honda,1,Franklin Square,1
+Honda,1,Freeport,1
+Honda,1,Georgetown,1
+Honda,1,Glen Cove,1
+Honda,1,Glenview,1
+Honda,1,Goldsboro,1
+Honda,1,Goodyear,1
+Honda,1,Gorham,1
+Honda,1,Grand Junction,1
+Honda,1,Grand Prairie,1
+Honda,1,Granger,1
+Honda,1,Green Bay,1
+Honda,1,Greenville,3
+Honda,1,Hanover Park,1
+Honda,1,Hanson,1
+Honda,1,Helena,1
+Honda,1,Hickory,3
+Honda,1,Holland,1
+Honda,1,Hopatcong,1
+Honda,1,Houston,1
+Honda,1,Hudson,1
+Honda,1,Independence,1
+Honda,1,Indian Trail,1
+Honda,1,Indianapolis,1
+Honda,1,Iselin,1
+Honda,1,Ithaca,2
+Honda,1,Joplin,1
+Honda,1,Kalamazoo,1
+Honda,1,Kalispell,1
+Honda,1,Keizer,1
+Honda,1,Kenmore,1
+Honda,1,Kingsport,1
+Honda,1,Kirkwood,1
+Honda,1,Klamath Falls,1
+Honda,1,Lacey,1
+Honda,1,Laguna Hills,2
+Honda,1,Lake Forest,1
+Honda,1,Lake In The Hills,2
+Honda,1,Lake Worth,1
+Honda,1,Lancaster,1
+Honda,1,Lansing,1
+Honda,1,Laramie,1
+Honda,1,Laredo,1
+Honda,1,Lawndale,1
+Honda,1,Leavenworth,1
+Honda,1,Levittown,2
+Honda,1,Long Beach,1
+Honda,1,Longmont,1
+Honda,1,Los Altos,2
+Honda,1,Los Angeles,10
+Honda,1,Lubbock,1
+Honda,1,Mankato,1
+Honda,1,Marietta,1
+Honda,1,Marion,1
+Honda,1,Marysville,1
+Honda,1,Mcallen,1
+Honda,1,Mechanicsville,1
+Honda,1,Mehlville,1
+Honda,1,Meridian,1
+Honda,1,Miami,1
+Honda,1,Midland,1
+Honda,1,Minnetonka Mills,1
+Honda,1,Missoula,1
+Honda,1,Moore,1
+Honda,1,Mount Vernon,1
+Honda,1,Mountain View,1
+Honda,1,Munster,1
+Honda,1,Murray,1
+Honda,1,Muskegon,1
+Honda,1,Mustang,1
+Honda,1,Nampa,1
+Honda,1,New Albany,1
+Honda,1,New Bedford,1
+Honda,1,New Orleans,1
+Honda,1,New York City,6
+Honda,1,Newark,1
+Honda,1,Newton,1
+Honda,1,Norfolk,1
+Honda,1,North Little Rock,2
+Honda,1,North Port,1
+Honda,1,Novi,1
+Honda,1,Oak Park,1
+Honda,1,Oak Ridge,2
+Honda,1,Oceanside,1
+Honda,1,Olive Branch,1
+Honda,1,Olympia,1
+Honda,1,Opelika,1
+Honda,1,Ormond Beach,1
+Honda,1,Ossining,1
+Honda,1,Overland Park,2
+Honda,1,Oxford,1
+Honda,1,Pahrump,1
+Honda,1,Palm Coast,1
+Honda,1,Papillion,1
+Honda,1,Paradise,2
+Honda,1,Pembroke Pines,1
+Honda,1,Peoria,1
+Honda,1,Philadelphia,3
+Honda,1,Pomona,1
+Honda,1,Port Orange,1
+Honda,1,Post Falls,1
+Honda,1,Provo,2
+Honda,1,Randallstown,1
+Honda,1,Redmond,3
+Honda,1,Redondo Beach,1
+Honda,1,Redwood City,1
+Honda,1,Renton,1
+Honda,1,Rochester,1
+Honda,1,Rochester Hills,1
+Honda,1,Rogers,1
+Honda,1,Romeoville,1
+Honda,1,Roseville,3
+Honda,1,Rotterdam,1
+Honda,1,Rowlett,1
+Honda,1,Russellville,1
+Honda,1,Saginaw,2
+Honda,1,Saint Louis,2
+Honda,1,Saint Paul,1
+Honda,1,San Angelo,1
+Honda,1,San Juan,1
+Honda,1,San Mateo,1
+Honda,1,Sandy Springs,1
+Honda,1,Sanford,3
+Honda,1,Santa Fe,1
+Honda,1,Sault Sainte Marie,1
+Honda,1,Scranton,1
+Honda,1,Seatac,1
+Honda,1,Seattle,5
+Honda,1,Seymour,1
+Honda,1,Southgate,1
+Honda,1,Spartanburg,1
+Honda,1,Spring,1
+Honda,1,Stockton,1
+Honda,1,Surprise,1
+Honda,1,The Colony,1
+Honda,1,Tinley Park,1
+Honda,1,Tooele,1
+Honda,1,Troutdale,1
+Honda,1,Troy,2
+Honda,1,Tucson,1
+Honda,1,Tuscaloosa,1
+Honda,1,Twentynine Palms,3
+Honda,1,Twin Falls,1
+Honda,1,Tysons Corner,1
+Honda,1,University City,1
+Honda,1,Urbandale,1
+Honda,1,Valley Stream,1
+Honda,1,Van Buren,1
+Honda,1,Vancouver,1
+Honda,1,Vicksburg,1
+Honda,1,Vincennes,1
+Honda,1,Virginia Beach,2
+Honda,1,Waco,1
+Honda,1,Washington,4
+Honda,1,Webster Groves,1
+Honda,1,Wellesley,1
+Honda,1,Westbrook,1
+Honda,1,Wheat Ridge,1
+Honda,1,Wheaton,1
+Honda,1,Wheeling,2
+Honda,1,Wichita,1
+Honda,1,Woodridge,1
+Honda,1,Xenia,1
+Honda,1,Yuma,1
+Hyundai,0,Adrian,1
+Hyundai,0,Alamogordo,1
+Hyundai,0,Albuquerque,4
+Hyundai,0,Alexandria,2
+Hyundai,0,Allen,1
+Hyundai,0,Allen Park,1
+Hyundai,0,Allentown,1
+Hyundai,0,Altamonte Springs,1
+Hyundai,0,Alton,1
+Hyundai,0,Altus,1
+Hyundai,0,Anacortes,1
+Hyundai,0,Anaheim,1
+Hyundai,0,Anderson,1
+Hyundai,0,Ann Arbor,1
+Hyundai,0,Annapolis,1
+Hyundai,0,Apple Valley,1
+Hyundai,0,Aspen Hill,1
+Hyundai,0,Athens,1
+Hyundai,0,Atlanta,3
+Hyundai,0,Auburn,1
+Hyundai,0,Augusta,1
+Hyundai,0,Aurora,1
+Hyundai,0,Avondale,1
+Hyundai,0,Bangor,2
+Hyundai,0,Bartlesville,1
+Hyundai,0,Battle Creek,1
+Hyundai,0,Beavercreek,1
+Hyundai,0,Bella Vista,1
+Hyundai,0,Bellevue,3
+Hyundai,0,Belvidere,1
+Hyundai,0,Benton,1
+Hyundai,0,Biddeford,2
+Hyundai,0,Billings,2
+Hyundai,0,Biloxi,1
+Hyundai,0,Bismarck,1
+Hyundai,0,Blacksburg,1
+Hyundai,0,Bloomington,2
+Hyundai,0,Boise,2
+Hyundai,0,Bolingbrook,1
+Hyundai,0,Boston,3
+Hyundai,0,Brandon,1
+Hyundai,0,Brentwood,2
+Hyundai,0,Bristol,1
+Hyundai,0,Bryant,1
+Hyundai,0,Buffalo,1
+Hyundai,0,Burbank,1
+Hyundai,0,Burien,1
+Hyundai,0,Burnsville,1
+Hyundai,0,Caldwell,1
+Hyundai,0,Camarillo,1
+Hyundai,0,Canton,1
+Hyundai,0,Carpentersville,4
+Hyundai,0,Champaign,1
+Hyundai,0,Chapel Hill,1
+Hyundai,0,Charleston,2
+Hyundai,0,Chattanooga,1
+Hyundai,0,Cheshire,1
+Hyundai,0,Chicago,6
+Hyundai,0,Cleveland,2
+Hyundai,0,Cleveland Heights,1
+Hyundai,0,Clinton,2
+Hyundai,0,College Park,1
+Hyundai,0,Colorado Springs,1
+Hyundai,0,Columbia,3
+Hyundai,0,Columbus,4
+Hyundai,0,Commack,1
+Hyundai,0,Concord,1
+Hyundai,0,Coral Springs,1
+Hyundai,0,Corvallis,1
+Hyundai,0,Costa Mesa,1
+Hyundai,0,Country Club Hills,1
+Hyundai,0,Coventry,1
+Hyundai,0,Covington,2
+Hyundai,0,Cranston,1
+Hyundai,0,Creve Coeur,1
+Hyundai,0,Cumberland,1
+Hyundai,0,Cuyahoga Falls,1
+Hyundai,0,Dallas,2
+Hyundai,0,Dalton,1
+Hyundai,0,Danbury,1
+Hyundai,0,Danville,2
+Hyundai,0,Davie,1
+Hyundai,0,Decatur,1
+Hyundai,0,Dedham,1
+Hyundai,0,Deer Park,2
+Hyundai,0,Denton,1
+Hyundai,0,Des Moines,1
+Hyundai,0,Detroit,3
+Hyundai,0,Douglasville,1
+Hyundai,0,Dover,1
+Hyundai,0,Downers Grove,1
+Hyundai,0,Draper,1
+Hyundai,0,Drexel Hill,1
+Hyundai,0,Dubuque,1
+Hyundai,0,Duncanville,1
+Hyundai,0,Dundalk,2
+Hyundai,0,Durango,3
+Hyundai,0,Eagle,2
+Hyundai,0,East Brunswick,1
+Hyundai,0,East Longmeadow,1
+Hyundai,0,East Massapequa,1
+Hyundai,0,East Orange,1
+Hyundai,0,Edmond,1
+Hyundai,0,El Dorado Hills,1
+Hyundai,0,Elgin,1
+Hyundai,0,Elk Plain,2
+Hyundai,0,Elkhart,1
+Hyundai,0,Emporia,1
+Hyundai,0,Encinitas,1
+Hyundai,0,Englewood,1
+Hyundai,0,Enterprise,1
+Hyundai,0,Essex,1
+Hyundai,0,Farmington,1
+Hyundai,0,Fayetteville,2
+Hyundai,0,Findlay,2
+Hyundai,0,Forest Park,1
+Hyundai,0,Fort Collins,1
+Hyundai,0,Fort Dodge,2
+Hyundai,0,Fort Lauderdale,2
+Hyundai,0,Fort Lee,1
+Hyundai,0,Fort Wayne,1
+Hyundai,0,Foster City,1
+Hyundai,0,Franklin,2
+Hyundai,0,Gahanna,1
+Hyundai,0,Gainesville,1
+Hyundai,0,Gilbert,3
+Hyundai,0,Gilroy,2
+Hyundai,0,Gladstone,2
+Hyundai,0,Glendale,1
+Hyundai,0,Glendale Heights,1
+Hyundai,0,Goffstown,1
+Hyundai,0,Goldsboro,1
+Hyundai,0,Goleta,2
+Hyundai,0,Grand Rapids,1
+Hyundai,0,Greenfield,2
+Hyundai,0,Greenville,1
+Hyundai,0,Gulfport,2
+Hyundai,0,Hacienda Heights,3
+Hyundai,0,Hackensack,1
+Hyundai,0,Hampton,1
+Hyundai,0,Hanover,1
+Hyundai,0,Hanover Park,1
+Hyundai,0,Harrisonburg,1
+Hyundai,0,Hermitage,2
+Hyundai,0,Hialeah,1
+Hyundai,0,High Point,1
+Hyundai,0,Highland Park,1
+Hyundai,0,Hilton Head Island,1
+Hyundai,0,Hingham,1
+Hyundai,0,Hobart,1
+Hyundai,0,Holladay,1
+Hyundai,0,Hollywood,2
+Hyundai,0,Homestead,1
+Hyundai,0,Horn Lake,1
+Hyundai,0,Houston,2
+Hyundai,0,Hudson,2
+Hyundai,0,Huntington Beach,2
+Hyundai,0,Huntsville,1
+Hyundai,0,Hurst,1
+Hyundai,0,Independence,1
+Hyundai,0,Inkster,1
+Hyundai,0,Ipswich,1
+Hyundai,0,Ithaca,1
+Hyundai,0,Jackson,2
+Hyundai,0,Jacksonville,1
+Hyundai,0,Jefferson City,1
+Hyundai,0,Jeffersonville,1
+Hyundai,0,Jersey City,1
+Hyundai,0,Joliet,1
+Hyundai,0,Kaysville,1
+Hyundai,0,Kennesaw,1
+Hyundai,0,Kenosha,2
+Hyundai,0,Kent,1
+Hyundai,0,Kettering,1
+Hyundai,0,Kissimmee,1
+Hyundai,0,La Grange,1
+Hyundai,0,La Mesa,1
+Hyundai,0,Lafayette,3
+Hyundai,0,Laguna Hills,1
+Hyundai,0,Lake Elsinore,1
+Hyundai,0,Lake Forest,2
+Hyundai,0,Lake Jackson,1
+Hyundai,0,Lake Oswego,1
+Hyundai,0,Lake Worth,1
+Hyundai,0,Lakewood,1
+Hyundai,0,Lancaster,1
+Hyundai,0,Lansing,2
+Hyundai,0,Laredo,1
+Hyundai,0,Lawndale,1
+Hyundai,0,Layton,1
+Hyundai,0,Lebanon,2
+Hyundai,0,Lemon Grove,3
+Hyundai,0,Levittown,1
+Hyundai,0,Lima,1
+Hyundai,0,Lincoln Park,1
+Hyundai,0,Lindenhurst,1
+Hyundai,0,Littleton,1
+Hyundai,0,Long Beach,1
+Hyundai,0,Los Altos,1
+Hyundai,0,Los Angeles,12
+Hyundai,0,Los Gatos,1
+Hyundai,0,Louisville,1
+Hyundai,0,Lubbock,1
+Hyundai,0,Lyndhurst,1
+Hyundai,0,Madison Heights,1
+Hyundai,0,Mandan,1
+Hyundai,0,Manhattan,1
+Hyundai,0,Maple Grove,1
+Hyundai,0,Marshalltown,2
+Hyundai,0,Marysville,2
+Hyundai,0,Mauldin,1
+Hyundai,0,Mcallen,2
+Hyundai,0,Mcminnville,1
+Hyundai,0,Melrose Park,2
+Hyundai,0,Memphis,1
+Hyundai,0,Mentor,1
+Hyundai,0,Meridian,1
+Hyundai,0,Miami,4
+Hyundai,0,Michigan City,1
+Hyundai,0,Midvale,1
+Hyundai,0,Midwest City,1
+Hyundai,0,Mineral Wells,1
+Hyundai,0,Minneapolis,1
+Hyundai,0,Mint Hill,1
+Hyundai,0,Moreno Valley,1
+Hyundai,0,Mount Lebanon,2
+Hyundai,0,Mount Vernon,1
+Hyundai,0,Munster,1
+Hyundai,0,Murray,1
+Hyundai,0,Murrieta,1
+Hyundai,0,Muscatine,3
+Hyundai,0,Muskegon,1
+Hyundai,0,Nashville,1
+Hyundai,0,Needham,1
+Hyundai,0,Neenah,1
+Hyundai,0,New York City,12
+Hyundai,0,Noblesville,2
+Hyundai,0,Norfolk,1
+Hyundai,0,North Charleston,1
+Hyundai,0,North Las Vegas,1
+Hyundai,0,North Olmsted,1
+Hyundai,0,North Platte,1
+Hyundai,0,Norwich,1
+Hyundai,0,Nutley,1
+Hyundai,0,Oak Forest,1
+Hyundai,0,Oakdale,1
+Hyundai,0,Oakland,3
+Hyundai,0,Ocean City,1
+Hyundai,0,Olympia,1
+Hyundai,0,Ontario,2
+Hyundai,0,Orlando,1
+Hyundai,0,Oswego,1
+Hyundai,0,Ottumwa,1
+Hyundai,0,Overland,1
+Hyundai,0,Oviedo,1
+Hyundai,0,Owensboro,1
+Hyundai,0,Paducah,1
+Hyundai,0,Pahrump,1
+Hyundai,0,Palm Coast,1
+Hyundai,0,Paradise,1
+Hyundai,0,Paragould,1
+Hyundai,0,Pasadena,1
+Hyundai,0,Pekin,1
+Hyundai,0,Perry Hall,1
+Hyundai,0,Petersburg,2
+Hyundai,0,Pharr,2
+Hyundai,0,Philadelphia,3
+Hyundai,0,Pico Rivera,2
+Hyundai,0,Pikesville,1
+Hyundai,0,Pine Bluff,1
+Hyundai,0,Pittsburg,1
+Hyundai,0,Pittsburgh,1
+Hyundai,0,Plainview,1
+Hyundai,0,Plano,2
+Hyundai,0,Plum,1
+Hyundai,0,Pomona,1
+Hyundai,0,Pontiac,2
+Hyundai,0,Port Arthur,1
+Hyundai,0,Port Chester,1
+Hyundai,0,Portsmouth,2
+Hyundai,0,Prattville,1
+Hyundai,0,Prior Lake,4
+Hyundai,0,Pueblo,1
+Hyundai,0,Pullman,1
+Hyundai,0,Puyallup,1
+Hyundai,0,Quincy,1
+Hyundai,0,Raleigh,1
+Hyundai,0,Rancho Cucamonga,1
+Hyundai,0,Rapid City,2
+Hyundai,0,Raytown,1
+Hyundai,0,Red Wing,1
+Hyundai,0,Redding,1
+Hyundai,0,Redford,1
+Hyundai,0,Redmond,1
+Hyundai,0,Richardson,1
+Hyundai,0,Richmond,3
+Hyundai,0,Rochester,1
+Hyundai,0,Rochester Hills,1
+Hyundai,0,Rock Island,1
+Hyundai,0,Rock Springs,1
+Hyundai,0,Rockford,2
+Hyundai,0,Rocky Mount,1
+Hyundai,0,Romeoville,1
+Hyundai,0,Roseville,1
+Hyundai,0,Roswell,2
+Hyundai,0,Round Rock,1
+Hyundai,0,Rowlett,1
+Hyundai,0,Saint Charles,1
+Hyundai,0,Saint Clair Shores,1
+Hyundai,0,Saint Cloud,1
+Hyundai,0,Saint Peters,1
+Hyundai,0,Saint Petersburg,1
+Hyundai,0,Salt Lake City,1
+Hyundai,0,San Antonio,1
+Hyundai,0,San Diego,2
+Hyundai,0,San Francisco,2
+Hyundai,0,San Marcos,1
+Hyundai,0,Sandusky,1
+Hyundai,0,Sanford,2
+Hyundai,0,Santa Fe,1
+Hyundai,0,Sarasota,1
+Hyundai,0,Savannah,1
+Hyundai,0,Schererville,1
+Hyundai,0,Scottsdale,2
+Hyundai,0,Seattle,5
+Hyundai,0,Seminole,1
+Hyundai,0,Severna Park,1
+Hyundai,0,Shawnee,1
+Hyundai,0,Sheboygan,1
+Hyundai,0,Sherwood,1
+Hyundai,0,Shirley,3
+Hyundai,0,Shoreview,1
+Hyundai,0,Sierra Vista,1
+Hyundai,0,Sioux Falls,1
+Hyundai,0,Slidell,2
+Hyundai,0,Smithtown,1
+Hyundai,0,Southgate,3
+Hyundai,0,Spanaway,1
+Hyundai,0,Spring Hill,2
+Hyundai,0,Strongsville,1
+Hyundai,0,Suffolk,1
+Hyundai,0,Summerville,2
+Hyundai,0,Sun City,1
+Hyundai,0,Sunnyvale,1
+Hyundai,0,Tampa,1
+Hyundai,0,Taunton,1
+Hyundai,0,Temecula,1
+Hyundai,0,Texarkana,1
+Hyundai,0,Texas City,2
+Hyundai,0,Tinton Falls,1
+Hyundai,0,Tiverton,1
+Hyundai,0,Trenton,1
+Hyundai,0,Troy,2
+Hyundai,0,Tucson,1
+Hyundai,0,Tysons Corner,1
+Hyundai,0,Upper Arlington,1
+Hyundai,0,Upper Saint Clair,1
+Hyundai,0,Urbana,1
+Hyundai,0,Valley Stream,1
+Hyundai,0,Vestavia Hills,1
+Hyundai,0,Visalia,2
+Hyundai,0,Waco,1
+Hyundai,0,Walker,1
+Hyundai,0,Walla Walla,1
+Hyundai,0,Warren,1
+Hyundai,0,Washington,3
+Hyundai,0,Watertown,2
+Hyundai,0,Waxahachie,1
+Hyundai,0,West Jordan,1
+Hyundai,0,West Linn,2
+Hyundai,0,West Memphis,1
+Hyundai,0,West Palm Beach,1
+Hyundai,0,West Scarborough,1
+Hyundai,0,Westerville,1
+Hyundai,0,Wheat Ridge,1
+Hyundai,0,Willoughby,1
+Hyundai,0,Winchester,2
+Hyundai,0,Woodburn,1
+Hyundai,0,Woodland,1
+Hyundai,0,Xenia,1
+Hyundai,0,York,1
+Hyundai,0,Yucaipa,1
+Hyundai,1,Abilene,3
+Hyundai,1,Aiken,2
+Hyundai,1,Albuquerque,2
+Hyundai,1,Allentown,1
+Hyundai,1,Altoona,1
+Hyundai,1,American Fork,2
+Hyundai,1,Anacortes,1
+Hyundai,1,Anderson,3
+Hyundai,1,Andover,1
+Hyundai,1,Apple Valley,1
+Hyundai,1,Arlington,1
+Hyundai,1,Asbury Park,1
+Hyundai,1,Atlanta,6
+Hyundai,1,Atlantic City,1
+Hyundai,1,Attleboro,1
+Hyundai,1,Auburn,2
+Hyundai,1,Augusta,2
+Hyundai,1,Austin,3
+Hyundai,1,Baldwin,2
+Hyundai,1,Bangor,1
+Hyundai,1,Bartlesville,2
+Hyundai,1,Batavia,2
+Hyundai,1,Baton Rouge,1
+Hyundai,1,Bella Vista,1
+Hyundai,1,Belvidere,1
+Hyundai,1,Bennington,1
+Hyundai,1,Benton,1
+Hyundai,1,Bentonville,1
+Hyundai,1,Berkeley,1
+Hyundai,1,Bessemer,1
+Hyundai,1,Bettendorf,2
+Hyundai,1,Beverly,1
+Hyundai,1,Biddeford,1
+Hyundai,1,Bismarck,1
+Hyundai,1,Blacksburg,1
+Hyundai,1,Bloomington,1
+Hyundai,1,Boardman,2
+Hyundai,1,Boise,2
+Hyundai,1,Boston,7
+Hyundai,1,Bowling Green,1
+Hyundai,1,Boynton Beach,1
+Hyundai,1,Bozeman,1
+Hyundai,1,Bradenton,2
+Hyundai,1,Bremerton,2
+Hyundai,1,Brookings,1
+Hyundai,1,Brooklyn Center,1
+Hyundai,1,Brooklyn Park,1
+Hyundai,1,Brownsville,1
+Hyundai,1,Bullhead City,1
+Hyundai,1,Burbank,1
+Hyundai,1,Burien,2
+Hyundai,1,Burke,2
+Hyundai,1,Burlington,1
+Hyundai,1,Butte,1
+Hyundai,1,Cabot,1
+Hyundai,1,Calexico,1
+Hyundai,1,Calumet City,1
+Hyundai,1,Canton,2
+Hyundai,1,Carlsbad,6
+Hyundai,1,Carmel,1
+Hyundai,1,Carol City,1
+Hyundai,1,Carson City,1
+Hyundai,1,Carteret,1
+Hyundai,1,Cary,2
+Hyundai,1,Casper,1
+Hyundai,1,Cedar Park,1
+Hyundai,1,Cedar Rapids,1
+Hyundai,1,Charlotte,3
+Hyundai,1,Charlottesville,2
+Hyundai,1,Chattanooga,1
+Hyundai,1,Cherry Hill,1
+Hyundai,1,Chesapeake,1
+Hyundai,1,Chicago,11
+Hyundai,1,Chico,2
+Hyundai,1,Chula Vista,2
+Hyundai,1,Cincinnati,2
+Hyundai,1,Clarksville,3
+Hyundai,1,Clearfield,1
+Hyundai,1,Cleveland,1
+Hyundai,1,Clinton,4
+Hyundai,1,Clovis,1
+Hyundai,1,Coachella,1
+Hyundai,1,Coconut Creek,2
+Hyundai,1,Colchester,1
+Hyundai,1,Colorado Springs,1
+Hyundai,1,Columbia,1
+Hyundai,1,Columbus,7
+Hyundai,1,Concord,2
+Hyundai,1,Coon Rapids,1
+Hyundai,1,Council Bluffs,1
+Hyundai,1,Country Club Hills,1
+Hyundai,1,Covington,3
+Hyundai,1,Crofton,1
+Hyundai,1,Cumberland,1
+Hyundai,1,Cuyahoga Falls,2
+Hyundai,1,Dallas,6
+Hyundai,1,Dalton,2
+Hyundai,1,Daly City,1
+Hyundai,1,Davie,1
+Hyundai,1,Davis,3
+Hyundai,1,Daytona Beach,2
+Hyundai,1,Dearborn,1
+Hyundai,1,Decatur,1
+Hyundai,1,Deer Park,3
+Hyundai,1,Denton,2
+Hyundai,1,Depew,1
+Hyundai,1,Des Plaines,1
+Hyundai,1,Detroit,3
+Hyundai,1,Douglasville,1
+Hyundai,1,Dover,2
+Hyundai,1,Draper,1
+Hyundai,1,Dublin,2
+Hyundai,1,Durango,1
+Hyundai,1,Duxbury,1
+Hyundai,1,Eagle,1
+Hyundai,1,East Massapequa,2
+Hyundai,1,East Saint Louis,1
+Hyundai,1,Eau Claire,1
+Hyundai,1,Edmond,1
+Hyundai,1,Elk Grove Village,2
+Hyundai,1,Elmhurst,2
+Hyundai,1,Encinitas,2
+Hyundai,1,Englewood,1
+Hyundai,1,Essex,2
+Hyundai,1,Essex Junction,1
+Hyundai,1,Eureka,1
+Hyundai,1,Fairfax,2
+Hyundai,1,Fairfield,2
+Hyundai,1,Farmers Branch,1
+Hyundai,1,Fayetteville,1
+Hyundai,1,Findlay,1
+Hyundai,1,Florissant,1
+Hyundai,1,Forest Park,1
+Hyundai,1,Fort Collins,3
+Hyundai,1,Fort Myers,1
+Hyundai,1,Fort Smith,1
+Hyundai,1,Fort Worth,1
+Hyundai,1,Foster City,1
+Hyundai,1,Fountain,1
+Hyundai,1,Franklin,1
+Hyundai,1,Fremont,1
+Hyundai,1,Gadsden,1
+Hyundai,1,Galesburg,1
+Hyundai,1,Gallatin,2
+Hyundai,1,Garden City,1
+Hyundai,1,Garner,1
+Hyundai,1,Gilbert,1
+Hyundai,1,Glassboro,1
+Hyundai,1,Glendale Heights,3
+Hyundai,1,Glenview,1
+Hyundai,1,Goffstown,1
+Hyundai,1,Gorham,1
+Hyundai,1,Grand Rapids,1
+Hyundai,1,Grapevine,1
+Hyundai,1,Greeley,1
+Hyundai,1,Green Bay,1
+Hyundai,1,Greensburg,1
+Hyundai,1,Greenville,1
+Hyundai,1,Grove City,1
+Hyundai,1,Gulfport,1
+Hyundai,1,Hacienda Heights,1
+Hyundai,1,Hagerstown,1
+Hyundai,1,Hanover,1
+Hyundai,1,Hanover Park,1
+Hyundai,1,Harlingen,1
+Hyundai,1,Harrison,1
+Hyundai,1,Harrisonburg,1
+Hyundai,1,Hazleton,2
+Hyundai,1,Henderson,1
+Hyundai,1,Hermitage,1
+Hyundai,1,Hialeah,1
+Hyundai,1,Hickory,1
+Hyundai,1,Highland Park,1
+Hyundai,1,Hilliard,2
+Hyundai,1,Hilton Head Island,1
+Hyundai,1,Hinesville,3
+Hyundai,1,Hoffman Estates,2
+Hyundai,1,Holbrook,1
+Hyundai,1,Hollywood,1
+Hyundai,1,Hopkins,1
+Hyundai,1,Houston,2
+Hyundai,1,Hudson,1
+Hyundai,1,Hutchinson,1
+Hyundai,1,Indianapolis,1
+Hyundai,1,Inglewood,1
+Hyundai,1,Inkster,1
+Hyundai,1,Iselin,1
+Hyundai,1,Jackson,1
+Hyundai,1,Jacksonville,1
+Hyundai,1,Jamestown,1
+Hyundai,1,Janesville,1
+Hyundai,1,Kalamazoo,2
+Hyundai,1,Kankakee,1
+Hyundai,1,Kannapolis,1
+Hyundai,1,Kansas City,1
+Hyundai,1,Kearney,1
+Hyundai,1,Kennesaw,1
+Hyundai,1,Kent,1
+Hyundai,1,Kingsport,1
+Hyundai,1,Kirkland,1
+Hyundai,1,Klamath Falls,2
+Hyundai,1,Knoxville,2
+Hyundai,1,Kokomo,1
+Hyundai,1,La Crosse,1
+Hyundai,1,La Vergne,1
+Hyundai,1,Lacey,1
+Hyundai,1,Lafayette,1
+Hyundai,1,Laguna Hills,1
+Hyundai,1,Lake Charles,1
+Hyundai,1,Lake Oswego,1
+Hyundai,1,Lakeland,1
+Hyundai,1,Lakewood,3
+Hyundai,1,Lancaster,1
+Hyundai,1,Land O Lakes,1
+Hyundai,1,Lansing,2
+Hyundai,1,Las Vegas,1
+Hyundai,1,Laurinburg,2
+Hyundai,1,Leavenworth,1
+Hyundai,1,Leawood,1
+Hyundai,1,Lebanon,1
+Hyundai,1,Lehi,2
+Hyundai,1,Lenexa,1
+Hyundai,1,Levittown,2
+Hyundai,1,Lewiston,2
+Hyundai,1,Liberal,1
+Hyundai,1,Lincoln,1
+Hyundai,1,Linden,1
+Hyundai,1,Lodi,2
+Hyundai,1,Logan,1
+Hyundai,1,Lombard,1
+Hyundai,1,Long Beach,3
+Hyundai,1,Longmont,2
+Hyundai,1,Longview,2
+Hyundai,1,Los Angeles,18
+Hyundai,1,Los Banos,1
+Hyundai,1,Los Gatos,1
+Hyundai,1,Louisville,3
+Hyundai,1,Lynchburg,1
+Hyundai,1,Lynn,1
+Hyundai,1,Lynnwood,1
+Hyundai,1,Macon,1
+Hyundai,1,Madison Heights,2
+Hyundai,1,Mandan,1
+Hyundai,1,Manhattan,1
+Hyundai,1,Mankato,1
+Hyundai,1,Mansfield,3
+Hyundai,1,Maplewood,1
+Hyundai,1,Marietta,1
+Hyundai,1,Marrero,2
+Hyundai,1,Mason City,1
+Hyundai,1,Massillon,1
+Hyundai,1,Mauldin,3
+Hyundai,1,Mcminnville,1
+Hyundai,1,Mechanicsville,2
+Hyundai,1,Medina,2
+Hyundai,1,Melrose Park,2
+Hyundai,1,Menlo Park,1
+Hyundai,1,Mentor,1
+Hyundai,1,Meridian,2
+Hyundai,1,Merritt Island,1
+Hyundai,1,Mesa,2
+Hyundai,1,Miami,3
+Hyundai,1,Michigan City,2
+Hyundai,1,Midland,2
+Hyundai,1,Midvale,1
+Hyundai,1,Midwest City,2
+Hyundai,1,Millville,2
+Hyundai,1,Milwaukee,1
+Hyundai,1,Mineral Wells,1
+Hyundai,1,Minot,2
+Hyundai,1,Miramar,1
+Hyundai,1,Monroe,1
+Hyundai,1,Montgomery,2
+Hyundai,1,Mooresville,2
+Hyundai,1,Moscow,1
+Hyundai,1,Mount Pleasant,2
+Hyundai,1,Mount Vernon,3
+Hyundai,1,Mountain View,1
+Hyundai,1,Mundelein,1
+Hyundai,1,Murray,2
+Hyundai,1,Muskego,2
+Hyundai,1,Muskogee,1
+Hyundai,1,Mustang,1
+Hyundai,1,Nampa,1
+Hyundai,1,Naperville,3
+Hyundai,1,New Albany,1
+Hyundai,1,New Berlin,2
+Hyundai,1,New City,1
+Hyundai,1,New Smyrna Beach,1
+Hyundai,1,New York City,24
+Hyundai,1,Newark,1
+Hyundai,1,Newnan,1
+Hyundai,1,Norman,1
+Hyundai,1,North Arlington,1
+Hyundai,1,North Babylon,2
+Hyundai,1,North Las Vegas,1
+Hyundai,1,North Miami,3
+Hyundai,1,North Miami Beach,1
+Hyundai,1,North Olmsted,1
+Hyundai,1,North Plainfield,1
+Hyundai,1,North Platte,2
+Hyundai,1,North Ridgeville,1
+Hyundai,1,Norwalk,1
+Hyundai,1,Norwich,1
+Hyundai,1,Oak Ridge,1
+Hyundai,1,Oakton,1
+Hyundai,1,Oceanside,3
+Hyundai,1,Ocoee,1
+Hyundai,1,Oklahoma City,2
+Hyundai,1,Olive Branch,1
+Hyundai,1,Olympia,1
+Hyundai,1,Omaha,1
+Hyundai,1,Ontario,1
+Hyundai,1,Orem,1
+Hyundai,1,Ormond Beach,2
+Hyundai,1,Oro Valley,1
+Hyundai,1,Oviedo,1
+Hyundai,1,Owasso,2
+Hyundai,1,Owosso,1
+Hyundai,1,Oxnard,1
+Hyundai,1,Paducah,2
+Hyundai,1,Palm Coast,1
+Hyundai,1,Parker,2
+Hyundai,1,Parkersburg,1
+Hyundai,1,Parkville,1
+Hyundai,1,Parma,1
+Hyundai,1,Parsippany,1
+Hyundai,1,Paterson,1
+Hyundai,1,Pendleton,1
+Hyundai,1,Peoria,2
+Hyundai,1,Perry Hall,3
+Hyundai,1,Pflugerville,1
+Hyundai,1,Philadelphia,10
+Hyundai,1,Phoenix,2
+Hyundai,1,Pittsburgh,1
+Hyundai,1,Plainfield,1
+Hyundai,1,Plainview,1
+Hyundai,1,Plano,1
+Hyundai,1,Pleasant Grove,1
+Hyundai,1,Pleasure Ridge Park,1
+Hyundai,1,Plymouth,3
+Hyundai,1,Pompano Beach,1
+Hyundai,1,Port Chester,1
+Hyundai,1,Port Saint Lucie,1
+Hyundai,1,Portage,2
+Hyundai,1,Portland,3
+Hyundai,1,Portsmouth,1
+Hyundai,1,Post Falls,1
+Hyundai,1,Pottstown,1
+Hyundai,1,Prattville,1
+Hyundai,1,Prescott,1
+Hyundai,1,Prior Lake,1
+Hyundai,1,Pueblo West,1
+Hyundai,1,Pullman,1
+Hyundai,1,Puyallup,1
+Hyundai,1,Quincy,1
+Hyundai,1,Radnor,1
+Hyundai,1,Raleigh,1
+Hyundai,1,Rancho Cucamonga,2
+Hyundai,1,Raytown,1
+Hyundai,1,Reading,2
+Hyundai,1,Redding,1
+Hyundai,1,Redlands,1
+Hyundai,1,Redwood City,1
+Hyundai,1,Rexburg,1
+Hyundai,1,Reynoldsburg,1
+Hyundai,1,Richardson,1
+Hyundai,1,Richfield,1
+Hyundai,1,Richland,2
+Hyundai,1,Richmond,4
+Hyundai,1,Riverside,2
+Hyundai,1,Riviera Beach,2
+Hyundai,1,Rochester,4
+Hyundai,1,Rock Island,1
+Hyundai,1,Rocklin,1
+Hyundai,1,Rocky Mount,2
+Hyundai,1,Rogers,2
+Hyundai,1,Rome,1
+Hyundai,1,Rose Hill,1
+Hyundai,1,Roselle,1
+Hyundai,1,Rosenberg,1
+Hyundai,1,Roseville,1
+Hyundai,1,Roy,1
+Hyundai,1,Royal Palm Beach,1
+Hyundai,1,Rutherford,1
+Hyundai,1,Rutland,1
+Hyundai,1,Saco,1
+Hyundai,1,Sacramento,1
+Hyundai,1,Saginaw,2
+Hyundai,1,Saint Charles,1
+Hyundai,1,Saint Louis,1
+Hyundai,1,Saint Petersburg,2
+Hyundai,1,Salem,2
+Hyundai,1,Salinas,3
+Hyundai,1,Salt Lake City,1
+Hyundai,1,San Antonio,2
+Hyundai,1,San Diego,6
+Hyundai,1,San Francisco,1
+Hyundai,1,San Jose,1
+Hyundai,1,San Luis Obispo,2
+Hyundai,1,Sandusky,1
+Hyundai,1,Sandwich,1
+Hyundai,1,Sanford,3
+Hyundai,1,Santa Clara,1
+Hyundai,1,Santa Maria,2
+Hyundai,1,Santa Monica,1
+Hyundai,1,Santa Rosa,1
+Hyundai,1,Sarasota,1
+Hyundai,1,Saratoga,1
+Hyundai,1,Savannah,1
+Hyundai,1,Scottsdale,1
+Hyundai,1,Scranton,1
+Hyundai,1,Searcy,2
+Hyundai,1,Seatac,1
+Hyundai,1,Seattle,11
+Hyundai,1,Selma,1
+Hyundai,1,Shaker Heights,1
+Hyundai,1,Shawnee,2
+Hyundai,1,Shreveport,2
+Hyundai,1,Shrewsbury,1
+Hyundai,1,Smithtown,2
+Hyundai,1,Smyrna,1
+Hyundai,1,South Portland,1
+Hyundai,1,Southgate,1
+Hyundai,1,Spanish Fork,1
+Hyundai,1,Spartanburg,1
+Hyundai,1,Spokane,2
+Hyundai,1,Spring Hill,1
+Hyundai,1,Springfield,3
+Hyundai,1,State College,1
+Hyundai,1,Stevens Point,1
+Hyundai,1,Stockton,1
+Hyundai,1,Streamwood,1
+Hyundai,1,Strongsville,1
+Hyundai,1,Sudbury,1
+Hyundai,1,Sulphur Springs,1
+Hyundai,1,Summerville,2
+Hyundai,1,Sun City,3
+Hyundai,1,Surprise,3
+Hyundai,1,Syracuse,1
+Hyundai,1,Tacoma,2
+Hyundai,1,Tamarac,1
+Hyundai,1,Tampa,1
+Hyundai,1,Taylors,1
+Hyundai,1,Temecula,3
+Hyundai,1,Terre Haute,1
+Hyundai,1,Terrytown,3
+Hyundai,1,Texarkana,2
+Hyundai,1,Texas City,1
+Hyundai,1,The Colony,1
+Hyundai,1,Thomasville,2
+Hyundai,1,Thornton,1
+Hyundai,1,Thousand Oaks,2
+Hyundai,1,Tigard,1
+Hyundai,1,Tinley Park,1
+Hyundai,1,Troy,3
+Hyundai,1,Tucson,2
+Hyundai,1,Tulsa,2
+Hyundai,1,Twentynine Palms,1
+Hyundai,1,Tysons Corner,2
+Hyundai,1,University City,2
+Hyundai,1,Upper Saint Clair,1
+Hyundai,1,Urbandale,2
+Hyundai,1,Utica,1
+Hyundai,1,Vacaville,1
+Hyundai,1,Vallejo,2
+Hyundai,1,Valley Stream,1
+Hyundai,1,Valparaiso,5
+Hyundai,1,Van Buren,2
+Hyundai,1,Vancouver,1
+Hyundai,1,Vicksburg,1
+Hyundai,1,Vincennes,1
+Hyundai,1,Waldorf,1
+Hyundai,1,Wallingford,1
+Hyundai,1,Warren,1
+Hyundai,1,Washington,10
+Hyundai,1,Waterbury,1
+Hyundai,1,Watertown,2
+Hyundai,1,Waterville,1
+Hyundai,1,Webster Groves,1
+Hyundai,1,Weslaco,1
+Hyundai,1,West Babylon,2
+Hyundai,1,West Chicago,1
+Hyundai,1,West Jordan,1
+Hyundai,1,West Lafayette,3
+Hyundai,1,West Scarborough,2
+Hyundai,1,West Valley City,1
+Hyundai,1,Westborough,1
+Hyundai,1,Westbrook,1
+Hyundai,1,Westerly,1
+Hyundai,1,Westford,1
+Hyundai,1,Wheat Ridge,1
+Hyundai,1,Wheaton,1
+Hyundai,1,Wheeling,1
+Hyundai,1,Whittier,1
+Hyundai,1,Wilkes Barre,1
+Hyundai,1,Wilmington,1
+Hyundai,1,Wilson,1
+Hyundai,1,Winchester,2
+Hyundai,1,Winter Garden,1
+Hyundai,1,Winter Haven,1
+Hyundai,1,Woodbury,1
+Hyundai,1,Woodland,1
+Hyundai,1,Woodmere,1
+Hyundai,1,Worcester,1
+Hyundai,1,Xenia,1
+Hyundai,1,Yonkers,1
+Hyundai,1,Youngstown,1
+Hyundai,1,Yuma,1
+Hyundai,2,Avondale,1
+Hyundai,2,Conway,1
+Hyundai,2,Crown Point,1
+Hyundai,2,Des Moines,1
+Hyundai,2,Eden,1
+Hyundai,2,Huber Heights,1
+Hyundai,2,Johnson City,1
+Hyundai,2,Laredo,1
+Hyundai,2,Livonia,1
+Hyundai,2,Lynchburg,1
+Hyundai,2,Myrtle Beach,1
+Hyundai,2,Rahway,1
+Hyundai,2,West Babylon,1
+Hyundai,2,Woodburn,1
+Hyundai,3,Alton,1
+Hyundai,3,Aurora,1
+Hyundai,3,Muskegon,1
+Hyundai,3,Saint Petersburg,1
+Isuzu,0,Eagle,1
+Isuzu,0,Elmwood Park,1
+Isuzu,0,Franklin Square,1
+Isuzu,0,Prescott,1
+Isuzu,0,Santa Clara,1
+Jaguar,0,Auburn,1
+Jaguar,0,Bartlesville,1
+Jaguar,0,Bartlett,2
+Jaguar,0,Bethlehem,2
+Jaguar,0,Bossier City,1
+Jaguar,0,Broomfield,2
+Jaguar,0,Bryant,1
+Jaguar,0,Burlington,1
+Jaguar,0,Chicago,1
+Jaguar,0,College Park,2
+Jaguar,0,Dundalk,2
+Jaguar,0,Elmira,1
+Jaguar,0,Eugene,1
+Jaguar,0,Euless,1
+Jaguar,0,Evans,1
+Jaguar,0,Garner,1
+Jaguar,0,Gastonia,1
+Jaguar,0,Goldsboro,1
+Jaguar,0,Granger,2
+Jaguar,0,Hopkinsville,1
+Jaguar,0,Lewiston,1
+Jaguar,0,Longview,1
+Jaguar,0,Los Angeles,2
+Jaguar,0,Lubbock,1
+Jaguar,0,Marietta,1
+Jaguar,0,Martinez,1
+Jaguar,0,New York City,5
+Jaguar,0,Newark,1
+Jaguar,0,Ormond Beach,1
+Jaguar,0,Ozark,1
+Jaguar,0,Pacifica,1
+Jaguar,0,Pembroke Pines,1
+Jaguar,0,Penn Hills,1
+Jaguar,0,Pflugerville,2
+Jaguar,0,Philadelphia,1
+Jaguar,0,Pocatello,1
+Jaguar,0,Poinciana,2
+Jaguar,0,Port Huron,1
+Jaguar,0,Prairie Village,2
+Jaguar,0,Rochester,1
+Jaguar,0,Roseville,1
+Jaguar,0,Royal Palm Beach,2
+Jaguar,0,Rutland,1
+Jaguar,0,Salisbury,1
+Jaguar,0,San Francisco,1
+Jaguar,0,Sterling Heights,2
+Jaguar,0,Tacoma,2
+Jaguar,0,Tonawanda,1
+Jaguar,0,Troy,1
+Jaguar,0,Upper Saint Clair,1
+Jaguar,0,Vincennes,1
+Jaguar,0,Wake Forest,1
+Jaguar,0,Warren,1
+Jaguar,0,Wilmington,1
+Jeep,0,Bridgeton,1
+Jeep,0,Burlington,1
+Jeep,0,Camden,1
+Jeep,0,Cedar Hill,1
+Jeep,0,Charlotte,1
+Jeep,0,Eagle,1
+Jeep,0,Gallatin,1
+Jeep,0,Indianapolis,1
+Jeep,0,Mesa,1
+Jeep,0,Middletown,1
+Jeep,0,Murray,1
+Jeep,0,Nashua,1
+Jeep,0,Neenah,1
+Jeep,0,New York City,1
+Jeep,0,Potomac,1
+Jeep,0,Pottstown,1
+Jeep,0,Pueblo,1
+Jeep,0,Saint Louis,1
+Jeep,0,Santa Clara,1
+Jeep,0,Southgate,1
+Jeep,1,Auburn,1
+Jeep,1,Bossier City,1
+Jeep,1,La Vista,1
+Jeep,1,Lakeland,1
+Jeep,1,Lewiston,1
+Jeep,1,Los Angeles,1
+Jeep,1,New York City,1
+Jeep,1,Pembroke Pines,1
+Jeep,1,Pocatello,1
+Jeep,1,Port Huron,1
+Jeep,1,Prescott Valley,1
+Kia,0,Ankeny,1
+Kia,0,Charlotte,1
+Kia,0,Laguna Hills,1
+Kia,0,Richmond,1
+Land,0,Baton Rouge,1
+Land,0,Bozeman,1
+Land,0,Leominster,1
+Land,0,Los Angeles,1
+Land,0,Nampa,1
+Land,0,Victoria,1
+Lexus,1,Albemarle,1
+Lexus,1,Atlanta,1
+Lexus,1,Bethel Park,1
+Lexus,1,Bethesda,1
+Lexus,1,Bossier City,1
+Lexus,1,Castle Rock,1
+Lexus,1,Chicago,1
+Lexus,1,Elmira,2
+Lexus,1,Gary,1
+Lexus,1,Goldsboro,1
+Lexus,1,Lewiston,1
+Lexus,1,Milton,1
+Lexus,1,Nampa,1
+Lexus,1,New York City,2
+Lexus,1,Newnan,1
+Lexus,1,Orlando,1
+Lexus,1,Pacifica,1
+Lexus,1,Panama City,1
+Lexus,1,Pharr,1
+Lexus,1,Philadelphia,1
+Lexus,1,Poinciana,1
+Lexus,1,Prairie Village,1
+Lexus,1,Rochester,1
+Lexus,1,Royal Palm Beach,1
+Lexus,1,Salisbury,1
+Lexus,1,Seattle,1
+Lexus,1,Sioux Falls,1
+Lexus,1,Sterling Heights,1
+Lexus,1,Tacoma,1
+Lexus,1,Tonawanda,1
+Lexus,1,Warren,1
+Lexus,1,Wilmington,1
+MG,1,Aloha,1
+MG,1,Dover,1
+MG,1,San Diego,1
+Mahindra,0,Abilene,1
+Mahindra,0,Agawam,1
+Mahindra,0,Alamogordo,1
+Mahindra,0,Albany,1
+Mahindra,0,Alexandria,1
+Mahindra,0,Allen Park,1
+Mahindra,0,Allentown,1
+Mahindra,0,Aloha,1
+Mahindra,0,Altoona,1
+Mahindra,0,Amarillo,2
+Mahindra,0,Ames,1
+Mahindra,0,Anacortes,1
+Mahindra,0,Andover,1
+Mahindra,0,Ann Arbor,1
+Mahindra,0,Arlington Heights,1
+Mahindra,0,Asheville,2
+Mahindra,0,Athens,1
+Mahindra,0,Atlanta,2
+Mahindra,0,Augusta,1
+Mahindra,0,Aurora,5
+Mahindra,0,Austin,1
+Mahindra,0,Avondale,1
+Mahindra,0,Bangor,2
+Mahindra,0,Barrington,1
+Mahindra,0,Bartlesville,1
+Mahindra,0,Baton Rouge,1
+Mahindra,0,Baytown,1
+Mahindra,0,Beaumont,1
+Mahindra,0,Beaverton,1
+Mahindra,0,Beckley,1
+Mahindra,0,Bedford,1
+Mahindra,0,Bella Vista,1
+Mahindra,0,Bend,3
+Mahindra,0,Bennington,1
+Mahindra,0,Bentonville,1
+Mahindra,0,Berea,1
+Mahindra,0,Bethpage,1
+Mahindra,0,Birmingham,1
+Mahindra,0,Blaine,2
+Mahindra,0,Boardman,1
+Mahindra,0,Boise,1
+Mahindra,0,Bolingbrook,1
+Mahindra,0,Boston,4
+Mahindra,0,Bowling Green,1
+Mahindra,0,Boynton Beach,1
+Mahindra,0,Bozeman,1
+Mahindra,0,Bradenton,1
+Mahindra,0,Brandon,1
+Mahindra,0,Branford,1
+Mahindra,0,Bridgewater,1
+Mahindra,0,Bristol,1
+Mahindra,0,Brookfield,1
+Mahindra,0,Brooklyn Center,2
+Mahindra,0,Brunswick,1
+Mahindra,0,Bryan,1
+Mahindra,0,Bullhead City,1
+Mahindra,0,Burbank,1
+Mahindra,0,Burleson,1
+Mahindra,0,Burlington,3
+Mahindra,0,Burnsville,3
+Mahindra,0,Cabot,1
+Mahindra,0,Caldwell,1
+Mahindra,0,Calumet City,2
+Mahindra,0,Camp Springs,3
+Mahindra,0,Canton,1
+Mahindra,0,Carbondale,2
+Mahindra,0,Carmel,1
+Mahindra,0,Carol Stream,2
+Mahindra,0,Carpentersville,1
+Mahindra,0,Carrollton,1
+Mahindra,0,Cary,1
+Mahindra,0,Casas Adobes,1
+Mahindra,0,Casselberry,3
+Mahindra,0,Cedar Falls,2
+Mahindra,0,Cedar Park,1
+Mahindra,0,Central Islip,1
+Mahindra,0,Chapel Hill,1
+Mahindra,0,Charlotte,5
+Mahindra,0,Chattanooga,1
+Mahindra,0,Cheektowaga,1
+Mahindra,0,Chicago,10
+Mahindra,0,Cincinnati,1
+Mahindra,0,Claremont,1
+Mahindra,0,Cleveland,1
+Mahindra,0,Clinton,3
+Mahindra,0,Clovis,1
+Mahindra,0,Cohoes,1
+Mahindra,0,Colchester,1
+Mahindra,0,Collierville,2
+Mahindra,0,Colorado Springs,1
+Mahindra,0,Columbia,3
+Mahindra,0,Columbus,1
+Mahindra,0,Commack,1
+Mahindra,0,Commerce City,2
+Mahindra,0,Coos Bay,1
+Mahindra,0,Corsicana,1
+Mahindra,0,Costa Mesa,2
+Mahindra,0,Cottage Grove,1
+Mahindra,0,Cranston,1
+Mahindra,0,Crown Point,1
+Mahindra,0,Crystal Lake,1
+Mahindra,0,Dallas,3
+Mahindra,0,Dalton,1
+Mahindra,0,Danville,3
+Mahindra,0,Davis,1
+Mahindra,0,Dearborn,1
+Mahindra,0,Dearborn Heights,1
+Mahindra,0,Decatur,3
+Mahindra,0,Deland,1
+Mahindra,0,Delray Beach,1
+Mahindra,0,Denver,2
+Mahindra,0,Depew,2
+Mahindra,0,Derry,1
+Mahindra,0,Detroit,4
+Mahindra,0,Dickinson,1
+Mahindra,0,Dover,1
+Mahindra,0,Drexel Hill,1
+Mahindra,0,Dublin,1
+Mahindra,0,Dumont,1
+Mahindra,0,Dunedin,1
+Mahindra,0,Durango,3
+Mahindra,0,East Haven,1
+Mahindra,0,East Saint Louis,1
+Mahindra,0,Eden,1
+Mahindra,0,Edina,1
+Mahindra,0,Edmonds,1
+Mahindra,0,El Centro,1
+Mahindra,0,El Dorado Hills,1
+Mahindra,0,Elgin,1
+Mahindra,0,Elkhart,1
+Mahindra,0,Elmhurst,1
+Mahindra,0,Elmwood Park,1
+Mahindra,0,Elyria,2
+Mahindra,0,Emporia,1
+Mahindra,0,Encinitas,1
+Mahindra,0,Enid,1
+Mahindra,0,Essex,1
+Mahindra,0,Eugene,2
+Mahindra,0,Euless,1
+Mahindra,0,Eureka,1
+Mahindra,0,Fairfax,1
+Mahindra,0,Fairfield,2
+Mahindra,0,Falmouth,1
+Mahindra,0,Farmers Branch,1
+Mahindra,0,Farmington,3
+Mahindra,0,Fayetteville,2
+Mahindra,0,Federal Way,1
+Mahindra,0,Findlay,1
+Mahindra,0,Flint,1
+Mahindra,0,Florence,1
+Mahindra,0,Flower Mound,1
+Mahindra,0,Forest Park,2
+Mahindra,0,Fort Pierce,1
+Mahindra,0,Fort Smith,1
+Mahindra,0,Fort Worth,1
+Mahindra,0,Foster City,1
+Mahindra,0,Franklin,1
+Mahindra,0,Franklin Park,1
+Mahindra,0,Franklin Square,1
+Mahindra,0,Fresno,1
+Mahindra,0,Friendswood,1
+Mahindra,0,Fruit Cove,3
+Mahindra,0,Galesburg,1
+Mahindra,0,Gallatin,1
+Mahindra,0,Garden City,1
+Mahindra,0,Gardner,1
+Mahindra,0,Garland,1
+Mahindra,0,Georgetown,1
+Mahindra,0,Gladstone,1
+Mahindra,0,Glen Burnie,1
+Mahindra,0,Glendale Heights,1
+Mahindra,0,Goleta,1
+Mahindra,0,Gorham,1
+Mahindra,0,Grand Junction,1
+Mahindra,0,Grand Prairie,1
+Mahindra,0,Grand Rapids,1
+Mahindra,0,Granger,1
+Mahindra,0,Granite City,1
+Mahindra,0,Green Bay,1
+Mahindra,0,Greenville,1
+Mahindra,0,Greenwood,1
+Mahindra,0,Gresham,2
+Mahindra,0,Gulfport,1
+Mahindra,0,Hammond,1
+Mahindra,0,Hanover,2
+Mahindra,0,Harker Heights,1
+Mahindra,0,Harlingen,1
+Mahindra,0,Hawthorne,2
+Mahindra,0,Hazleton,1
+Mahindra,0,Henderson,2
+Mahindra,0,Hendersonville,1
+Mahindra,0,Highlands Ranch,1
+Mahindra,0,Hilliard,1
+Mahindra,0,Hilton Head Island,2
+Mahindra,0,Holden,1
+Mahindra,0,Homestead,1
+Mahindra,0,Hot Springs,1
+Mahindra,0,Houston,5
+Mahindra,0,Huber Heights,1
+Mahindra,0,Huntsville,1
+Mahindra,0,Hutchinson,3
+Mahindra,0,Independence,1
+Mahindra,0,Indianapolis,2
+Mahindra,0,Inglewood,3
+Mahindra,0,Inkster,1
+Mahindra,0,Ithaca,1
+Mahindra,0,Jackson,2
+Mahindra,0,Jacksonville,1
+Mahindra,0,Joliet,3
+Mahindra,0,Joplin,2
+Mahindra,0,Kankakee,1
+Mahindra,0,Kaysville,1
+Mahindra,0,Kearney,1
+Mahindra,0,Kearns,2
+Mahindra,0,Kennesaw,2
+Mahindra,0,Kent,1
+Mahindra,0,Kettering,1
+Mahindra,0,King of Prussia,2
+Mahindra,0,Kirkwood,1
+Mahindra,0,Knoxville,1
+Mahindra,0,La Crosse,1
+Mahindra,0,La Mesa,1
+Mahindra,0,La Porte,1
+Mahindra,0,La Quinta,1
+Mahindra,0,La Vergne,1
+Mahindra,0,La Vista,1
+Mahindra,0,Lacey,2
+Mahindra,0,Laguna Hills,1
+Mahindra,0,Laguna Niguel,1
+Mahindra,0,Lake Charles,1
+Mahindra,0,Lake In The Hills,1
+Mahindra,0,Lake Jackson,1
+Mahindra,0,Lakewood,3
+Mahindra,0,Lancaster,1
+Mahindra,0,Laramie,1
+Mahindra,0,Las Cruces,1
+Mahindra,0,Layton,1
+Mahindra,0,League City,1
+Mahindra,0,Leavenworth,2
+Mahindra,0,Leawood,1
+Mahindra,0,Lebanon,1
+Mahindra,0,Lees Summit,1
+Mahindra,0,Lewiston,2
+Mahindra,0,Lincoln,1
+Mahindra,0,Lindenhurst,1
+Mahindra,0,Lino Lakes,1
+Mahindra,0,Londonderry,1
+Mahindra,0,Long Beach,2
+Mahindra,0,Longmeadow,1
+Mahindra,0,Los Angeles,16
+Mahindra,0,Los Banos,1
+Mahindra,0,Los Gatos,1
+Mahindra,0,Louisville,1
+Mahindra,0,Lynnwood,1
+Mahindra,0,Madison,3
+Mahindra,0,Mandan,1
+Mahindra,0,Mansfield,1
+Mahindra,0,Maplewood,2
+Mahindra,0,Marietta,1
+Mahindra,0,Marshalltown,2
+Mahindra,0,Maryville,1
+Mahindra,0,Mason City,2
+Mahindra,0,McKeesport,3
+Mahindra,0,Mcallen,1
+Mahindra,0,Mechanicsville,1
+Mahindra,0,Mehlville,1
+Mahindra,0,Melrose Park,1
+Mahindra,0,Menlo Park,2
+Mahindra,0,Mentor,1
+Mahindra,0,Mesa,1
+Mahindra,0,Mesquite,1
+Mahindra,0,Miami,5
+Mahindra,0,Middle River,1
+Mahindra,0,Midland,1
+Mahindra,0,Midwest City,1
+Mahindra,0,Mineral Wells,1
+Mahindra,0,Minnetonka,2
+Mahindra,0,Minnetonka Mills,1
+Mahindra,0,Minot,2
+Mahindra,0,Miramar,2
+Mahindra,0,Monroe,1
+Mahindra,0,Montgomery,1
+Mahindra,0,Moore,2
+Mahindra,0,Moreno Valley,1
+Mahindra,0,Morgantown,1
+Mahindra,0,Mount Vernon,4
+Mahindra,0,Muscatine,1
+Mahindra,0,Muskegon,1
+Mahindra,0,Muskogee,2
+Mahindra,0,Mustang,2
+Mahindra,0,Napa,1
+Mahindra,0,Naperville,1
+Mahindra,0,Naugatuck,1
+Mahindra,0,New Albany,2
+Mahindra,0,New Castle,1
+Mahindra,0,New City,2
+Mahindra,0,New Iberia,1
+Mahindra,0,New York City,21
+Mahindra,0,Newark,3
+Mahindra,0,Newport News,1
+Mahindra,0,Newton,3
+Mahindra,0,Norman,3
+Mahindra,0,North Arlington,1
+Mahindra,0,North Babylon,1
+Mahindra,0,North Las Vegas,1
+Mahindra,0,North Miami Beach,1
+Mahindra,0,North Ridgeville,5
+Mahindra,0,North Royalton,1
+Mahindra,0,Norwalk,1
+Mahindra,0,Novi,1
+Mahindra,0,Oak Park,2
+Mahindra,0,Oakland Park,1
+Mahindra,0,Oakville,1
+Mahindra,0,Oklahoma City,1
+Mahindra,0,Olathe,1
+Mahindra,0,Olympia,1
+Mahindra,0,Omaha,1
+Mahindra,0,Oregon City,2
+Mahindra,0,Orlando,2
+Mahindra,0,Ormond Beach,1
+Mahindra,0,Oro Valley,1
+Mahindra,0,Oviedo,1
+Mahindra,0,Owasso,2
+Mahindra,0,Owosso,1
+Mahindra,0,Oxford,1
+Mahindra,0,Pahrump,1
+Mahindra,0,Palm Bay,1
+Mahindra,0,Palm Beach Gardens,1
+Mahindra,0,Palm Springs,1
+Mahindra,0,Panama City,1
+Mahindra,0,Papillion,1
+Mahindra,0,Park Ridge,2
+Mahindra,0,Pasadena,3
+Mahindra,0,Passaic,1
+Mahindra,0,Paterson,2
+Mahindra,0,Peachtree City,1
+Mahindra,0,Pembroke Pines,1
+Mahindra,0,Pendleton,1
+Mahindra,0,Pepperell,1
+Mahindra,0,Perry Hall,1
+Mahindra,0,Phenix City,2
+Mahindra,0,Philadelphia,7
+Mahindra,0,Pikesville,1
+Mahindra,0,Plainview,2
+Mahindra,0,Plum,2
+Mahindra,0,Plymouth,1
+Mahindra,0,Pomona,1
+Mahindra,0,Ponca City,1
+Mahindra,0,Ponte Vedra Beach,1
+Mahindra,0,Port Charlotte,3
+Mahindra,0,Port Chester,1
+Mahindra,0,Port Saint Lucie,1
+Mahindra,0,Portland,1
+Mahindra,0,Post Falls,1
+Mahindra,0,Potomac,1
+Mahindra,0,Provo,1
+Mahindra,0,Pueblo,1
+Mahindra,0,Pullman,2
+Mahindra,0,Quincy,1
+Mahindra,0,Radnor,1
+Mahindra,0,Rapid City,2
+Mahindra,0,Raytown,2
+Mahindra,0,Red Wing,1
+Mahindra,0,Redford,2
+Mahindra,0,Redwood City,1
+Mahindra,0,Reno,1
+Mahindra,0,Reston,1
+Mahindra,0,Revere,1
+Mahindra,0,Reynoldsburg,1
+Mahindra,0,Richmond,3
+Mahindra,0,Riverside,1
+Mahindra,0,Riviera Beach,1
+Mahindra,0,Rock Hill,1
+Mahindra,0,Rock Island,2
+Mahindra,0,Rockford,3
+Mahindra,0,Rocky Mount,1
+Mahindra,0,Rome,1
+Mahindra,0,Romeoville,1
+Mahindra,0,Rose Hill,1
+Mahindra,0,Roswell,1
+Mahindra,0,Rowlett,1
+Mahindra,0,Roy,1
+Mahindra,0,Royal Palm Beach,1
+Mahindra,0,Russellville,1
+Mahindra,0,Rutland,2
+Mahindra,0,Saginaw,1
+Mahindra,0,Saint Charles,2
+Mahindra,0,Saint Paul,1
+Mahindra,0,Saint Peters,1
+Mahindra,0,Salem,1
+Mahindra,0,San Antonio,1
+Mahindra,0,San Carlos,2
+Mahindra,0,San Clemente,3
+Mahindra,0,San Diego,3
+Mahindra,0,San Francisco,4
+Mahindra,0,San Gabriel,1
+Mahindra,0,San Jose,1
+Mahindra,0,San Marcos,1
+Mahindra,0,Santa Clara,3
+Mahindra,0,Santa Monica,2
+Mahindra,0,Sarasota,2
+Mahindra,0,Saratoga,2
+Mahindra,0,Savage,1
+Mahindra,0,Savannah,2
+Mahindra,0,Schaumburg,2
+Mahindra,0,Schenectady,1
+Mahindra,0,Schererville,2
+Mahindra,0,Searcy,1
+Mahindra,0,Seattle,5
+Mahindra,0,Secaucus,1
+Mahindra,0,Selma,1
+Mahindra,0,Severna Park,1
+Mahindra,0,Shawnee,1
+Mahindra,0,Shirley,1
+Mahindra,0,Silver Spring,1
+Mahindra,0,Sioux City,1
+Mahindra,0,Smyrna,1
+Mahindra,0,South Bend,2
+Mahindra,0,Sparks,1
+Mahindra,0,Spartanburg,1
+Mahindra,0,Spring Hill,1
+Mahindra,0,Springdale,1
+Mahindra,0,Springfield,4
+Mahindra,0,Stamford,1
+Mahindra,0,Sterling Heights,1
+Mahindra,0,Stevens Point,1
+Mahindra,0,Streamwood,1
+Mahindra,0,Sugar Land,1
+Mahindra,0,Sulphur Springs,1
+Mahindra,0,Sun Prairie,2
+Mahindra,0,Superior,2
+Mahindra,0,Surprise,1
+Mahindra,0,Tacoma,1
+Mahindra,0,Tallahassee,1
+Mahindra,0,Tamarac,1
+Mahindra,0,Taylors,1
+Mahindra,0,Tempe,1
+Mahindra,0,Texarkana,1
+Mahindra,0,Tigard,1
+Mahindra,0,Tinley Park,1
+Mahindra,0,Toledo,1
+Mahindra,0,Toms River,1
+Mahindra,0,Tooele,3
+Mahindra,0,Trenton,1
+Mahindra,0,Troy,1
+Mahindra,0,Tulsa,1
+Mahindra,0,Twin Falls,2
+Mahindra,0,University City,1
+Mahindra,0,Upper Arlington,1
+Mahindra,0,Upper Saint Clair,1
+Mahindra,0,Urbandale,1
+Mahindra,0,Vallejo,1
+Mahindra,0,Valparaiso,2
+Mahindra,0,Virginia Beach,1
+Mahindra,0,Wake Forest,1
+Mahindra,0,Walla Walla,2
+Mahindra,0,Warren,1
+Mahindra,0,Washington,5
+Mahindra,0,Waterloo,2
+Mahindra,0,Watertown,1
+Mahindra,0,Waxahachie,1
+Mahindra,0,Wenatchee,2
+Mahindra,0,Weslaco,2
+Mahindra,0,West Babylon,1
+Mahindra,0,West Chicago,1
+Mahindra,0,West Hollywood,2
+Mahindra,0,West Linn,1
+Mahindra,0,West Memphis,1
+Mahindra,0,West Valley City,2
+Mahindra,0,Westlake,1
+Mahindra,0,Wheat Ridge,1
+Mahindra,0,Whitehall,2
+Mahindra,0,Wichita,1
+Mahindra,0,Wilkes Barre,1
+Mahindra,0,Willoughby,1
+Mahindra,0,Wilmette,2
+Mahindra,0,Wilmington,1
+Mahindra,0,Wilson,1
+Mahindra,0,Winchester,2
+Mahindra,0,Woodmere,1
+Mahindra,0,Woodstock,1
+Mahindra,0,Woonsocket,1
+Mahindra,0,Wooster,1
+Mahindra,0,Wylie,1
+Mahindra,0,Yonkers,2
+Mahindra,0,York,1
+Mahindra,0,Yuba City,1
+Mahindra,0,Yucaipa,1
+Mahindra,1,Boston,1
+Mahindra,1,Camarillo,1
+Mahindra,1,Camp Springs,1
+Mahindra,1,Charlotte,1
+Mahindra,1,Dallas,1
+Mahindra,1,Danville,1
+Mahindra,1,East Chicago,1
+Mahindra,1,Edgewood,1
+Mahindra,1,Edmonds,1
+Mahindra,1,Enid,1
+Mahindra,1,Escondido,1
+Mahindra,1,Fairfax,1
+Mahindra,1,Fairfield,1
+Mahindra,1,Fitchburg,1
+Mahindra,1,Helena,1
+Mahindra,1,Immokalee,1
+Mahindra,1,Kannapolis,1
+Mahindra,1,Kingsville,2
+Mahindra,1,Long Beach,1
+Mahindra,1,Los Angeles,2
+Mahindra,1,New York City,1
+Mahindra,1,Pittsburg,1
+Mahindra,1,Pleasant Grove,1
+Mahindra,1,Salt Lake City,1
+Mahindra,1,San Diego,1
+Mahindra,1,Sherwood,1
+Mahindra,1,Shirley,1
+Mahindra,1,Southgate,1
+Mahindra,1,Trenton,1
+Mahindra,1,Warren,1
+Maruti,0,Adrian,1
+Maruti,0,Albany,2
+Maruti,0,Albuquerque,2
+Maruti,0,Aloha,1
+Maruti,0,Altamonte Springs,1
+Maruti,0,Alton,1
+Maruti,0,Altoona,1
+Maruti,0,Ames,1
+Maruti,0,Anacortes,1
+Maruti,0,Anaheim,2
+Maruti,0,Ann Arbor,1
+Maruti,0,Apopka,2
+Maruti,0,Apple Valley,3
+Maruti,0,Appleton,2
+Maruti,0,Arlington,1
+Maruti,0,Arlington Heights,1
+Maruti,0,Aspen Hill,2
+Maruti,0,Athens,3
+Maruti,0,Atlanta,1
+Maruti,0,Attleboro,1
+Maruti,0,Auburn,1
+Maruti,0,Austin,1
+Maruti,0,Bakersfield,1
+Maruti,0,Baldwin,1
+Maruti,0,Bangor,2
+Maruti,0,Battle Creek,1
+Maruti,0,Baytown,1
+Maruti,0,Beaumont,1
+Maruti,0,Beckley,1
+Maruti,0,Bellingham,2
+Maruti,0,Belvidere,1
+Maruti,0,Bennington,1
+Maruti,0,Benton,1
+Maruti,0,Berea,1
+Maruti,0,Billings,1
+Maruti,0,Biloxi,1
+Maruti,0,Birmingham,1
+Maruti,0,Blaine,1
+Maruti,0,Bloomington,1
+Maruti,0,Boca Raton,1
+Maruti,0,Boise,4
+Maruti,0,Boston,10
+Maruti,0,Bozeman,1
+Maruti,0,Bradenton,1
+Maruti,0,Brentwood,1
+Maruti,0,Broken Arrow,1
+Maruti,0,Brookings,2
+Maruti,0,Brooklyn Center,1
+Maruti,0,Broomfield,1
+Maruti,0,Burien,2
+Maruti,0,Burke,1
+Maruti,0,Burlington,1
+Maruti,0,Burton,1
+Maruti,0,Caldwell,2
+Maruti,0,Calexico,1
+Maruti,0,Calumet City,1
+Maruti,0,Cambridge,1
+Maruti,0,Camden,1
+Maruti,0,Carbondale,1
+Maruti,0,Carlsbad,1
+Maruti,0,Carrollton,1
+Maruti,0,Carteret,1
+Maruti,0,Cedar Hill,1
+Maruti,0,Cedar Park,1
+Maruti,0,Cedar Rapids,1
+Maruti,0,Centereach,1
+Maruti,0,Central Falls,1
+Maruti,0,Central Islip,1
+Maruti,0,Charlotte,5
+Maruti,0,Chattanooga,1
+Maruti,0,Chester,2
+Maruti,0,Chicago,12
+Maruti,0,Chico,1
+Maruti,0,Cincinnati,1
+Maruti,0,Clarksburg,1
+Maruti,0,Clearfield,1
+Maruti,0,Cleveland,2
+Maruti,0,Clinton,4
+Maruti,0,Cohoes,3
+Maruti,0,Colchester,2
+Maruti,0,Colorado Springs,1
+Maruti,0,Columbus,1
+Maruti,0,Commack,1
+Maruti,0,Concord,2
+Maruti,0,Conroe,2
+Maruti,0,Coon Rapids,2
+Maruti,0,Coppell,1
+Maruti,0,Costa Mesa,1
+Maruti,0,Cottage Grove,2
+Maruti,0,Country Club Hills,1
+Maruti,0,Covington,1
+Maruti,0,Creve Coeur,1
+Maruti,0,Cumberland,2
+Maruti,0,Cuyahoga Falls,1
+Maruti,0,Dallas,6
+Maruti,0,Dearborn Heights,1
+Maruti,0,Deer Park,2
+Maruti,0,Delaware,1
+Maruti,0,Delray Beach,1
+Maruti,0,Deltona,1
+Maruti,0,Des Moines,1
+Maruti,0,Detroit,6
+Maruti,0,Dix Hills,2
+Maruti,0,Douglasville,1
+Maruti,0,Dover,2
+Maruti,0,Draper,1
+Maruti,0,Dundalk,1
+Maruti,0,Dunwoody,1
+Maruti,0,Durango,2
+Maruti,0,Durham,1
+Maruti,0,Eagle Pass,1
+Maruti,0,East Chicago,1
+Maruti,0,East Los Angeles,1
+Maruti,0,East Massapequa,1
+Maruti,0,East Meadow,2
+Maruti,0,East Saint Louis,1
+Maruti,0,Edison,1
+Maruti,0,Edmonds,1
+Maruti,0,El Centro,1
+Maruti,0,El Paso,1
+Maruti,0,Ellicott City,1
+Maruti,0,Emporia,1
+Maruti,0,Englewood,2
+Maruti,0,Enid,1
+Maruti,0,Escondido,1
+Maruti,0,Eureka,1
+Maruti,0,Evanston,1
+Maruti,0,Fair Lawn,2
+Maruti,0,Fairborn,2
+Maruti,0,Fairfax,2
+Maruti,0,Fairfield,1
+Maruti,0,Fargo,1
+Maruti,0,Farmington Hills,1
+Maruti,0,Fayetteville,2
+Maruti,0,Findlay,1
+Maruti,0,Fitchburg,2
+Maruti,0,Flagstaff,1
+Maruti,0,Flint,3
+Maruti,0,Florence,1
+Maruti,0,Florissant,1
+Maruti,0,Flower Mound,1
+Maruti,0,Fort Collins,1
+Maruti,0,Fort Dodge,3
+Maruti,0,Fort Lauderdale,1
+Maruti,0,Fort Myers,1
+Maruti,0,Fort Thomas,1
+Maruti,0,Fort Wayne,1
+Maruti,0,Fort Worth,1
+Maruti,0,Fountain,1
+Maruti,0,Framingham,1
+Maruti,0,Frankfort,2
+Maruti,0,Fremont,2
+Maruti,0,Friendswood,1
+Maruti,0,Fruit Cove,2
+Maruti,0,Gadsden,1
+Maruti,0,Gainesville,5
+Maruti,0,Gallatin,2
+Maruti,0,Garden City,4
+Maruti,0,Gastonia,1
+Maruti,0,Gladstone,1
+Maruti,0,Glendale,1
+Maruti,0,Goodyear,1
+Maruti,0,Gorham,1
+Maruti,0,Grand Forks,1
+Maruti,0,Granger,1
+Maruti,0,Granite City,2
+Maruti,0,Grants Pass,2
+Maruti,0,Hacienda Heights,1
+Maruti,0,Hackensack,1
+Maruti,0,Hagerstown,1
+Maruti,0,Hammond,1
+Maruti,0,Hampton,2
+Maruti,0,Harrison,3
+Maruti,0,Harrisonburg,2
+Maruti,0,Hattiesburg,1
+Maruti,0,Hays,1
+Maruti,0,Hazelwood,1
+Maruti,0,Hazleton,1
+Maruti,0,Hempstead,1
+Maruti,0,Henderson,2
+Maruti,0,Hendersonville,2
+Maruti,0,Hesperia,2
+Maruti,0,Hialeah,1
+Maruti,0,High Point,1
+Maruti,0,Highland Park,1
+Maruti,0,Hilton Head Island,2
+Maruti,0,Hinesville,1
+Maruti,0,Holbrook,1
+Maruti,0,Holladay,1
+Maruti,0,Hollywood,1
+Maruti,0,Hoover,1
+Maruti,0,Houston,4
+Maruti,0,Huber Heights,2
+Maruti,0,Hudson,3
+Maruti,0,Huntington Beach,3
+Maruti,0,Huntsville,1
+Maruti,0,Hurst,1
+Maruti,0,Hutchinson,2
+Maruti,0,Immokalee,1
+Maruti,0,Independence,2
+Maruti,0,Indian Trail,2
+Maruti,0,Indianapolis,4
+Maruti,0,Inglewood,1
+Maruti,0,Iowa City,1
+Maruti,0,Jackson,4
+Maruti,0,Jacksonville,1
+Maruti,0,Jamestown,2
+Maruti,0,Jefferson City,3
+Maruti,0,Jeffersonville,3
+Maruti,0,Johnson City,1
+Maruti,0,Joliet,2
+Maruti,0,Kankakee,1
+Maruti,0,Kansas City,2
+Maruti,0,Kaysville,1
+Maruti,0,Kearney,1
+Maruti,0,Kearns,1
+Maruti,0,Keizer,1
+Maruti,0,Kennesaw,1
+Maruti,0,Kent,2
+Maruti,0,Killingly Center,1
+Maruti,0,Kingston,1
+Maruti,0,Kirkland,1
+Maruti,0,Kokomo,4
+Maruti,0,La Vista,1
+Maruti,0,Lake Elsinore,1
+Maruti,0,Lake In The Hills,2
+Maruti,0,Lake Jackson,1
+Maruti,0,Lakewood,2
+Maruti,0,Lancaster,1
+Maruti,0,Lansing,2
+Maruti,0,Laredo,1
+Maruti,0,Las Cruces,2
+Maruti,0,Laurel,1
+Maruti,0,Laurinburg,1
+Maruti,0,Lawndale,2
+Maruti,0,Lawrence,3
+Maruti,0,Leander,1
+Maruti,0,Lehigh Acres,1
+Maruti,0,Lewiston,1
+Maruti,0,Liberal,1
+Maruti,0,Lincoln,1
+Maruti,0,Lincoln Park,1
+Maruti,0,Lindenhurst,1
+Maruti,0,Lino Lakes,1
+Maruti,0,Livonia,1
+Maruti,0,Lodi,2
+Maruti,0,Lombard,2
+Maruti,0,Londonderry,1
+Maruti,0,Long Beach,2
+Maruti,0,Longmont,1
+Maruti,0,Los Altos,1
+Maruti,0,Los Angeles,22
+Maruti,0,Los Banos,1
+Maruti,0,Los Gatos,1
+Maruti,0,Lubbock,1
+Maruti,0,Lynchburg,1
+Maruti,0,Macon,1
+Maruti,0,Madison Heights,1
+Maruti,0,Magna,1
+Maruti,0,Manhattan Beach,2
+Maruti,0,Mansfield,2
+Maruti,0,Maple Shade,1
+Maruti,0,Marblehead,1
+Maruti,0,Margate,1
+Maruti,0,Marietta,1
+Maruti,0,Marion,2
+Maruti,0,Marrero,1
+Maruti,0,Marshalltown,2
+Maruti,0,Maryland Heights,2
+Maruti,0,Marysville,1
+Maruti,0,Maryville,2
+Maruti,0,Mason City,1
+Maruti,0,Mauldin,1
+Maruti,0,McKeesport,1
+Maruti,0,Mcallen,1
+Maruti,0,Medford,1
+Maruti,0,Medina,1
+Maruti,0,Melbourne,1
+Maruti,0,Menlo Park,3
+Maruti,0,Meridian,2
+Maruti,0,Merrimack,1
+Maruti,0,Merritt Island,1
+Maruti,0,Mesquite,1
+Maruti,0,Miami,2
+Maruti,0,Middle River,1
+Maruti,0,Midland,2
+Maruti,0,Milwaukee,1
+Maruti,0,Minneapolis,1
+Maruti,0,Minnetonka Mills,1
+Maruti,0,Miramar,1
+Maruti,0,Mobile,2
+Maruti,0,Monroe,2
+Maruti,0,Monroeville,1
+Maruti,0,Montgomery,1
+Maruti,0,Moorhead,2
+Maruti,0,Moreno Valley,2
+Maruti,0,Morgan Hill,2
+Maruti,0,Moscow,1
+Maruti,0,Mount Lebanon,1
+Maruti,0,Mount Pleasant,2
+Maruti,0,Mount Vernon,1
+Maruti,0,Muncie,1
+Maruti,0,Mundelein,1
+Maruti,0,Munster,1
+Maruti,0,Murfreesboro,1
+Maruti,0,Myrtle Beach,1
+Maruti,0,Napa,1
+Maruti,0,Nashville,1
+Maruti,0,Naugatuck,1
+Maruti,0,Neenah,2
+Maruti,0,New Albany,1
+Maruti,0,New Berlin,1
+Maruti,0,New Bern,1
+Maruti,0,New Brunswick,1
+Maruti,0,New City,1
+Maruti,0,New Iberia,1
+Maruti,0,New Orleans,1
+Maruti,0,New York City,19
+Maruti,0,Newark,4
+Maruti,0,Newport,1
+Maruti,0,Newton,1
+Maruti,0,Noblesville,1
+Maruti,0,Norfolk,1
+Maruti,0,Norman,2
+Maruti,0,North Las Vegas,1
+Maruti,0,North Pembroke,2
+Maruti,0,North Platte,1
+Maruti,0,North Royalton,2
+Maruti,0,Norton,1
+Maruti,0,Norwich,1
+Maruti,0,Novi,1
+Maruti,0,Oak Forest,2
+Maruti,0,Oak Lawn,1
+Maruti,0,Oak Park,2
+Maruti,0,Oakland Park,2
+Maruti,0,Oakton,2
+Maruti,0,Oceanside,1
+Maruti,0,Odenton,1
+Maruti,0,Odessa,1
+Maruti,0,Ogden,1
+Maruti,0,Oklahoma City,1
+Maruti,0,Olathe,1
+Maruti,0,Olney,1
+Maruti,0,Omaha,1
+Maruti,0,Opelika,2
+Maruti,0,Oregon City,1
+Maruti,0,Orland Park,1
+Maruti,0,Oro Valley,2
+Maruti,0,Oswego,2
+Maruti,0,Overland Park,1
+Maruti,0,Oviedo,1
+Maruti,0,Owasso,1
+Maruti,0,Owatonna,3
+Maruti,0,Owings Mills,1
+Maruti,0,Owosso,1
+Maruti,0,Oxford,1
+Maruti,0,Oxnard,2
+Maruti,0,Pacifica,1
+Maruti,0,Palm Beach Gardens,4
+Maruti,0,Palm Coast,1
+Maruti,0,Palm Springs,3
+Maruti,0,Palo Alto,1
+Maruti,0,Panama City,2
+Maruti,0,Papillion,1
+Maruti,0,Passaic,1
+Maruti,0,Peachtree City,2
+Maruti,0,Pekin,1
+Maruti,0,Penn Hills,2
+Maruti,0,Peoria,2
+Maruti,0,Pepperell,1
+Maruti,0,Perth Amboy,1
+Maruti,0,Phenix City,2
+Maruti,0,Philadelphia,3
+Maruti,0,Phoenix,1
+Maruti,0,Pikesville,1
+Maruti,0,Pine Bluff,1
+Maruti,0,Pittsburg,2
+Maruti,0,Pittsburgh,2
+Maruti,0,Plainfield,1
+Maruti,0,Plano,1
+Maruti,0,Pleasant Grove,1
+Maruti,0,Plymouth,1
+Maruti,0,Pomona,1
+Maruti,0,Ponca City,1
+Maruti,0,Ponte Vedra Beach,1
+Maruti,0,Pontiac,1
+Maruti,0,Port Arthur,1
+Maruti,0,Port Charlotte,3
+Maruti,0,Port Chester,1
+Maruti,0,Port Huron,1
+Maruti,0,Port Saint Lucie,1
+Maruti,0,Portland,1
+Maruti,0,Portsmouth,2
+Maruti,0,Post Falls,1
+Maruti,0,Prairie Village,1
+Maruti,0,Prior Lake,2
+Maruti,0,Pueblo,1
+Maruti,0,Pueblo West,2
+Maruti,0,Puyallup,1
+Maruti,0,Radnor,3
+Maruti,0,Rancho Cucamonga,1
+Maruti,0,Randallstown,2
+Maruti,0,Rapid City,1
+Maruti,0,Raytown,1
+Maruti,0,Reading,1
+Maruti,0,Red Wing,1
+Maruti,0,Redding,1
+Maruti,0,Redlands,2
+Maruti,0,Redmond,2
+Maruti,0,Reisterstown,1
+Maruti,0,Reno,1
+Maruti,0,Reston,1
+Maruti,0,Richfield,2
+Maruti,0,Richmond,3
+Maruti,0,Ridgewood,1
+Maruti,0,Rio Rancho,1
+Maruti,0,Riverside,1
+Maruti,0,Riverview,1
+Maruti,0,Roanoke,1
+Maruti,0,Rock Hill,1
+Maruti,0,Rockford,2
+Maruti,0,Rocklin,1
+Maruti,0,Rome,2
+Maruti,0,Romeoville,1
+Maruti,0,Rose Hill,2
+Maruti,0,Roseville,4
+Maruti,0,Roswell,2
+Maruti,0,Rotterdam,1
+Maruti,0,Rowlett,1
+Maruti,0,Royal Oak,1
+Maruti,0,Rye,1
+Maruti,0,Saco,1
+Maruti,0,Sacramento,2
+Maruti,0,Saginaw,1
+Maruti,0,Saint Charles,3
+Maruti,0,Saint Clair Shores,1
+Maruti,0,Saint Cloud,3
+Maruti,0,Saint Louis,1
+Maruti,0,Saint Paul,1
+Maruti,0,Saint Petersburg,1
+Maruti,0,Salt Lake City,1
+Maruti,0,San Antonio,1
+Maruti,0,San Bernardino,2
+Maruti,0,San Diego,3
+Maruti,0,San Francisco,5
+Maruti,0,San Gabriel,3
+Maruti,0,San Luis Obispo,1
+Maruti,0,San Marcos,1
+Maruti,0,San Mateo,2
+Maruti,0,Sanford,3
+Maruti,0,Santa Clara,1
+Maruti,0,Santa Rosa,1
+Maruti,0,Sarasota,1
+Maruti,0,Savage,1
+Maruti,0,Savannah,1
+Maruti,0,Schaumburg,2
+Maruti,0,Schenectady,2
+Maruti,0,Schererville,2
+Maruti,0,Scottsdale,1
+Maruti,0,Searcy,2
+Maruti,0,Seattle,6
+Maruti,0,Selma,1
+Maruti,0,Seymour,1
+Maruti,0,Sharon,3
+Maruti,0,Sherwood,1
+Maruti,0,Shreveport,1
+Maruti,0,Sioux City,1
+Maruti,0,Skokie,1
+Maruti,0,Smithtown,1
+Maruti,0,Somerset,1
+Maruti,0,South Burlington,2
+Maruti,0,South Vineland,1
+Maruti,0,Southgate,1
+Maruti,0,Spanaway,1
+Maruti,0,Sparks,1
+Maruti,0,Spartanburg,1
+Maruti,0,Spokane,1
+Maruti,0,Spring,1
+Maruti,0,Springfield,6
+Maruti,0,Springville,2
+Maruti,0,Steubenville,2
+Maruti,0,Stillwater,2
+Maruti,0,Stow,1
+Maruti,0,Sulphur Springs,1
+Maruti,0,Summerville,2
+Maruti,0,Summit,1
+Maruti,0,Sunnyvale,3
+Maruti,0,Syracuse,1
+Maruti,0,Tacoma,2
+Maruti,0,Tampa,1
+Maruti,0,Taylors,3
+Maruti,0,Teaneck,1
+Maruti,0,Temecula,1
+Maruti,0,Tempe,1
+Maruti,0,Texarkana,1
+Maruti,0,The Woodlands,1
+Maruti,0,Thomasville,2
+Maruti,0,Thornton,2
+Maruti,0,Thousand Oaks,1
+Maruti,0,Tinley Park,1
+Maruti,0,Titusville,1
+Maruti,0,Tonawanda,1
+Maruti,0,Topeka,4
+Maruti,0,Torrance,2
+Maruti,0,Tracy,1
+Maruti,0,Tuscaloosa,1
+Maruti,0,Twentynine Palms,4
+Maruti,0,Tysons Corner,2
+Maruti,0,Utica,2
+Maruti,0,Vacaville,2
+Maruti,0,Vallejo,1
+Maruti,0,Vancouver,2
+Maruti,0,Virginia Beach,2
+Maruti,0,Waco,1
+Maruti,0,Waldorf,1
+Maruti,0,Walpole,1
+Maruti,0,Warren,1
+Maruti,0,Washington,7
+Maruti,0,Waterford,1
+Maruti,0,Watertown,1
+Maruti,0,Waxahachie,1
+Maruti,0,Wentzville,1
+Maruti,0,West Chicago,1
+Maruti,0,West Des Moines,1
+Maruti,0,West Lafayette,1
+Maruti,0,West Linn,1
+Maruti,0,Westbrook,1
+Maruti,0,Westerville,1
+Maruti,0,Westland,1
+Maruti,0,Westminster,2
+Maruti,0,Wheeling,3
+Maruti,0,White Plains,1
+Maruti,0,Wilmington,2
+Maruti,0,Wilson,1
+Maruti,0,Winchester,2
+Maruti,0,Woburn,1
+Maruti,0,Woodbridge,1
+Maruti,0,Woodburn,1
+Maruti,0,Woodmere,1
+Maruti,0,Woodridge,1
+Maruti,0,Woodstock,3
+Maruti,0,Woonsocket,1
+Maruti,0,Wyoming,1
+Maruti,0,Youngstown,1
+Maruti,1,Acton,1
+Maruti,1,Addison,1
+Maruti,1,Aiken,1
+Maruti,1,Alamogordo,2
+Maruti,1,Albany,1
+Maruti,1,Albuquerque,5
+Maruti,1,Alexandria,1
+Maruti,1,Allen,1
+Maruti,1,Allen Park,1
+Maruti,1,Allentown,1
+Maruti,1,Altoona,1
+Maruti,1,Altus,1
+Maruti,1,Amarillo,1
+Maruti,1,American Fork,2
+Maruti,1,Anderson,3
+Maruti,1,Annandale,2
+Maruti,1,Annapolis,1
+Maruti,1,Apex,1
+Maruti,1,Apopka,1
+Maruti,1,Apple Valley,1
+Maruti,1,Arlington,3
+Maruti,1,Ashland,1
+Maruti,1,Atascadero,3
+Maruti,1,Athens,2
+Maruti,1,Atlanta,9
+Maruti,1,Auburn,6
+Maruti,1,Augusta,4
+Maruti,1,Aurora,1
+Maruti,1,Bakersfield,1
+Maruti,1,Baldwin,1
+Maruti,1,Bangor,3
+Maruti,1,Bartlesville,1
+Maruti,1,Batavia,1
+Maruti,1,Baton Rouge,1
+Maruti,1,Battle Creek,3
+Maruti,1,Bay City,2
+Maruti,1,Bayonne,1
+Maruti,1,Baytown,1
+Maruti,1,Beaumont,2
+Maruti,1,Bedford,2
+Maruti,1,Belchertown,1
+Maruti,1,Belle Glade,1
+Maruti,1,Belleville,3
+Maruti,1,Bellevue,2
+Maruti,1,Belvidere,2
+Maruti,1,Bennington,1
+Maruti,1,Bentonville,1
+Maruti,1,Berkeley,3
+Maruti,1,Bethel Park,1
+Maruti,1,Bethpage,1
+Maruti,1,Bettendorf,2
+Maruti,1,Biddeford,1
+Maruti,1,Billings,2
+Maruti,1,Birmingham,1
+Maruti,1,Bismarck,3
+Maruti,1,Bloomington,3
+Maruti,1,Boardman,2
+Maruti,1,Boise,1
+Maruti,1,Boston,15
+Maruti,1,Bothell,1
+Maruti,1,Boulder,1
+Maruti,1,Bowling Green,2
+Maruti,1,Boynton Beach,1
+Maruti,1,Bozeman,3
+Maruti,1,Bradenton,1
+Maruti,1,Braintree,1
+Maruti,1,Brentwood,1
+Maruti,1,Bridgeton,1
+Maruti,1,Bristol,1
+Maruti,1,Broken Arrow,1
+Maruti,1,Brookings,2
+Maruti,1,Brownsville,1
+Maruti,1,Brunswick,1
+Maruti,1,Bryant,1
+Maruti,1,Buffalo,1
+Maruti,1,Bullhead City,2
+Maruti,1,Burbank,3
+Maruti,1,Burien,2
+Maruti,1,Burke,1
+Maruti,1,Burleson,1
+Maruti,1,Burlington,4
+Maruti,1,Burnsville,1
+Maruti,1,Caldwell,2
+Maruti,1,Calexico,1
+Maruti,1,Calumet City,1
+Maruti,1,Camarillo,3
+Maruti,1,Camp Springs,1
+Maruti,1,Canton,1
+Maruti,1,Carlsbad,2
+Maruti,1,Carol City,1
+Maruti,1,Carol Stream,1
+Maruti,1,Carrollton,1
+Maruti,1,Carson City,3
+Maruti,1,Cary,1
+Maruti,1,Casper,1
+Maruti,1,Castle Rock,1
+Maruti,1,Catonsville,1
+Maruti,1,Cedar Falls,1
+Maruti,1,Cedar Hill,3
+Maruti,1,Cedar Rapids,4
+Maruti,1,Centereach,2
+Maruti,1,Central Islip,1
+Maruti,1,Champaign,1
+Maruti,1,Channelview,2
+Maruti,1,Charleston,3
+Maruti,1,Charlotte,6
+Maruti,1,Charlottesville,3
+Maruti,1,Cheshire,1
+Maruti,1,Chicago,13
+Maruti,1,Chico,2
+Maruti,1,Chicopee,1
+Maruti,1,Chula Vista,1
+Maruti,1,Cincinnati,1
+Maruti,1,Citrus Heights,1
+Maruti,1,Claremont,3
+Maruti,1,Clarksburg,2
+Maruti,1,Clayton,1
+Maruti,1,Cleburne,1
+Maruti,1,Cleveland,2
+Maruti,1,Cleveland Heights,1
+Maruti,1,Clifton,1
+Maruti,1,Clinton,2
+Maruti,1,Cloverleaf,1
+Maruti,1,Clovis,1
+Maruti,1,Coachella,1
+Maruti,1,Coconut Creek,1
+Maruti,1,Cohoes,1
+Maruti,1,Colchester,3
+Maruti,1,College Station,1
+Maruti,1,Collierville,2
+Maruti,1,Columbia,5
+Maruti,1,Columbus,2
+Maruti,1,Commack,1
+Maruti,1,Commerce City,1
+Maruti,1,Concord,3
+Maruti,1,Conroe,1
+Maruti,1,Conway,2
+Maruti,1,Coon Rapids,1
+Maruti,1,Coralville,1
+Maruti,1,Corsicana,1
+Maruti,1,Cottage Grove,1
+Maruti,1,Cottage Lake,1
+Maruti,1,Country Club Hills,1
+Maruti,1,Covington,1
+Maruti,1,Cranford,1
+Maruti,1,Cranston,1
+Maruti,1,Creve Coeur,3
+Maruti,1,Crofton,1
+Maruti,1,Crown Point,1
+Maruti,1,Cumberland,1
+Maruti,1,Dallas,10
+Maruti,1,Dalton,1
+Maruti,1,Danville,2
+Maruti,1,Davie,1
+Maruti,1,Davis,1
+Maruti,1,Dayton,2
+Maruti,1,Dearborn Heights,1
+Maruti,1,Decatur,2
+Maruti,1,Deer Park,2
+Maruti,1,Deland,1
+Maruti,1,Delray Beach,3
+Maruti,1,Denver,2
+Maruti,1,Derby,1
+Maruti,1,Derry,1
+Maruti,1,Des Moines,3
+Maruti,1,Des Plaines,1
+Maruti,1,Detroit,7
+Maruti,1,Dickinson,1
+Maruti,1,Dix Hills,1
+Maruti,1,Draper,1
+Maruti,1,Drexel Hill,1
+Maruti,1,Dublin,2
+Maruti,1,Dubuque,2
+Maruti,1,Duncanville,3
+Maruti,1,Dunwoody,1
+Maruti,1,Eagle,3
+Maruti,1,East Chicago,1
+Maruti,1,East Cleveland,1
+Maruti,1,East Lansing,1
+Maruti,1,East Los Angeles,4
+Maruti,1,East Massapequa,1
+Maruti,1,East Meadow,1
+Maruti,1,East Point,2
+Maruti,1,East Saint Louis,1
+Maruti,1,Eastpointe,2
+Maruti,1,Eden,2
+Maruti,1,Eden Prairie,3
+Maruti,1,Edgewood,1
+Maruti,1,Edinburg,1
+Maruti,1,Edison,1
+Maruti,1,El Centro,1
+Maruti,1,El Dorado Hills,2
+Maruti,1,El Paso,1
+Maruti,1,Elgin,3
+Maruti,1,Elmira,1
+Maruti,1,Elyria,2
+Maruti,1,Enid,1
+Maruti,1,Enterprise,1
+Maruti,1,Erie,1
+Maruti,1,Escondido,1
+Maruti,1,Essex Junction,3
+Maruti,1,Euclid,1
+Maruti,1,Eugene,1
+Maruti,1,Evans,2
+Maruti,1,Everett,2
+Maruti,1,Ewing,2
+Maruti,1,Fairfield,1
+Maruti,1,Fairmont,3
+Maruti,1,Fall River,1
+Maruti,1,Fargo,1
+Maruti,1,Farmers Branch,2
+Maruti,1,Farmington Hills,2
+Maruti,1,Fayetteville,2
+Maruti,1,Ferguson,4
+Maruti,1,Findlay,1
+Maruti,1,Flint,1
+Maruti,1,Florence,4
+Maruti,1,Florissant,2
+Maruti,1,Forest Park,1
+Maruti,1,Fort Bragg,3
+Maruti,1,Fort Collins,2
+Maruti,1,Fort Lauderdale,1
+Maruti,1,Fort Myers,2
+Maruti,1,Fort Pierce,1
+Maruti,1,Fort Smith,1
+Maruti,1,Fort Wayne,2
+Maruti,1,Fort Worth,2
+Maruti,1,Frankfort,1
+Maruti,1,Freeport,1
+Maruti,1,Fresno,3
+Maruti,1,Friendswood,2
+Maruti,1,Fruit Cove,1
+Maruti,1,Gahanna,1
+Maruti,1,Gainesville,2
+Maruti,1,Galesburg,2
+Maruti,1,Garden City,2
+Maruti,1,Garfield,1
+Maruti,1,Garfield Heights,2
+Maruti,1,Garner,1
+Maruti,1,Gastonia,1
+Maruti,1,Germantown,3
+Maruti,1,Gilroy,1
+Maruti,1,Glen Cove,4
+Maruti,1,Glen Ellyn,1
+Maruti,1,Glendale,1
+Maruti,1,Glenview,1
+Maruti,1,Gloucester,1
+Maruti,1,Goleta,2
+Maruti,1,Goodyear,1
+Maruti,1,Grand Forks,1
+Maruti,1,Grand Island,2
+Maruti,1,Grand Prairie,2
+Maruti,1,Grand Rapids,3
+Maruti,1,Granger,1
+Maruti,1,Granite City,2
+Maruti,1,Great Falls,1
+Maruti,1,Green Bay,2
+Maruti,1,Greeneville,1
+Maruti,1,Greenfield,1
+Maruti,1,Greensboro,2
+Maruti,1,Greensburg,3
+Maruti,1,Greenville,1
+Maruti,1,Greer,2
+Maruti,1,Gurnee,1
+Maruti,1,Hacienda Heights,4
+Maruti,1,Hackensack,1
+Maruti,1,Hammond,1
+Maruti,1,Hampton,5
+Maruti,1,Hanover Park,1
+Maruti,1,Harlingen,3
+Maruti,1,Harrisburg,1
+Maruti,1,Harrison,2
+Maruti,1,Hays,5
+Maruti,1,Hazelwood,3
+Maruti,1,Hazleton,2
+Maruti,1,Helena,3
+Maruti,1,Hemet,1
+Maruti,1,Hermitage,1
+Maruti,1,Hesperia,1
+Maruti,1,Hialeah,2
+Maruti,1,Hickory,1
+Maruti,1,High Point,2
+Maruti,1,Highland Park,2
+Maruti,1,Highlands Ranch,1
+Maruti,1,Hilliard,2
+Maruti,1,Hinesville,1
+Maruti,1,Hobbs,1
+Maruti,1,Holbrook,1
+Maruti,1,Holladay,2
+Maruti,1,Holland,2
+Maruti,1,Holyoke,1
+Maruti,1,Homestead,1
+Maruti,1,Homewood,2
+Maruti,1,Hoover,1
+Maruti,1,Hopatcong,1
+Maruti,1,Hopkins,1
+Maruti,1,Hot Springs,1
+Maruti,1,Houston,9
+Maruti,1,Huber Heights,2
+Maruti,1,Hudson,1
+Maruti,1,Huntington Beach,1
+Maruti,1,Huntsville,1
+Maruti,1,Hurst,3
+Maruti,1,Hutchinson,1
+Maruti,1,Immokalee,1
+Maruti,1,Indian Trail,1
+Maruti,1,Indianapolis,2
+Maruti,1,Irvington,1
+Maruti,1,Jackson,1
+Maruti,1,Jacksonville,2
+Maruti,1,Jamestown,2
+Maruti,1,Janesville,2
+Maruti,1,Kalamazoo,1
+Maruti,1,Kalispell,1
+Maruti,1,Kankakee,3
+Maruti,1,Kannapolis,2
+Maruti,1,Kansas City,5
+Maruti,1,Kaysville,1
+Maruti,1,Kearney,1
+Maruti,1,Kearns,1
+Maruti,1,Kearny,1
+Maruti,1,Keizer,2
+Maruti,1,Kennesaw,1
+Maruti,1,Kent,2
+Maruti,1,Kentwood,2
+Maruti,1,Kingman,1
+Maruti,1,Kingsport,2
+Maruti,1,Kingsville,3
+Maruti,1,Kirkwood,4
+Maruti,1,Knoxville,1
+Maruti,1,Kokomo,2
+Maruti,1,La Crosse,1
+Maruti,1,La Mesa,1
+Maruti,1,La Porte,2
+Maruti,1,La Vergne,2
+Maruti,1,La Vista,3
+Maruti,1,Lacey,1
+Maruti,1,Laconia,2
+Maruti,1,Lafayette,1
+Maruti,1,Laguna Niguel,2
+Maruti,1,Lake Elsinore,1
+Maruti,1,Lake In The Hills,1
+Maruti,1,Lake Jackson,1
+Maruti,1,Lake Oswego,1
+Maruti,1,Lake Worth,1
+Maruti,1,Lakewood,2
+Maruti,1,Lancaster,3
+Maruti,1,Land O Lakes,1
+Maruti,1,Lansing,3
+Maruti,1,Laredo,1
+Maruti,1,Laurel,2
+Maruti,1,Laurinburg,1
+Maruti,1,Lawndale,2
+Maruti,1,Lawrence,5
+Maruti,1,Lawton,1
+Maruti,1,Layton,1
+Maruti,1,Leander,1
+Maruti,1,Leawood,1
+Maruti,1,Lebanon,1
+Maruti,1,Lees Summit,1
+Maruti,1,Lehi,1
+Maruti,1,Levittown,2
+Maruti,1,Lewiston,2
+Maruti,1,Lexington,1
+Maruti,1,Liberal,2
+Maruti,1,Lima,3
+Maruti,1,Lincoln,2
+Maruti,1,Lincoln Park,3
+Maruti,1,Lindenwold,1
+Maruti,1,Lino Lakes,2
+Maruti,1,Little Rock,1
+Maruti,1,Logan,3
+Maruti,1,Long Beach,2
+Maruti,1,Longview,3
+Maruti,1,Lorain,1
+Maruti,1,Los Altos,1
+Maruti,1,Los Angeles,37
+Maruti,1,Los Banos,1
+Maruti,1,Los Gatos,3
+Maruti,1,Louisville,3
+Maruti,1,Lowell,1
+Maruti,1,Lubbock,1
+Maruti,1,Lufkin,2
+Maruti,1,Lynnwood,3
+Maruti,1,Madison,4
+Maruti,1,Madison Heights,2
+Maruti,1,Magna,2
+Maruti,1,Manhattan Beach,2
+Maruti,1,Mankato,1
+Maruti,1,Mansfield,2
+Maruti,1,Manteca,1
+Maruti,1,Maple Grove,1
+Maruti,1,Maplewood,1
+Maruti,1,Margate,2
+Maruti,1,Marion,2
+Maruti,1,Marrero,3
+Maruti,1,Marshalltown,1
+Maruti,1,Martinez,2
+Maruti,1,Maryland Heights,1
+Maruti,1,Marysville,1
+Maruti,1,Maryville,1
+Maruti,1,Mason City,5
+Maruti,1,Massillon,1
+Maruti,1,Mauldin,1
+Maruti,1,McKeesport,2
+Maruti,1,Mechanicsville,1
+Maruti,1,Medford,1
+Maruti,1,Mehlville,3
+Maruti,1,Memphis,1
+Maruti,1,Menlo Park,1
+Maruti,1,Merritt Island,1
+Maruti,1,Miami,12
+Maruti,1,Michigan City,2
+Maruti,1,Middle River,1
+Maruti,1,Middletown,1
+Maruti,1,Midland,1
+Maruti,1,Midvale,1
+Maruti,1,Midwest City,2
+Maruti,1,Milford,2
+Maruti,1,Minneapolis,2
+Maruti,1,Minnetonka,3
+Maruti,1,Minnetonka Mills,1
+Maruti,1,Minot,1
+Maruti,1,Mint Hill,1
+Maruti,1,Mobile,3
+Maruti,1,Moline,2
+Maruti,1,Monroe,2
+Maruti,1,Montclair,3
+Maruti,1,Montgomery,1
+Maruti,1,Mooresville,3
+Maruti,1,Moorhead,1
+Maruti,1,Moreno Valley,2
+Maruti,1,Morgan Hill,1
+Maruti,1,Morgantown,1
+Maruti,1,Moscow,2
+Maruti,1,Mount Lebanon,2
+Maruti,1,Mount Pleasant,1
+Maruti,1,Mount Prospect,1
+Maruti,1,Mount Vernon,5
+Maruti,1,Mountain View,1
+Maruti,1,Muncie,3
+Maruti,1,Mundelein,3
+Maruti,1,Murray,1
+Maruti,1,Muscatine,1
+Maruti,1,Muskogee,1
+Maruti,1,Napa,3
+Maruti,1,Naperville,1
+Maruti,1,New Albany,2
+Maruti,1,New Berlin,1
+Maruti,1,New Bern,2
+Maruti,1,New Castle,2
+Maruti,1,New Iberia,1
+Maruti,1,New London,1
+Maruti,1,New York City,44
+Maruti,1,Newark,2
+Maruti,1,Newington,1
+Maruti,1,Newnan,2
+Maruti,1,Newton,3
+Maruti,1,Norfolk,3
+Maruti,1,Normal,2
+Maruti,1,Norristown,2
+Maruti,1,North Bergen,1
+Maruti,1,North Charleston,1
+Maruti,1,North Las Vegas,4
+Maruti,1,North Little Rock,1
+Maruti,1,North Miami,1
+Maruti,1,North Miami Beach,1
+Maruti,1,North Olmsted,1
+Maruti,1,North Platte,1
+Maruti,1,North Royalton,3
+Maruti,1,Norwich,2
+Maruti,1,Oak Forest,1
+Maruti,1,Oak Lawn,1
+Maruti,1,Oak Park,1
+Maruti,1,Oakdale,1
+Maruti,1,Oakland Park,2
+Maruti,1,Oakton,1
+Maruti,1,Oakville,1
+Maruti,1,Oceanside,2
+Maruti,1,Ocoee,2
+Maruti,1,Ogden,2
+Maruti,1,Oklahoma City,1
+Maruti,1,Olathe,1
+Maruti,1,Olney,1
+Maruti,1,Olympia,1
+Maruti,1,Omaha,2
+Maruti,1,Ontario,2
+Maruti,1,Opelika,1
+Maruti,1,Orange,1
+Maruti,1,Orland Park,1
+Maruti,1,Orlando,1
+Maruti,1,Oro Valley,3
+Maruti,1,Oshkosh,5
+Maruti,1,Ossining,1
+Maruti,1,Ottumwa,2
+Maruti,1,Overland,1
+Maruti,1,Overland Park,1
+Maruti,1,Oviedo,2
+Maruti,1,Owatonna,1
+Maruti,1,Owings Mills,1
+Maruti,1,Owosso,3
+Maruti,1,Oxford,1
+Maruti,1,Ozark,2
+Maruti,1,Pacifica,1
+Maruti,1,Paducah,3
+Maruti,1,Pahrump,2
+Maruti,1,Palm Bay,4
+Maruti,1,Palm Beach Gardens,3
+Maruti,1,Palm Coast,1
+Maruti,1,Palo Alto,2
+Maruti,1,Papillion,1
+Maruti,1,Paragould,2
+Maruti,1,Park Ridge,1
+Maruti,1,Parker,1
+Maruti,1,Parkersburg,2
+Maruti,1,Parma,1
+Maruti,1,Parsippany,1
+Maruti,1,Pearland,1
+Maruti,1,Pekin,2
+Maruti,1,Pembroke Pines,2
+Maruti,1,Pendleton,2
+Maruti,1,Penn Hills,2
+Maruti,1,Peoria,2
+Maruti,1,Perry Hall,1
+Maruti,1,Petaluma,4
+Maruti,1,Pharr,1
+Maruti,1,Phenix City,1
+Maruti,1,Philadelphia,10
+Maruti,1,Phillipsburg,1
+Maruti,1,Pikesville,1
+Maruti,1,Pittsburg,2
+Maruti,1,Pittsburgh,1
+Maruti,1,Plainfield,2
+Maruti,1,Plainview,4
+Maruti,1,Plano,1
+Maruti,1,Pleasant Grove,1
+Maruti,1,Pleasure Ridge Park,3
+Maruti,1,Plum,1
+Maruti,1,Poinciana,1
+Maruti,1,Pompano Beach,1
+Maruti,1,Ponca City,1
+Maruti,1,Port Charlotte,4
+Maruti,1,Port Chester,2
+Maruti,1,Port Saint Lucie,1
+Maruti,1,Portage,1
+Maruti,1,Portland,2
+Maruti,1,Portsmouth,1
+Maruti,1,Potomac,1
+Maruti,1,Pottstown,2
+Maruti,1,Prescott,1
+Maruti,1,Prescott Valley,1
+Maruti,1,Prior Lake,2
+Maruti,1,Provo,3
+Maruti,1,Pueblo,2
+Maruti,1,Puyallup,2
+Maruti,1,Quincy,2
+Maruti,1,Raleigh,1
+Maruti,1,Rancho Cucamonga,2
+Maruti,1,Randallstown,2
+Maruti,1,Rapid City,1
+Maruti,1,Raytown,1
+Maruti,1,Redlands,2
+Maruti,1,Redmond,1
+Maruti,1,Redondo Beach,4
+Maruti,1,Redwood City,2
+Maruti,1,Reno,1
+Maruti,1,Reston,1
+Maruti,1,Richfield,2
+Maruti,1,Richland,1
+Maruti,1,Richmond,3
+Maruti,1,Riverview,2
+Maruti,1,Riviera Beach,2
+Maruti,1,Rochester,3
+Maruti,1,Rock Island,2
+Maruti,1,Rockford,2
+Maruti,1,Rocklin,1
+Maruti,1,Rocky Mount,1
+Maruti,1,Rome,4
+Maruti,1,Rose Hill,2
+Maruti,1,Roselle,1
+Maruti,1,Rosenberg,1
+Maruti,1,Roseville,2
+Maruti,1,Roswell,1
+Maruti,1,Rotterdam,1
+Maruti,1,Rowlett,2
+Maruti,1,Royal Oak,1
+Maruti,1,Royal Palm Beach,1
+Maruti,1,Russellville,1
+Maruti,1,Rutland,1
+Maruti,1,Saco,1
+Maruti,1,Sacramento,2
+Maruti,1,Saginaw,2
+Maruti,1,Saint Charles,1
+Maruti,1,Saint Cloud,1
+Maruti,1,Saint Joseph,2
+Maruti,1,Saint Paul,3
+Maruti,1,Salem,2
+Maruti,1,Salinas,3
+Maruti,1,Salisbury,1
+Maruti,1,Salt Lake City,1
+Maruti,1,San Bernardino,4
+Maruti,1,San Carlos,3
+Maruti,1,San Diego,6
+Maruti,1,San Francisco,3
+Maruti,1,San Gabriel,1
+Maruti,1,San Jose,3
+Maruti,1,San Juan,1
+Maruti,1,San Luis Obispo,1
+Maruti,1,Sandusky,2
+Maruti,1,Sanford,1
+Maruti,1,Santa Ana,1
+Maruti,1,Santa Barbara,1
+Maruti,1,Santa Clara,1
+Maruti,1,Santa Cruz,1
+Maruti,1,Santa Rosa,1
+Maruti,1,Sarasota,1
+Maruti,1,Saratoga,1
+Maruti,1,Sault Sainte Marie,2
+Maruti,1,Savage,2
+Maruti,1,Schenectady,1
+Maruti,1,Scottsdale,1
+Maruti,1,Scranton,1
+Maruti,1,Seattle,20
+Maruti,1,Selma,1
+Maruti,1,Seminole,3
+Maruti,1,Seymour,2
+Maruti,1,Shaker Heights,1
+Maruti,1,Shawnee,2
+Maruti,1,Shelby,1
+Maruti,1,Shelton,2
+Maruti,1,Shreveport,1
+Maruti,1,Sierra Vista,3
+Maruti,1,Silver Spring,1
+Maruti,1,Sioux City,3
+Maruti,1,Skokie,1
+Maruti,1,Smithfield,1
+Maruti,1,South Burlington,2
+Maruti,1,South Lake Tahoe,3
+Maruti,1,Southbury,1
+Maruti,1,Southfield,2
+Maruti,1,Southgate,2
+Maruti,1,Spanaway,1
+Maruti,1,Spanish Fork,3
+Maruti,1,Spokane,2
+Maruti,1,Spring Hill,1
+Maruti,1,Springfield,2
+Maruti,1,Springville,1
+Maruti,1,State College,2
+Maruti,1,Stow,2
+Maruti,1,Stratford,2
+Maruti,1,Strongsville,2
+Maruti,1,Suffolk,2
+Maruti,1,Sulphur Springs,3
+Maruti,1,Sun Prairie,7
+Maruti,1,Sunnyvale,1
+Maruti,1,Superior,1
+Maruti,1,Surprise,2
+Maruti,1,Syracuse,3
+Maruti,1,Tacoma,1
+Maruti,1,Tallahassee,1
+Maruti,1,Tampa,1
+Maruti,1,Taylor,2
+Maruti,1,Taylors,1
+Maruti,1,Temecula,2
+Maruti,1,Tempe,1
+Maruti,1,Terre Haute,2
+Maruti,1,Terrytown,2
+Maruti,1,Texarkana,3
+Maruti,1,Texas City,1
+Maruti,1,The Woodlands,1
+Maruti,1,Thomasville,1
+Maruti,1,Thornton,2
+Maruti,1,Tigard,1
+Maruti,1,Tinley Park,1
+Maruti,1,Titusville,1
+Maruti,1,Tonawanda,2
+Maruti,1,Tooele,1
+Maruti,1,Topeka,1
+Maruti,1,Torrance,3
+Maruti,1,Torrington,1
+Maruti,1,Townsend,1
+Maruti,1,Trenton,1
+Maruti,1,Troutdale,3
+Maruti,1,Troy,3
+Maruti,1,Tulsa,2
+Maruti,1,Twentynine Palms,6
+Maruti,1,Twin Falls,3
+Maruti,1,Tyler,1
+Maruti,1,Upper Arlington,1
+Maruti,1,Upper Saint Clair,1
+Maruti,1,Urbana,1
+Maruti,1,Urbandale,1
+Maruti,1,Utica,2
+Maruti,1,Vacaville,1
+Maruti,1,Vallejo,2
+Maruti,1,Valley Stream,1
+Maruti,1,Vancouver,1
+Maruti,1,Vestavia Hills,1
+Maruti,1,Victoria,1
+Maruti,1,Waco,1
+Maruti,1,Wakefield,1
+Maruti,1,Waldorf,1
+Maruti,1,Walker,2
+Maruti,1,Walla Walla,1
+Maruti,1,Waltham,1
+Maruti,1,Warren,1
+Maruti,1,Washington,14
+Maruti,1,Waterloo,2
+Maruti,1,Watertown,3
+Maruti,1,Waukesha,2
+Maruti,1,Wausau,1
+Maruti,1,Waxahachie,1
+Maruti,1,Waynesboro,1
+Maruti,1,Weatherford,1
+Maruti,1,Webster Groves,1
+Maruti,1,Wenatchee,2
+Maruti,1,Weslaco,1
+Maruti,1,West Chicago,2
+Maruti,1,West Des Moines,1
+Maruti,1,West Islip,1
+Maruti,1,West Jordan,2
+Maruti,1,West Lafayette,3
+Maruti,1,West Linn,1
+Maruti,1,West Memphis,1
+Maruti,1,West Mifflin,1
+Maruti,1,Westbrook,2
+Maruti,1,Westerville,1
+Maruti,1,Westlake,2
+Maruti,1,Westland,1
+Maruti,1,Westminster,3
+Maruti,1,Wheeling,1
+Maruti,1,White Plains,3
+Maruti,1,Wichita,1
+Maruti,1,Wichita Falls,2
+Maruti,1,Wilbraham,1
+Maruti,1,Wilkinsburg,2
+Maruti,1,Willingboro,1
+Maruti,1,Wilmette,1
+Maruti,1,Wilmington,1
+Maruti,1,Wilson,2
+Maruti,1,Winter Springs,1
+Maruti,1,Winthrop,1
+Maruti,1,Woodburn,1
+Maruti,1,Woodbury,1
+Maruti,1,Woodridge,1
+Maruti,1,Woodstock,1
+Maruti,1,Wooster,2
+Maruti,1,Wylie,1
+Maruti,1,Wyoming,1
+Maruti,1,Xenia,2
+Maruti,1,Yonkers,2
+Maruti,1,York,1
+Maruti,1,Yuma,1
+Maruti,2,Allen Park,1
+Maruti,2,Biloxi,1
+Maruti,2,Boise,1
+Maruti,2,Costa Mesa,1
+Maruti,2,Detroit,1
+Maruti,2,El Centro,1
+Maruti,2,Essex,1
+Maruti,2,Gilbert,1
+Maruti,2,Kent,1
+Maruti,2,Los Angeles,2
+Maruti,2,Macon,1
+Maruti,2,Madison Heights,1
+Maruti,2,Parkland,1
+Maruti,2,Ponca City,1
+Maruti,2,Rock Springs,1
+Maruti,2,San Gabriel,1
+Maruti,2,Sandusky,1
+Maruti,2,Webster,1
+Maruti,3,Allentown,1
+Maruti,3,Asbury Park,1
+Maruti,3,Atlanta,1
+Maruti,3,Aurora,1
+Maruti,3,Bessemer,1
+Maruti,3,Bloomington,1
+Maruti,3,Boston,1
+Maruti,3,Chicago,1
+Maruti,3,Detroit,1
+Maruti,3,Eau Claire,1
+Maruti,3,Freeport,1
+Maruti,3,Greenville,1
+Maruti,3,Hacienda Heights,1
+Maruti,3,Hobbs,1
+Maruti,3,Indianapolis,1
+Maruti,3,Lake Oswego,1
+Maruti,3,Lake Worth,1
+Maruti,3,Lakewood,2
+Maruti,3,Lehi,1
+Maruti,3,Lemon Grove,1
+Maruti,3,Lodi,1
+Maruti,3,Merrimack,1
+Maruti,3,Monroe,1
+Maruti,3,Mount Pleasant,1
+Maruti,3,Nashville,3
+Maruti,3,Oceanside,1
+Maruti,3,Pittsburg,1
+Maruti,3,Prairie Village,1
+Maruti,3,Prior Lake,1
+Maruti,3,Rotterdam,1
+Maruti,3,Royal Oak,1
+Maruti,3,Saint Charles,1
+Maruti,3,Saint Cloud,1
+Maruti,3,Scranton,1
+Maruti,3,Seattle,1
+Maruti,3,Shawnee,1
+Maruti,3,Smithtown,1
+Maruti,3,Southfield,1
+Maruti,3,Stillwater,1
+Maruti,3,Sulphur Springs,1
+Maruti,3,Summerville,1
+Maruti,3,Sunnyvale,1
+Maruti,3,Valley Stream,1
+Maruti,3,Vicksburg,1
+Mercedes,0,Aloha,1
+Mercedes,0,Altoona,1
+Mercedes,0,Baton Rouge,1
+Mercedes,0,Bennington,1
+Mercedes,0,Bettendorf,2
+Mercedes,0,Boston,2
+Mercedes,0,Bothell,1
+Mercedes,0,Bremerton,1
+Mercedes,0,Brentwood,1
+Mercedes,0,Brownsville,1
+Mercedes,0,Burlington,1
+Mercedes,0,Butte,1
+Mercedes,0,Cleveland,1
+Mercedes,0,Eagle,2
+Mercedes,0,Elk Plain,1
+Mercedes,0,Everett,1
+Mercedes,0,Grand Junction,1
+Mercedes,0,Houston,1
+Mercedes,0,Lino Lakes,1
+Mercedes,0,Los Angeles,2
+Mercedes,0,Merritt Island,1
+Mercedes,0,New York City,1
+Mercedes,0,Richmond,1
+Mercedes,0,Rye,1
+Mercedes,0,San Diego,1
+Mercedes,0,Santa Clara,1
+Mercedes,0,Seattle,1
+Mercedes,0,Smyrna,1
+Mercedes,0,Spokane,1
+Mercedes,0,Springfield,1
+Mercedes,0,Steubenville,1
+Mercedes,0,Stockton,1
+Mercedes,0,Troutdale,1
+Mercedes,0,Walla Walla,1
+Mercedes,0,Wellesley,1
+Mercedes,0,Wichita,1
+Mercedes,1,Allentown,1
+Mercedes,1,Baton Rouge,1
+Mercedes,1,Boston,1
+Mercedes,1,Bozeman,1
+Mercedes,1,Carlsbad,1
+Mercedes,1,Cary,2
+Mercedes,1,Chicago,1
+Mercedes,1,Kankakee,1
+Mercedes,1,Lincoln Park,1
+Mercedes,1,Mineral Wells,1
+Mercedes,1,Olney,1
+Mercedes,1,Oviedo,1
+Mercedes,1,Westminster,1
+Mitsubishi,0,Bethesda,1
+Mitsubishi,0,Chicago,1
+Mitsubishi,0,Clovis,1
+Mitsubishi,0,Crystal Lake,1
+Mitsubishi,0,Lewiston,1
+Mitsubishi,0,Massillon,1
+Mitsubishi,0,Morgan Hill,1
+Mitsubishi,0,Muskego,1
+Mitsubishi,0,Seattle,1
+Mitsubishi,0,Shaker Heights,1
+Mitsubishi,0,Sioux City,1
+Mitsubishi,0,Tigard,1
+Mitsubishi,0,Whitehall,1
+Mitsubishi,0,Wilmette,1
+Nissan,0,Atlanta,1
+Nissan,0,Beavercreek,1
+Nissan,0,Boston,1
+Nissan,0,Brandon,1
+Nissan,0,Calexico,1
+Nissan,0,Concord,1
+Nissan,0,Dalton,1
+Nissan,0,Deland,1
+Nissan,0,Fort Thomas,1
+Nissan,0,Fountain,1
+Nissan,0,Glendale Heights,1
+Nissan,0,Hanover,1
+Nissan,0,Hendersonville,1
+Nissan,0,Liberal,1
+Nissan,0,Lindenhurst,1
+Nissan,0,Los Angeles,3
+Nissan,0,Madison,2
+Nissan,0,Manhattan Beach,1
+Nissan,0,Manitowoc,1
+Nissan,0,Mcallen,1
+Nissan,0,Midland,1
+Nissan,0,Minnetonka,1
+Nissan,0,Morgan Hill,1
+Nissan,0,Moscow,1
+Nissan,0,Mount Pleasant,1
+Nissan,0,Mount Vernon,1
+Nissan,0,Norwich,1
+Nissan,0,Ocoee,1
+Nissan,0,Odenton,1
+Nissan,0,Orlando,1
+Nissan,0,Ormond Beach,1
+Nissan,0,Redwood City,1
+Nissan,0,Riverview,1
+Nissan,0,Saco,1
+Nissan,0,San Diego,1
+Nissan,0,Saratoga,1
+Nissan,0,Seattle,2
+Nissan,0,Texarkana,1
+Nissan,0,Topeka,1
+Nissan,0,Tysons Corner,1
+Nissan,0,Washington,1
+Nissan,0,West Valley City,1
+Nissan,0,Wichita,1
+Nissan,0,Yuba City,1
+Nissan,1,Athens,1
+Nissan,1,Boston,1
+Nissan,1,Cedar Park,2
+Nissan,1,Champaign,1
+Nissan,1,Chicago,1
+Nissan,1,Detroit,2
+Nissan,1,East Los Angeles,1
+Nissan,1,Franklin Square,1
+Nissan,1,Great Falls,1
+Nissan,1,Gurnee,1
+Nissan,1,Holladay,1
+Nissan,1,Homewood,1
+Nissan,1,Houston,1
+Nissan,1,Lancaster,1
+Nissan,1,Lawton,1
+Nissan,1,Los Angeles,2
+Nissan,1,Madison Heights,1
+Nissan,1,Muscatine,1
+Nissan,1,Muskegon,1
+Nissan,1,Palisades Park,1
+Nissan,1,Parkersburg,1
+Nissan,1,Poinciana,1
+Nissan,1,Ponca City,1
+Nissan,1,Provo,2
+Nissan,1,Redmond,1
+Nissan,1,Sayreville,1
+Nissan,1,Tamarac,1
+Nissan,1,Wilmington,1
+Nissan,1,Yonkers,1
+Opel,1,Bellevue,1
+Renault,0,Arlington,1
+Renault,0,Atlanta,1
+Renault,0,Auburn,1
+Renault,0,Bangor,1
+Renault,0,Bedford,1
+Renault,0,Biloxi,1
+Renault,0,Bolingbrook,1
+Renault,0,Bourne,1
+Renault,0,Bridgeton,1
+Renault,0,Bristol,1
+Renault,0,Brunswick,1
+Renault,0,Camp Springs,1
+Renault,0,Carlsbad,1
+Renault,0,Charlotte,2
+Renault,0,Cheektowaga,1
+Renault,0,Clarksville,1
+Renault,0,Columbus,1
+Renault,0,Cottage Lake,1
+Renault,0,Council Bluffs,1
+Renault,0,Dayton,1
+Renault,0,Denton,1
+Renault,0,Dublin,1
+Renault,0,Durango,1
+Renault,0,Eagle,1
+Renault,0,Eureka,1
+Renault,0,Fairborn,1
+Renault,0,Fargo,1
+Renault,0,Fayetteville,1
+Renault,0,Forest Park,1
+Renault,0,Franklin,1
+Renault,0,Garden City,1
+Renault,0,Greeneville,1
+Renault,0,Greenfield,1
+Renault,0,Hagerstown,1
+Renault,0,Harrisonburg,1
+Renault,0,Hawthorne,1
+Renault,0,Hilton Head Island,1
+Renault,0,Hobbs,1
+Renault,0,Homewood,1
+Renault,0,Hoover,1
+Renault,0,Houston,1
+Renault,0,Huntsville,1
+Renault,0,Jackson,1
+Renault,0,Jeffersonville,1
+Renault,0,La Quinta,1
+Renault,0,Laguna Hills,1
+Renault,0,Lancaster,1
+Renault,0,Lawrence,1
+Renault,0,Lemon Grove,1
+Renault,0,Longview,1
+Renault,0,Los Angeles,1
+Renault,0,Madison,1
+Renault,0,Manhattan Beach,1
+Renault,0,Maple Shade,1
+Renault,0,Marion,1
+Renault,0,Meriden,1
+Renault,0,Merritt Island,1
+Renault,0,Miami,1
+Renault,0,Middletown,1
+Renault,0,Midwest City,1
+Renault,0,Minneapolis,1
+Renault,0,Miramar,1
+Renault,0,Mount Vernon,1
+Renault,0,New York City,1
+Renault,0,Newton,1
+Renault,0,Oakdale,2
+Renault,0,Oakville,2
+Renault,0,Paradise,1
+Renault,0,Petersburg,1
+Renault,0,Pittsburgh,1
+Renault,0,Pontiac,1
+Renault,0,Port Arthur,3
+Renault,0,Reno,1
+Renault,0,Richland,1
+Renault,0,Rock Hill,1
+Renault,0,Rose Hill,1
+Renault,0,Roselle,1
+Renault,0,Roy,1
+Renault,0,Royal Oak,1
+Renault,0,Russellville,1
+Renault,0,Sacramento,1
+Renault,0,San Juan,1
+Renault,0,Saratoga,1
+Renault,0,Sherwood,1
+Renault,0,Slidell,1
+Renault,0,South Portland,1
+Renault,0,Southbridge,1
+Renault,0,Spring Hill,1
+Renault,0,Taylors,1
+Renault,0,Texas City,1
+Renault,0,Thousand Oaks,1
+Renault,0,Tooele,1
+Renault,0,Troy,1
+Renault,0,Tualatin,1
+Renault,0,Tyler,1
+Renault,0,Vestavia Hills,1
+Renault,0,Washington,1
+Renault,0,Weatherford,1
+Renault,0,West Linn,2
+Renault,0,Wheat Ridge,1
+Renault,0,Wichita,1
+Renault,0,Wilkes Barre,1
+Renault,0,Youngstown,1
+Renault,1,Allentown,1
+Renault,1,Anderson,1
+Renault,1,Asheville,1
+Renault,1,Atlanta,2
+Renault,1,Augusta,1
+Renault,1,Aurora,1
+Renault,1,Belleville,1
+Renault,1,Benton,1
+Renault,1,Bloomfield,1
+Renault,1,Boardman,1
+Renault,1,Boston,1
+Renault,1,Bothell,1
+Renault,1,Bowling Green,1
+Renault,1,Bremerton,1
+Renault,1,Brownsville,1
+Renault,1,Burlington,1
+Renault,1,Channelview,1
+Renault,1,Charlotte,1
+Renault,1,Cherry Hill,1
+Renault,1,Chicago,3
+Renault,1,Cincinnati,1
+Renault,1,Conway,1
+Renault,1,Covington,1
+Renault,1,Davis,1
+Renault,1,Dayton,1
+Renault,1,Denver,1
+Renault,1,Edgewood,1
+Renault,1,Edmonds,1
+Renault,1,Elyria,1
+Renault,1,Englewood,1
+Renault,1,Enterprise,1
+Renault,1,Escondido,1
+Renault,1,Essex,1
+Renault,1,Essex Junction,1
+Renault,1,Fairborn,1
+Renault,1,Fairfield,1
+Renault,1,Fargo,1
+Renault,1,Federal Way,1
+Renault,1,Fountain,1
+Renault,1,Fremont,1
+Renault,1,Glen Cove,1
+Renault,1,Greensburg,3
+Renault,1,Hollywood,1
+Renault,1,Hopkins,1
+Renault,1,Houston,1
+Renault,1,Indianapolis,1
+Renault,1,Kent,1
+Renault,1,Kirkwood,1
+Renault,1,Lancaster,1
+Renault,1,Laredo,1
+Renault,1,Las Vegas,1
+Renault,1,Los Altos,1
+Renault,1,Los Angeles,3
+Renault,1,Mandan,1
+Renault,1,Mechanicsville,1
+Renault,1,Milwaukee,1
+Renault,1,Minnetonka Mills,1
+Renault,1,Mount Vernon,2
+Renault,1,Muskego,2
+Renault,1,New Britain,1
+Renault,1,New City,1
+Renault,1,New Smyrna Beach,1
+Renault,1,New York City,3
+Renault,1,Norristown,1
+Renault,1,Northampton,1
+Renault,1,Nutley,1
+Renault,1,Ormond Beach,1
+Renault,1,Owasso,1
+Renault,1,Peoria,1
+Renault,1,Post Falls,1
+Renault,1,Pottstown,1
+Renault,1,Prior Lake,1
+Renault,1,Redlands,1
+Renault,1,Rochester,1
+Renault,1,Roseville,1
+Renault,1,Rutland,1
+Renault,1,San Angelo,1
+Renault,1,San Carlos,1
+Renault,1,San Clemente,1
+Renault,1,Santa Rosa,1
+Renault,1,Schererville,1
+Renault,1,Scotch Plains,1
+Renault,1,Seattle,4
+Renault,1,Slidell,1
+Renault,1,South Lake Tahoe,1
+Renault,1,Southfield,1
+Renault,1,Spartanburg,1
+Renault,1,Tampa,1
+Renault,1,Taylors,1
+Renault,1,Texarkana,1
+Renault,1,Texas City,1
+Renault,1,Trenton,1
+Renault,1,Twentynine Palms,1
+Renault,1,Upper Arlington,1
+Renault,1,Van Buren,1
+Renault,1,Vincennes,1
+Renault,1,Waldorf,1
+Renault,1,Washington,2
+Renault,1,Waukesha,1
+Renault,1,Westerville,1
+Renault,1,Willimantic,1
+Renault,1,Wilson,1
+Renault,1,Woodmere,1
+Renault,1,Xenia,1
+Skoda,0,Aiken,1
+Skoda,0,Aloha,1
+Skoda,0,Ames,1
+Skoda,0,Arlington,1
+Skoda,0,Atlanta,1
+Skoda,0,Aurora,1
+Skoda,0,Bedford,1
+Skoda,0,Brandon,1
+Skoda,0,Bremerton,1
+Skoda,0,Buffalo Grove,1
+Skoda,0,Burbank,1
+Skoda,0,Calumet City,1
+Skoda,0,Carol Stream,1
+Skoda,0,Charlotte,1
+Skoda,0,Clarksburg,1
+Skoda,0,Colchester,1
+Skoda,0,Coral Springs,1
+Skoda,0,Covington,1
+Skoda,0,Crystal Lake,1
+Skoda,0,Deltona,2
+Skoda,0,Dundalk,1
+Skoda,0,Fairmont,1
+Skoda,0,Flower Mound,1
+Skoda,0,Franklin Park,1
+Skoda,0,Fruit Cove,1
+Skoda,0,Gilbert,1
+Skoda,0,Kenosha,1
+Skoda,0,Lenexa,1
+Skoda,0,Livingston,1
+Skoda,0,Marietta,1
+Skoda,0,Marion,1
+Skoda,0,Mauldin,1
+Skoda,0,Medina,1
+Skoda,0,Meridian,1
+Skoda,0,Mesquite,1
+Skoda,0,Mishawaka,1
+Skoda,0,New York City,2
+Skoda,0,Pasadena,1
+Skoda,0,Philadelphia,1
+Skoda,0,Post Falls,1
+Skoda,0,Rome,1
+Skoda,0,Rye,1
+Skoda,0,Saint Charles,1
+Skoda,0,Salisbury,1
+Skoda,0,Salt Lake City,1
+Skoda,0,San Mateo,1
+Skoda,0,Santa Clara,1
+Skoda,0,Sault Sainte Marie,1
+Skoda,0,Schaumburg,1
+Skoda,0,Seattle,1
+Skoda,0,Skokie,1
+Skoda,0,South Portland,1
+Skoda,0,Spanaway,1
+Skoda,0,Sulphur Springs,1
+Skoda,0,Toledo,1
+Skoda,0,West Memphis,1
+Skoda,1,Anaheim,1
+Skoda,1,Atascadero,1
+Skoda,1,Bellingham,1
+Skoda,1,Berea,1
+Skoda,1,Boston,1
+Skoda,1,Cary,1
+Skoda,1,Catonsville,1
+Skoda,1,Chandler,1
+Skoda,1,Cleveland Heights,1
+Skoda,1,Columbus,1
+Skoda,1,Corsicana,1
+Skoda,1,Danville,1
+Skoda,1,Detroit,1
+Skoda,1,Dunwoody,1
+Skoda,1,Fairborn,1
+Skoda,1,Garfield Heights,1
+Skoda,1,Gastonia,1
+Skoda,1,Goldsboro,1
+Skoda,1,Hartford,1
+Skoda,1,Hickory,1
+Skoda,1,Inkster,1
+Skoda,1,Kalispell,1
+Skoda,1,Los Angeles,1
+Skoda,1,Louisville,1
+Skoda,1,Loveland,1
+Skoda,1,Mankato,1
+Skoda,1,Maryland Heights,1
+Skoda,1,Oak Lawn,1
+Skoda,1,Olive Branch,1
+Skoda,1,Ottumwa,1
+Skoda,1,Paradise,1
+Skoda,1,Paragould,1
+Skoda,1,Pasadena,1
+Skoda,1,Pine Bluff,1
+Skoda,1,Rancho Cucamonga,1
+Skoda,1,Red Wing,1
+Skoda,1,Rochester Hills,1
+Skoda,1,Roswell,1
+Skoda,1,San Diego,1
+Skoda,1,San Juan,1
+Skoda,1,Sioux Falls,1
+Skoda,1,Spring,1
+Skoda,1,Stillwater,1
+Skoda,1,Urbana,1
+Skoda,1,Warren,1
+Skoda,1,Washington,1
+Tata,0,Abilene,1
+Tata,0,Aiken,1
+Tata,0,Albany,1
+Tata,0,Altamonte Springs,1
+Tata,0,Amarillo,1
+Tata,0,Anacortes,1
+Tata,0,Anaheim,1
+Tata,0,Anderson,1
+Tata,0,Ann Arbor,1
+Tata,0,Annapolis,2
+Tata,0,Apex,1
+Tata,0,Appleton,1
+Tata,0,Aspen Hill,2
+Tata,0,Atascadero,2
+Tata,0,Athens,1
+Tata,0,Atlanta,3
+Tata,0,Auburn,1
+Tata,0,Augusta,1
+Tata,0,Austin,1
+Tata,0,Bangor,2
+Tata,0,Bartlesville,2
+Tata,0,Baton Rouge,1
+Tata,0,Baytown,1
+Tata,0,Beaverton,1
+Tata,0,Bedford,1
+Tata,0,Bella Vista,1
+Tata,0,Belvidere,1
+Tata,0,Bennington,2
+Tata,0,Berkeley,1
+Tata,0,Bethlehem,1
+Tata,0,Biddeford,2
+Tata,0,Birmingham,1
+Tata,0,Bismarck,1
+Tata,0,Blacksburg,1
+Tata,0,Bloomington,1
+Tata,0,Boise,1
+Tata,0,Boston,7
+Tata,0,Bothell,1
+Tata,0,Bowling Green,1
+Tata,0,Bozeman,1
+Tata,0,Bremerton,1
+Tata,0,Bridgeton,1
+Tata,0,Bristol,1
+Tata,0,Brookline,1
+Tata,0,Brownsville,1
+Tata,0,Brunswick,1
+Tata,0,Bryan,1
+Tata,0,Bryant,1
+Tata,0,Buffalo,1
+Tata,0,Burien,1
+Tata,0,Burleson,1
+Tata,0,Caldwell,1
+Tata,0,Camp Springs,2
+Tata,0,Canton,1
+Tata,0,Carmel,1
+Tata,0,Carol City,1
+Tata,0,Carol Stream,1
+Tata,0,Castle Rock,1
+Tata,0,Centereach,1
+Tata,0,Channelview,1
+Tata,0,Charlotte,7
+Tata,0,Chester,1
+Tata,0,Chicago,5
+Tata,0,Chula Vista,1
+Tata,0,Clarksburg,1
+Tata,0,Clarksville,1
+Tata,0,Clayton,1
+Tata,0,Clovis,1
+Tata,0,Cohoes,1
+Tata,0,Colchester,1
+Tata,0,College Park,1
+Tata,0,Colorado Springs,1
+Tata,0,Columbus,2
+Tata,0,Commack,1
+Tata,0,Concord,1
+Tata,0,Conroe,2
+Tata,0,Conway,1
+Tata,0,Coppell,2
+Tata,0,Coralville,2
+Tata,0,Corvallis,3
+Tata,0,Cottage Grove,1
+Tata,0,Crystal Lake,2
+Tata,0,Dallas,5
+Tata,0,Dalton,1
+Tata,0,Danville,3
+Tata,0,Dayton,1
+Tata,0,Daytona Beach,1
+Tata,0,Dearborn,2
+Tata,0,Dearborn Heights,1
+Tata,0,Deer Park,3
+Tata,0,Denver,1
+Tata,0,Derry,1
+Tata,0,Detroit,4
+Tata,0,Dickinson,1
+Tata,0,Dix Hills,2
+Tata,0,Dover,1
+Tata,0,Downers Grove,1
+Tata,0,Dumont,1
+Tata,0,Dundalk,3
+Tata,0,Dunedin,1
+Tata,0,Durango,1
+Tata,0,Eagle Pass,1
+Tata,0,East Lansing,1
+Tata,0,East Los Angeles,1
+Tata,0,East Meadow,1
+Tata,0,Eau Claire,1
+Tata,0,Edgewood,1
+Tata,0,El Cajon,1
+Tata,0,Elkhart,1
+Tata,0,Ellicott City,1
+Tata,0,Elmhurst,1
+Tata,0,Encinitas,1
+Tata,0,Euclid,1
+Tata,0,Eugene,2
+Tata,0,Euless,1
+Tata,0,Evans,1
+Tata,0,Fairborn,1
+Tata,0,Fairfield,4
+Tata,0,Fairhaven,1
+Tata,0,Fairmont,1
+Tata,0,Farragut,1
+Tata,0,Fayetteville,1
+Tata,0,Flagstaff,1
+Tata,0,Fort Pierce,3
+Tata,0,Fort Thomas,2
+Tata,0,Fountain,1
+Tata,0,Freeport,2
+Tata,0,Gainesville,3
+Tata,0,Garfield Heights,2
+Tata,0,Garner,1
+Tata,0,Gary,1
+Tata,0,Gladstone,1
+Tata,0,Glendale,1
+Tata,0,Glendale Heights,1
+Tata,0,Glenview,1
+Tata,0,Gorham,1
+Tata,0,Grand Island,1
+Tata,0,Grand Prairie,1
+Tata,0,Granite Bay,3
+Tata,0,Grants Pass,1
+Tata,0,Greeley,1
+Tata,0,Greensboro,1
+Tata,0,Greenville,1
+Tata,0,Gresham,1
+Tata,0,Grove City,1
+Tata,0,Hamden,1
+Tata,0,Hanover Park,1
+Tata,0,Hattiesburg,1
+Tata,0,Hays,1
+Tata,0,Hazelwood,1
+Tata,0,Henderson,2
+Tata,0,Hialeah,1
+Tata,0,Highland Park,1
+Tata,0,Highlands Ranch,1
+Tata,0,Hilliard,1
+Tata,0,Hilton Head Island,1
+Tata,0,Hobbs,2
+Tata,0,Holbrook,1
+Tata,0,Houston,4
+Tata,0,Huber Heights,1
+Tata,0,Huntsville,1
+Tata,0,Indianapolis,1
+Tata,0,Irvington,1
+Tata,0,Jamestown,1
+Tata,0,Janesville,1
+Tata,0,Kalamazoo,1
+Tata,0,Kansas City,1
+Tata,0,Kearney,1
+Tata,0,Kearns,3
+Tata,0,Keene,2
+Tata,0,Kenosha,1
+Tata,0,Kentwood,1
+Tata,0,Kettering,1
+Tata,0,Klamath Falls,2
+Tata,0,La Crosse,2
+Tata,0,La Grange,1
+Tata,0,La Porte,1
+Tata,0,La Quinta,1
+Tata,0,Lacey,1
+Tata,0,Lake Charles,1
+Tata,0,Lake Forest,1
+Tata,0,Lancaster,1
+Tata,0,Lansing,2
+Tata,0,Lawndale,1
+Tata,0,Lawton,1
+Tata,0,Leander,1
+Tata,0,Leawood,2
+Tata,0,Lehi,1
+Tata,0,Lehigh Acres,1
+Tata,0,Lenexa,1
+Tata,0,Lewiston,1
+Tata,0,Lima,1
+Tata,0,Logan,1
+Tata,0,Londonderry,1
+Tata,0,Long Beach,1
+Tata,0,Long Branch,1
+Tata,0,Lorain,1
+Tata,0,Los Altos,1
+Tata,0,Los Angeles,12
+Tata,0,Louisville,3
+Tata,0,Lunenburg,1
+Tata,0,Lynnwood,1
+Tata,0,Manchester,1
+Tata,0,Mansfield,1
+Tata,0,Manteca,3
+Tata,0,Maplewood,2
+Tata,0,Marlborough,1
+Tata,0,Marshalltown,4
+Tata,0,Martinez,1
+Tata,0,Mason City,1
+Tata,0,Massillon,1
+Tata,0,Mcminnville,1
+Tata,0,Memphis,1
+Tata,0,Meridian,2
+Tata,0,Merrillville,1
+Tata,0,Miami,1
+Tata,0,Midvale,1
+Tata,0,Minneapolis,1
+Tata,0,Mishawaka,1
+Tata,0,Montgomery,2
+Tata,0,Moorhead,1
+Tata,0,Morgantown,1
+Tata,0,Morristown,1
+Tata,0,Mount Vernon,1
+Tata,0,Murray,1
+Tata,0,Myrtle Beach,3
+Tata,0,Nashville,1
+Tata,0,Natick,1
+Tata,0,Naugatuck,1
+Tata,0,New Bern,1
+Tata,0,New Castle,2
+Tata,0,New City,1
+Tata,0,New Smyrna Beach,1
+Tata,0,New York City,11
+Tata,0,Newark,1
+Tata,0,Newington,1
+Tata,0,Newport News,1
+Tata,0,Norfolk,2
+Tata,0,Norman,1
+Tata,0,Norristown,2
+Tata,0,North Babylon,1
+Tata,0,North Little Rock,1
+Tata,0,North Ridgeville,1
+Tata,0,Norwich,1
+Tata,0,Oak Ridge,1
+Tata,0,Oakdale,2
+Tata,0,Oakland Park,1
+Tata,0,Oakton,1
+Tata,0,Oakville,1
+Tata,0,Odenton,2
+Tata,0,Opelika,1
+Tata,0,Orange,1
+Tata,0,Oregon City,1
+Tata,0,Overland,1
+Tata,0,Overland Park,1
+Tata,0,Ozark,1
+Tata,0,Pacifica,1
+Tata,0,Palm Beach Gardens,1
+Tata,0,Palm Springs,1
+Tata,0,Palo Alto,1
+Tata,0,Paradise,1
+Tata,0,Pasadena,3
+Tata,0,Pearland,1
+Tata,0,Petersburg,1
+Tata,0,Pflugerville,1
+Tata,0,Phenix City,2
+Tata,0,Philadelphia,6
+Tata,0,Phoenix,1
+Tata,0,Plainview,1
+Tata,0,Plano,1
+Tata,0,Pleasure Ridge Park,1
+Tata,0,Plum,2
+Tata,0,Ponca City,1
+Tata,0,Ponte Vedra Beach,1
+Tata,0,Pontiac,1
+Tata,0,Port Charlotte,1
+Tata,0,Port Saint Lucie,1
+Tata,0,Portage,1
+Tata,0,Portland,2
+Tata,0,Post Falls,1
+Tata,0,Prairie Village,1
+Tata,0,Prescott,1
+Tata,0,Prior Lake,1
+Tata,0,Pueblo West,1
+Tata,0,Raleigh,2
+Tata,0,Red Wing,1
+Tata,0,Redford,1
+Tata,0,Rexburg,2
+Tata,0,Richfield,1
+Tata,0,Riverside,1
+Tata,0,Rock Hill,2
+Tata,0,Rock Island,1
+Tata,0,Rockford,2
+Tata,0,Rocklin,1
+Tata,0,Rome,1
+Tata,0,Romeoville,1
+Tata,0,Rose Hill,2
+Tata,0,Roseville,1
+Tata,0,Roswell,2
+Tata,0,Royal Oak,1
+Tata,0,Saco,1
+Tata,0,Saint Charles,2
+Tata,0,Saint Cloud,1
+Tata,0,Salem,1
+Tata,0,Salisbury,1
+Tata,0,San Diego,1
+Tata,0,San Francisco,1
+Tata,0,San Gabriel,1
+Tata,0,San Luis Obispo,1
+Tata,0,San Marcos,1
+Tata,0,Sanford,2
+Tata,0,Santa Ana,1
+Tata,0,Santa Clara,1
+Tata,0,Santa Cruz,2
+Tata,0,Santa Monica,2
+Tata,0,Sarasota,1
+Tata,0,Sault Sainte Marie,1
+Tata,0,Savannah,1
+Tata,0,Searcy,2
+Tata,0,Seattle,4
+Tata,0,Shaker Heights,1
+Tata,0,Sharon,1
+Tata,0,Shawnee,2
+Tata,0,Shelby,1
+Tata,0,Sherwood,1
+Tata,0,Sioux Falls,1
+Tata,0,Slidell,1
+Tata,0,South Boston,1
+Tata,0,South Burlington,1
+Tata,0,Southgate,1
+Tata,0,Spanaway,1
+Tata,0,Spanish Fork,1
+Tata,0,Spokane,1
+Tata,0,Spring Hill,1
+Tata,0,Springfield,2
+Tata,0,State College,1
+Tata,0,Sterling Heights,2
+Tata,0,Stillwater,1
+Tata,0,Stow,1
+Tata,0,Streamwood,2
+Tata,0,Strongsville,1
+Tata,0,Sugar Land,1
+Tata,0,Sulphur Springs,1
+Tata,0,Superior,1
+Tata,0,Tacoma,2
+Tata,0,Tempe,1
+Tata,0,Thornton,1
+Tata,0,Tigard,1
+Tata,0,Toledo,1
+Tata,0,Tonawanda,1
+Tata,0,Tooele,1
+Tata,0,Trenton,1
+Tata,0,Troy,2
+Tata,0,Tulsa,1
+Tata,0,Tuscaloosa,2
+Tata,0,Twentynine Palms,1
+Tata,0,Union,1
+Tata,0,Urbana,1
+Tata,0,Vacaville,1
+Tata,0,Vestavia Hills,1
+Tata,0,Walla Walla,1
+Tata,0,Warren,1
+Tata,0,Washington,2
+Tata,0,Watertown,2
+Tata,0,Waterville,2
+Tata,0,Waukesha,1
+Tata,0,Wayne,1
+Tata,0,Wenatchee,1
+Tata,0,West Jordan,1
+Tata,0,West Lafayette,1
+Tata,0,West Linn,1
+Tata,0,West Memphis,1
+Tata,0,West Mifflin,1
+Tata,0,Wheeling,1
+Tata,0,Whitehall,1
+Tata,0,Wilkes Barre,1
+Tata,0,Wilmette,1
+Tata,0,Winter Haven,2
+Tata,0,Woodburn,1
+Tata,0,Woodridge,1
+Tata,0,Wooster,1
+Tata,0,Worcester,1
+Tata,0,Yakima,1
+Tata,0,York,1
+Tata,1,Albuquerque,1
+Tata,1,Altoona,1
+Tata,1,Apex,1
+Tata,1,Arlington,1
+Tata,1,Atascadero,1
+Tata,1,Avenel,1
+Tata,1,Bangor,1
+Tata,1,Beaumont,1
+Tata,1,Bedford,1
+Tata,1,Bellevue,1
+Tata,1,Berea,1
+Tata,1,Blacksburg,2
+Tata,1,Boca Raton,1
+Tata,1,Boston,1
+Tata,1,Bothell,1
+Tata,1,Bowling Green,2
+Tata,1,Bozeman,1
+Tata,1,Bristol,1
+Tata,1,Brooklyn Park,1
+Tata,1,Brunswick,1
+Tata,1,Burlington,1
+Tata,1,Burnsville,1
+Tata,1,Camarillo,1
+Tata,1,Camp Springs,1
+Tata,1,Carol City,1
+Tata,1,Charleston,1
+Tata,1,Chester,1
+Tata,1,Chicago,3
+Tata,1,Chula Vista,1
+Tata,1,Cleveland,1
+Tata,1,Coachella,1
+Tata,1,Coconut Creek,2
+Tata,1,College Station,1
+Tata,1,Collierville,1
+Tata,1,Commerce City,1
+Tata,1,Concord,1
+Tata,1,Coralville,1
+Tata,1,Corsicana,1
+Tata,1,Cottage Lake,1
+Tata,1,Crown Point,1
+Tata,1,Deer Park,1
+Tata,1,Draper,1
+Tata,1,Dublin,1
+Tata,1,East Cleveland,1
+Tata,1,Eau Claire,1
+Tata,1,El Dorado Hills,1
+Tata,1,Englewood,1
+Tata,1,Essex Junction,1
+Tata,1,Fargo,1
+Tata,1,Fort Lauderdale,1
+Tata,1,Fort Thomas,1
+Tata,1,Gahanna,1
+Tata,1,Grand Island,1
+Tata,1,Grants Pass,1
+Tata,1,Green Bay,1
+Tata,1,Greenfield,1
+Tata,1,Greenville,2
+Tata,1,Hinesville,1
+Tata,1,Hobbs,1
+Tata,1,Homestead,1
+Tata,1,Immokalee,1
+Tata,1,Indian Trail,1
+Tata,1,Indianapolis,2
+Tata,1,Inglewood,1
+Tata,1,Kannapolis,1
+Tata,1,Kansas City,1
+Tata,1,Keene,1
+Tata,1,Kirkland,1
+Tata,1,Kokomo,1
+Tata,1,La Quinta,1
+Tata,1,La Vista,1
+Tata,1,Lake Elsinore,1
+Tata,1,Lake Worth,1
+Tata,1,Lakewood,1
+Tata,1,Lancaster,1
+Tata,1,Lehigh Acres,1
+Tata,1,Lewiston,2
+Tata,1,Linden,1
+Tata,1,Lindenhurst,1
+Tata,1,Los Angeles,2
+Tata,1,Maryland Heights,1
+Tata,1,McKeesport,1
+Tata,1,Mcminnville,1
+Tata,1,Midvale,1
+Tata,1,Minot,1
+Tata,1,Moline,2
+Tata,1,Morgan Hill,1
+Tata,1,Mundelein,1
+Tata,1,Myrtle Beach,2
+Tata,1,Naperville,1
+Tata,1,Naugatuck,1
+Tata,1,New York City,7
+Tata,1,Newark,1
+Tata,1,Newport News,1
+Tata,1,Newton,1
+Tata,1,Normal,1
+Tata,1,North Miami Beach,1
+Tata,1,Omaha,1
+Tata,1,Oregon City,1
+Tata,1,Orland Park,1
+Tata,1,Palm Harbor,1
+Tata,1,Parkersburg,1
+Tata,1,Petersburg,1
+Tata,1,Philadelphia,2
+Tata,1,Pikesville,1
+Tata,1,Pittsburgh,1
+Tata,1,Plainview,1
+Tata,1,Pleasure Ridge Park,1
+Tata,1,Port Charlotte,1
+Tata,1,Port Chester,2
+Tata,1,Prairie Village,1
+Tata,1,Prior Lake,1
+Tata,1,Rancho Cucamonga,1
+Tata,1,Red Wing,1
+Tata,1,Richland,1
+Tata,1,Rock Hill,1
+Tata,1,Rocky Mount,1
+Tata,1,Rogers,2
+Tata,1,Rose Hill,1
+Tata,1,Roswell,1
+Tata,1,Roy,1
+Tata,1,Saco,1
+Tata,1,Sacramento,1
+Tata,1,Saint Charles,1
+Tata,1,San Antonio,1
+Tata,1,San Diego,1
+Tata,1,San Francisco,1
+Tata,1,San Marcos,1
+Tata,1,Sanford,1
+Tata,1,Santa Clara,1
+Tata,1,Santa Maria,1
+Tata,1,Schererville,1
+Tata,1,Seattle,4
+Tata,1,Shawnee,1
+Tata,1,Silver Spring,1
+Tata,1,South Orange,1
+Tata,1,Springdale,1
+Tata,1,Superior,1
+Tata,1,Tampa,1
+Tata,1,Tempe,1
+Tata,1,Thornton,2
+Tata,1,Tigard,1
+Tata,1,Trenton,1
+Tata,1,Tucson,2
+Tata,1,Twentynine Palms,1
+Tata,1,University City,2
+Tata,1,Utica,1
+Tata,1,Visalia,1
+Tata,1,Washington,1
+Tata,1,Waterbury,1
+Tata,1,Watertown,1
+Tata,1,Waukegan,1
+Tata,1,Wenatchee,1
+Tata,1,Weslaco,1
+Tata,1,West Jordan,1
+Tata,1,West Valley City,1
+Tata,1,Westland,1
+Tata,1,Willoughby,1
+Tata,1,Wilmington,1
+Tata,1,Woodmere,1
+Tata,1,Yakima,1
+Tata,1,Yuma,1
+Tata,3,Glastonbury,1
+Toyota,0,Aiken,1
+Toyota,0,Alamogordo,2
+Toyota,0,Albany,3
+Toyota,0,Alexandria,1
+Toyota,0,Allen,2
+Toyota,0,Allentown,1
+Toyota,0,Alton,1
+Toyota,0,Altoona,1
+Toyota,0,Amesbury,1
+Toyota,0,Anderson,1
+Toyota,0,Ankeny,1
+Toyota,0,Ann Arbor,1
+Toyota,0,Apex,1
+Toyota,0,Apopka,1
+Toyota,0,Arlington,1
+Toyota,0,Atascadero,1
+Toyota,0,Atlanta,2
+Toyota,0,Augusta,1
+Toyota,0,Bakersfield,1
+Toyota,0,Baton Rouge,1
+Toyota,0,Bellingham,1
+Toyota,0,Benton,1
+Toyota,0,Berea,1
+Toyota,0,Billings,1
+Toyota,0,Binghamton,1
+Toyota,0,Birmingham,1
+Toyota,0,Bloomington,1
+Toyota,0,Bolingbrook,1
+Toyota,0,Boston,4
+Toyota,0,Brookings,1
+Toyota,0,Brooklyn Center,1
+Toyota,0,Broomfield,1
+Toyota,0,Bullhead City,2
+Toyota,0,Burbank,2
+Toyota,0,Burlington,2
+Toyota,0,Camp Springs,1
+Toyota,0,Carlsbad,1
+Toyota,0,Carrollton,2
+Toyota,0,Casselberry,1
+Toyota,0,Cedar Falls,1
+Toyota,0,Channelview,1
+Toyota,0,Charlotte,3
+Toyota,0,Chattanooga,1
+Toyota,0,Cheektowaga,1
+Toyota,0,Cheyenne,1
+Toyota,0,Chicago,2
+Toyota,0,Cleveland,1
+Toyota,0,Clovis,2
+Toyota,0,Coconut Creek,1
+Toyota,0,Columbus,2
+Toyota,0,Concord,1
+Toyota,0,Coral Springs,2
+Toyota,0,Corsicana,1
+Toyota,0,Crofton,1
+Toyota,0,Danville,1
+Toyota,0,Denton,1
+Toyota,0,Denver,1
+Toyota,0,Derry,1
+Toyota,0,Detroit,1
+Toyota,0,Dover,1
+Toyota,0,Dracut,1
+Toyota,0,Dubuque,1
+Toyota,0,Durango,5
+Toyota,0,Eagle,1
+Toyota,0,Eagle Pass,1
+Toyota,0,East Chicago,1
+Toyota,0,East Haven,1
+Toyota,0,East Massapequa,1
+Toyota,0,East Point,2
+Toyota,0,East Saint Louis,2
+Toyota,0,Edina,1
+Toyota,0,Edmonds,1
+Toyota,0,El Dorado Hills,1
+Toyota,0,El Paso,1
+Toyota,0,Elizabeth,1
+Toyota,0,Elmira,1
+Toyota,0,Emporia,1
+Toyota,0,Englewood,2
+Toyota,0,Euclid,1
+Toyota,0,Evanston,1
+Toyota,0,Fairmont,1
+Toyota,0,Fayetteville,1
+Toyota,0,Fitchburg,1
+Toyota,0,Florence,1
+Toyota,0,Flower Mound,1
+Toyota,0,Fort Lee,1
+Toyota,0,Franklin,1
+Toyota,0,Gadsden,1
+Toyota,0,Gainesville,3
+Toyota,0,Galesburg,1
+Toyota,0,Glen Ellyn,1
+Toyota,0,Goodyear,1
+Toyota,0,Grand Forks,1
+Toyota,0,Granger,1
+Toyota,0,Grants Pass,1
+Toyota,0,Greenville,1
+Toyota,0,Hagerstown,1
+Toyota,0,Hanover,1
+Toyota,0,Hazleton,1
+Toyota,0,Hempstead,1
+Toyota,0,High Point,1
+Toyota,0,Hilliard,1
+Toyota,0,Hillside,1
+Toyota,0,Hobart,1
+Toyota,0,Hobbs,1
+Toyota,0,Hoboken,1
+Toyota,0,Hoffman Estates,1
+Toyota,0,Horn Lake,1
+Toyota,0,Houston,1
+Toyota,0,Huntsville,1
+Toyota,0,Independence,1
+Toyota,0,Indianapolis,1
+Toyota,0,Issaquah,1
+Toyota,0,Jackson,1
+Toyota,0,Janesville,1
+Toyota,0,Jeffersonville,1
+Toyota,0,Joliet,1
+Toyota,0,Keizer,1
+Toyota,0,Kent,1
+Toyota,0,Kirkland,2
+Toyota,0,Kokomo,1
+Toyota,0,La Grange,1
+Toyota,0,Lake Oswego,1
+Toyota,0,Lakewood,1
+Toyota,0,Lancaster,2
+Toyota,0,Lawndale,1
+Toyota,0,Leawood,1
+Toyota,0,Lehigh Acres,1
+Toyota,0,Levittown,1
+Toyota,0,Lincoln,1
+Toyota,0,Littleton,1
+Toyota,0,Londonderry,1
+Toyota,0,Long Beach,1
+Toyota,0,Los Angeles,14
+Toyota,0,Lufkin,1
+Toyota,0,Madison Heights,2
+Toyota,0,Manhattan,1
+Toyota,0,Mankato,1
+Toyota,0,Manteca,1
+Toyota,0,Martinez,1
+Toyota,0,Mason City,2
+Toyota,0,Mechanicsville,1
+Toyota,0,Memphis,1
+Toyota,0,Merrillville,1
+Toyota,0,Merrimack,1
+Toyota,0,Mesquite,1
+Toyota,0,Miami,2
+Toyota,0,Middletown,1
+Toyota,0,Midland,1
+Toyota,0,Midvale,1
+Toyota,0,Miramar,1
+Toyota,0,Mobile,1
+Toyota,0,Monroe,1
+Toyota,0,Monroeville,1
+Toyota,0,Mooresville,1
+Toyota,0,Murfreesboro,1
+Toyota,0,Muskego,1
+Toyota,0,New Bern,1
+Toyota,0,New Milford,1
+Toyota,0,New York City,7
+Toyota,0,Newark,1
+Toyota,0,Newburyport,1
+Toyota,0,Newport News,1
+Toyota,0,Newton,1
+Toyota,0,Noblesville,1
+Toyota,0,Norfolk,3
+Toyota,0,North Miami Beach,1
+Toyota,0,North Platte,1
+Toyota,0,Oak Park,1
+Toyota,0,Odenton,2
+Toyota,0,Old Bridge,1
+Toyota,0,Ontario,1
+Toyota,0,Oregon City,1
+Toyota,0,Orem,1
+Toyota,0,Oro Valley,1
+Toyota,0,Oswego,1
+Toyota,0,Overland,1
+Toyota,0,Oxnard,1
+Toyota,0,Palm Coast,1
+Toyota,0,Papillion,2
+Toyota,0,Paragould,1
+Toyota,0,Park Ridge,1
+Toyota,0,Parkville,1
+Toyota,0,Penn Hills,1
+Toyota,0,Petaluma,1
+Toyota,0,Pflugerville,1
+Toyota,0,Pharr,2
+Toyota,0,Philadelphia,3
+Toyota,0,Pico Rivera,1
+Toyota,0,Plum,1
+Toyota,0,Ponte Vedra Beach,2
+Toyota,0,Port Arthur,1
+Toyota,0,Port Huron,1
+Toyota,0,Post Falls,1
+Toyota,0,Prescott,1
+Toyota,0,Prescott Valley,1
+Toyota,0,Pueblo West,1
+Toyota,0,Puyallup,1
+Toyota,0,Quincy,1
+Toyota,0,Radnor,1
+Toyota,0,Randallstown,1
+Toyota,0,Rapid City,1
+Toyota,0,Red Wing,1
+Toyota,0,Reno,1
+Toyota,0,Reston,1
+Toyota,0,Reynoldsburg,1
+Toyota,0,Richardson,1
+Toyota,0,Richmond,1
+Toyota,0,Rochester,1
+Toyota,0,Rose Hill,1
+Toyota,0,Rosenberg,1
+Toyota,0,Round Rock,1
+Toyota,0,Saint Cloud,1
+Toyota,0,Saint Peters,2
+Toyota,0,Salisbury,1
+Toyota,0,San Bernardino,1
+Toyota,0,San Clemente,1
+Toyota,0,San Diego,2
+Toyota,0,San Francisco,1
+Toyota,0,San Luis Obispo,1
+Toyota,0,Schenectady,1
+Toyota,0,Seatac,1
+Toyota,0,Seattle,7
+Toyota,0,Seminole,1
+Toyota,0,Sharon,1
+Toyota,0,Shawnee,1
+Toyota,0,Silver Spring,2
+Toyota,0,South Plainfield,1
+Toyota,0,South Portland,1
+Toyota,0,Southgate,1
+Toyota,0,Springfield,1
+Toyota,0,Stow,2
+Toyota,0,Streamwood,1
+Toyota,0,Sulphur Springs,1
+Toyota,0,Sun City,1
+Toyota,0,Swansea,1
+Toyota,0,Talladega,1
+Toyota,0,Tampa,1
+Toyota,0,Taylors,1
+Toyota,0,Temecula,1
+Toyota,0,Toledo,1
+Toyota,0,Tonawanda,1
+Toyota,0,Torrance,1
+Toyota,0,Troy,1
+Toyota,0,Twentynine Palms,1
+Toyota,0,Twin Falls,1
+Toyota,0,University City,1
+Toyota,0,Upper Arlington,1
+Toyota,0,Vincennes,2
+Toyota,0,Warren,1
+Toyota,0,Washington,1
+Toyota,0,Waterville,1
+Toyota,0,Weatherford,1
+Toyota,0,Wentzville,1
+Toyota,0,West Babylon,1
+Toyota,0,West Islip,1
+Toyota,0,West Lafayette,1
+Toyota,0,West Linn,1
+Toyota,0,Westlake,2
+Toyota,0,Wilkes Barre,1
+Toyota,0,Woodbury,1
+Toyota,0,Woodridge,1
+Toyota,0,Wooster,1
+Toyota,1,Allentown,1
+Toyota,1,Altoona,1
+Toyota,1,Atascadero,1
+Toyota,1,Bethel Park,1
+Toyota,1,Binghamton,1
+Toyota,1,Boca Raton,1
+Toyota,1,Bossier City,1
+Toyota,1,Boston,1
+Toyota,1,Bowie,1
+Toyota,1,Broomfield,1
+Toyota,1,Burlington,1
+Toyota,1,Burton,2
+Toyota,1,Butte,1
+Toyota,1,Camp Springs,1
+Toyota,1,Charleston,1
+Toyota,1,Chicago,1
+Toyota,1,College Park,1
+Toyota,1,Columbus,1
+Toyota,1,Danville,1
+Toyota,1,Derby,1
+Toyota,1,Detroit,2
+Toyota,1,Duncanville,1
+Toyota,1,Dundalk,1
+Toyota,1,East Brunswick,1
+Toyota,1,East Point,2
+Toyota,1,Edinburg,1
+Toyota,1,El Cajon,1
+Toyota,1,El Paso,1
+Toyota,1,Evans,2
+Toyota,1,Forest Park,1
+Toyota,1,Fort Wayne,1
+Toyota,1,Foster City,1
+Toyota,1,Gary,1
+Toyota,1,Gilbert,1
+Toyota,1,Goleta,1
+Toyota,1,Goodyear,1
+Toyota,1,Greensboro,1
+Toyota,1,Greenville,1
+Toyota,1,Helena,1
+Toyota,1,Hemet,1
+Toyota,1,Hialeah,1
+Toyota,1,Hickory,1
+Toyota,1,Hollywood,1
+Toyota,1,Hopkinsville,1
+Toyota,1,Indian Trail,2
+Toyota,1,Kalispell,1
+Toyota,1,Keizer,1
+Toyota,1,Kentwood,1
+Toyota,1,Kingman,1
+Toyota,1,Kokomo,1
+Toyota,1,Laguna Niguel,1
+Toyota,1,Lancaster,1
+Toyota,1,League City,1
+Toyota,1,Lewiston,2
+Toyota,1,Lubbock,1
+Toyota,1,Lufkin,1
+Toyota,1,Maple Grove,1
+Toyota,1,Martinez,2
+Toyota,1,Miami,2
+Toyota,1,New Bern,1
+Toyota,1,New Rochelle,1
+Toyota,1,New York City,6
+Toyota,1,North Little Rock,1
+Toyota,1,North Miami,1
+Toyota,1,Oak Lawn,1
+Toyota,1,Ozark,1
+Toyota,1,Pacifica,1
+Toyota,1,Panama City,1
+Toyota,1,Paradise,1
+Toyota,1,Penn Hills,1
+Toyota,1,Philadelphia,1
+Toyota,1,Pine Bluff,1
+Toyota,1,Pleasant Grove,2
+Toyota,1,Pleasantville,1
+Toyota,1,Portland,1
+Toyota,1,Puyallup,1
+Toyota,1,Quincy,1
+Toyota,1,Randallstown,1
+Toyota,1,Reston,1
+Toyota,1,Roanoke,1
+Toyota,1,Rosenberg,1
+Toyota,1,Rye,1
+Toyota,1,Saco,2
+Toyota,1,Sanford,1
+Toyota,1,Santa Fe,2
+Toyota,1,Santa Rosa,1
+Toyota,1,Seattle,2
+Toyota,1,South Burlington,1
+Toyota,1,Springville,2
+Toyota,1,Syracuse,1
+Toyota,1,Tacoma,1
+Toyota,1,Terre Haute,1
+Toyota,1,Thomasville,1
+Toyota,1,Thousand Oaks,1
+Toyota,1,Tonawanda,1
+Toyota,1,Urbana,1
+Toyota,1,Vancouver,1
+Toyota,1,Washington,1
+Toyota,1,West Hollywood,1
+Toyota,1,West Scarborough,1
+Volkswagen,0,Altamonte Springs,1
+Volkswagen,0,Alton,2
+Volkswagen,0,Anacortes,1
+Volkswagen,0,Ann Arbor,1
+Volkswagen,0,Beaumont,1
+Volkswagen,0,Bedford,1
+Volkswagen,0,Belleville,1
+Volkswagen,0,Bellevue,1
+Volkswagen,0,Belmont,1
+Volkswagen,0,Boston,2
+Volkswagen,0,Bremerton,1
+Volkswagen,0,Bristol,1
+Volkswagen,0,Caldwell,1
+Volkswagen,0,Carrollton,1
+Volkswagen,0,Charleston,1
+Volkswagen,0,Charlotte,2
+Volkswagen,0,Chicago,4
+Volkswagen,0,Clinton,1
+Volkswagen,0,Colchester,1
+Volkswagen,0,Colonia,2
+Volkswagen,0,Delaware,1
+Volkswagen,0,Draper,1
+Volkswagen,0,Durango,1
+Volkswagen,0,Durham,1
+Volkswagen,0,Enid,1
+Volkswagen,0,Fairfield,2
+Volkswagen,0,Farmers Branch,1
+Volkswagen,0,Fayetteville,1
+Volkswagen,0,Flower Mound,1
+Volkswagen,0,Fort Dodge,2
+Volkswagen,0,Fort Lauderdale,1
+Volkswagen,0,Fort Myers,1
+Volkswagen,0,Freeport,1
+Volkswagen,0,Gainesville,1
+Volkswagen,0,Georgetown,1
+Volkswagen,0,Glendale,1
+Volkswagen,0,Greenville,1
+Volkswagen,0,Haverhill,1
+Volkswagen,0,Hazelwood,1
+Volkswagen,0,Highland,1
+Volkswagen,0,Hoffman Estates,1
+Volkswagen,0,Holbrook,2
+Volkswagen,0,Hopkinsville,1
+Volkswagen,0,Janesville,1
+Volkswagen,0,Kankakee,1
+Volkswagen,0,Kingsport,1
+Volkswagen,0,La Grange,1
+Volkswagen,0,Land O Lakes,1
+Volkswagen,0,Laredo,1
+Volkswagen,0,Layton,1
+Volkswagen,0,Levittown,1
+Volkswagen,0,Livonia,1
+Volkswagen,0,Los Angeles,1
+Volkswagen,0,Macon,1
+Volkswagen,0,Madison,1
+Volkswagen,0,Meridian,1
+Volkswagen,0,Mesquite,1
+Volkswagen,0,Monroeville,1
+Volkswagen,0,Morristown,1
+Volkswagen,0,Mount Pleasant,1
+Volkswagen,0,Murrieta,1
+Volkswagen,0,Muskego,1
+Volkswagen,0,New Orleans,1
+Volkswagen,0,New York City,1
+Volkswagen,0,Newton,1
+Volkswagen,0,Novi,1
+Volkswagen,0,Oak Creek,1
+Volkswagen,0,Oakland,2
+Volkswagen,0,Ocoee,1
+Volkswagen,0,Ogden,1
+Volkswagen,0,Oshkosh,1
+Volkswagen,0,Oswego,2
+Volkswagen,0,Overland Park,1
+Volkswagen,0,Oxford,2
+Volkswagen,0,Plano,1
+Volkswagen,0,Pomona,1
+Volkswagen,0,Ponte Vedra Beach,1
+Volkswagen,0,Potomac,1
+Volkswagen,0,Prattville,1
+Volkswagen,0,Quincy,1
+Volkswagen,0,Rancho Cucamonga,1
+Volkswagen,0,Reading,1
+Volkswagen,0,Red Wing,1
+Volkswagen,0,Redlands,1
+Volkswagen,0,Rexburg,1
+Volkswagen,0,Rockford,1
+Volkswagen,0,Roswell,1
+Volkswagen,0,Saginaw,1
+Volkswagen,0,Saint Cloud,1
+Volkswagen,0,Saint Petersburg,1
+Volkswagen,0,Sanford,1
+Volkswagen,0,Santa Clara,1
+Volkswagen,0,Seatac,1
+Volkswagen,0,Seattle,1
+Volkswagen,0,Shirley,1
+Volkswagen,0,Shreveport,1
+Volkswagen,0,Skokie,1
+Volkswagen,0,Springfield,1
+Volkswagen,0,Stockton,2
+Volkswagen,0,Streamwood,1
+Volkswagen,0,The Colony,1
+Volkswagen,0,Topeka,1
+Volkswagen,0,Tracy,1
+Volkswagen,0,Upper Saint Clair,1
+Volkswagen,0,Valley Stream,1
+Volkswagen,0,Vancouver,1
+Volkswagen,0,Vestavia Hills,1
+Volkswagen,0,Washington,2
+Volkswagen,0,West Linn,1
+Volkswagen,0,Westbrook,1
+Volkswagen,0,Wichita,1
+Volkswagen,0,Wilmette,2
+Volkswagen,0,Woodbury,1
+Volkswagen,0,Wooster,1
+Volkswagen,0,York,1
+Volkswagen,1,Atlanta,1
+Volkswagen,1,Aurora,1
+Volkswagen,1,Beaverton,1
+Volkswagen,1,Bennington,1
+Volkswagen,1,Brownsville,1
+Volkswagen,1,Bryant,2
+Volkswagen,1,Calexico,1
+Volkswagen,1,Carlsbad,1
+Volkswagen,1,Charlotte,1
+Volkswagen,1,Council Bluffs,1
+Volkswagen,1,Fayetteville,1
+Volkswagen,1,Flower Mound,1
+Volkswagen,1,Harrisonburg,1
+Volkswagen,1,Highlands Ranch,1
+Volkswagen,1,Horn Lake,1
+Volkswagen,1,Inglewood,1
+Volkswagen,1,Kenmore,1
+Volkswagen,1,Land O Lakes,1
+Volkswagen,1,Las Cruces,1
+Volkswagen,1,Los Angeles,2
+Volkswagen,1,Mandan,2
+Volkswagen,1,Mehlville,1
+Volkswagen,1,Mesa,1
+Volkswagen,1,Milwaukee,1
+Volkswagen,1,Mobile,1
+Volkswagen,1,Monroeville,1
+Volkswagen,1,Morgantown,1
+Volkswagen,1,Nashville,1
+Volkswagen,1,New York City,1
+Volkswagen,1,Newport News,2
+Volkswagen,1,Oakland,1
+Volkswagen,1,Parkersburg,1
+Volkswagen,1,Philadelphia,1
+Volkswagen,1,Port Arthur,1
+Volkswagen,1,Prior Lake,1
+Volkswagen,1,Pueblo,1
+Volkswagen,1,Redmond,2
+Volkswagen,1,Rosenberg,1
+Volkswagen,1,Santa Clara,1
+Volkswagen,1,Sherwood,1
+Volkswagen,1,Shreveport,1
+Volkswagen,1,Waco,1
+Volkswagen,1,Warren,1
+Volkswagen,1,Washington,1
+Volkswagen,1,West Scarborough,1
+Volkswagen,1,West Springfield,1
+Volkswagen,1,Westminster,1
+Volkswagen,1,Willoughby,1
+Volkswagen,1,Wyckoff,1
+Volvo,0,Adrian,1
+Volvo,0,Atascadero,1
+Volvo,0,Bartlesville,1
+Volvo,0,Bartlett,1
+Volvo,0,Baton Rouge,1
+Volvo,0,Bethel Park,1
+Volvo,0,Bowie,1
+Volvo,0,Bryan,1
+Volvo,0,Buffalo,1
+Volvo,0,Castle Rock,1
+Volvo,0,Chicago,1
+Volvo,0,Cleveland Heights,1
+Volvo,0,College Park,1
+Volvo,0,Danville,1
+Volvo,0,Detroit,2
+Volvo,0,Dundalk,1
+Volvo,0,Eagle Pass,1
+Volvo,0,East Point,1
+Volvo,0,Elmira,1
+Volvo,0,Evans,1
+Volvo,0,Fort Wayne,1
+Volvo,0,Friendswood,1
+Volvo,0,Garden City,1
+Volvo,0,Garfield Heights,1
+Volvo,0,Garner,1
+Volvo,0,Glendale,1
+Volvo,0,Goldsboro,1
+Volvo,0,Greensboro,1
+Volvo,0,Inkster,1
+Volvo,0,League City,1
+Volvo,0,Lehigh Acres,1
+Volvo,0,Little Rock,1
+Volvo,0,Littleton,1
+Volvo,0,Los Angeles,2
+Volvo,0,Lufkin,1
+Volvo,0,Mankato,1
+Volvo,0,Martinez,1
+Volvo,0,Middle River,1
+Volvo,0,Murray,1
+Volvo,0,Norfolk,1
+Volvo,0,North Haven,1
+Volvo,0,Oak Forest,1
+Volvo,0,Oak Park,1
+Volvo,0,Pacifica,1
+Volvo,0,Paragould,1
+Volvo,0,Pearl,1
+Volvo,0,Pharr,1
+Volvo,0,Philadelphia,1
+Volvo,0,Poinciana,1
+Volvo,0,Prairie Village,1
+Volvo,0,Rochester,1
+Volvo,0,Roseville,1
+Volvo,0,Roswell,1
+Volvo,0,Royal Palm Beach,1
+Volvo,0,Salisbury,1
+Volvo,0,Sioux Falls,1
+Volvo,0,Sugar Land,1
+Volvo,0,Syracuse,1
+Volvo,0,Tacoma,1
+Volvo,0,Vancouver,1
+Volvo,0,Washington,2
+Volvo,0,Westbrook,1
+Volvo,0,Westerville,1
+Volvo,1,New York City,1
